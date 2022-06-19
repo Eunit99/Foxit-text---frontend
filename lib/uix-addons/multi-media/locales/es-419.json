@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "title": "Audio y Video"
+  },
+  "dialog": {
+    "RequireHTTPS": "Esta función de audio requiere HTTPS para continuar.",
+    "DeviceNotFoundError": "No hay micrófono.",
+    "TrackStartError": "El micrófono ya está ocupado.",
+    "PermissionDeniedError": "Compruebe si su navegador permite el uso de un micrófono.",
+    "BrowserNotSupported": "Navegador no compatible.",
+    "chooseFile": "Elegir archivo",
+    "rec-file-label": "Archivo: ",
+    "rec-recorder-label": "Grabadora: ",
+    "rec-recording-tip": "Grabando...",
+    "rec-poster-file-label": "Archivo de cartel: ",
+    "ok": "Aceptar",
+    "cancel": "Cancelar"
+  }
+}

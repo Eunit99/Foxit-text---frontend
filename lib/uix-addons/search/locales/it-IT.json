@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "Trova opzioni",
+      "searchFeatures": "funzionalità di ricerca",
+      "placeholder": "Cerca"
+    },
+    "basicOption": {
+      "wholeWordOnly": "Solo parole intere",
+      "caseSensitive": "Maiuscole/minuscole",
+      "includeBookmark": "Includi segnalibri",
+      "includeComments": "Includi commenti",
+      "highlight": "Evidenzia tutto il testo",
+      "properties": "Proprietà"
+    },
+    "prop": {
+      "ok": "OK",
+      "cancel": "Annulla",
+      "title": "Proprietà",
+      "intro": "Aspetto dei risultati di ricerca:",
+      "color": "Colore:",
+      "opacity": "Opacità:"
+    },
+    "searchType": {
+      "advanced": "Ricerca avanzata",
+      "replace": "Cerca e sostituisci",
+      "redact": "Cerca e rivedi",
+      "highlight": "Cerca ed evidenzia"
+    }
+  },
+  "noMore": "Ricerca terminata. Nessuna altra corrispondenza trovata.",
+  "searchPanel": {
+    "mode": {
+      "exact": "Corrispondenza parola o frase esatta",
+      "any": "Corrispondenza con qualsiasi parola",
+      "pattern": "Simile al modello di ricerca",
+      "multiple": "Più parole o frase",
+      "profile": "Profili redazione"
+    },
+    "pattern": {
+      "select": "Seleziona modello",
+      "phone": "Numero di telefono",
+      "date": "Data",
+      "security": "Numero Previdenza Sociale",
+      "email": "Indirizzo e-mail",
+      "credit": "Numero carta di credito",
+      "bank": "IBAN",
+      "driving": "Numero patente"
+    },
+    "text": {
+      "wordOrPhrase": "Quale parola o frase si desidera cercare?",
+      "searching": "Ricerca in corso",
+      "country": "Paese/Area geografica",
+      "selectProfile": "Seleziona profilo esistente",
+      "or": "O",
+      "newWord": "Nuova parola o frase:",
+      "list": "Elenco di parole e frasi:",
+      "profileList": "Elenco profili",
+      "profileName": "Nome profilo:",
+      "overlayText": "Testo sovrapposto:",
+      "wordOverlayList": "Elenco di parole/frasi e testi sovrapposti:",
+      "lookingFor": "Elementi cercati:",
+      "lookingWordRes": "${1} nel documento corrente",
+      "lookingMulRes": "Più frasi nel documento corrente",
+      "lookingPatternRes": "${1} nel documento corrente",
+      "results": "Risultati:",
+      "resultCount": "${2} documento(i) con ${1} istanza(e)",
+      "markOptions": "Opzioni di contrassegno per la redazione",
+      "markByPos": "Contrassegna ${} caratteri da ${} per la redazione",
+      "markByCount": "Contrassegna dal carattere ${} al carattere ${} per la redazione",
+      "profileHeader": "Parola/frase",
+      "resultMetaData": "${1} istanza(e) nei metadati"
+    },
+    "options": {
+      "wholeWordsOnly": "Solo parole intere",
+      "caseSensitive": "Maiuscole/minuscole",
+      "includeBookmarks": "Includi segnalibri",
+      "includeComments": "Includi commenti",
+      "includeAttachments": "Includi allegati",
+      "stemming": "Stemming",
+      "highlight": "Evidenzia tutto il testo",
+      "autoSize": "Adatta sempre automaticamente il testo alle dimensioni dell'area di redazione",
+      "beginning": "inizio",
+      "end": "fine"
+    },
+    "button": {
+      "more": "Più >>",
+      "less": "Meno >>",
+      "search": "Cerca",
+      "selectWords": "Seleziona parole...",
+      "selectProfile": "Seleziona...",
+      "manage": "Gestisci",
+      "create": "Crea",
+      "add": "Aggiungi",
+      "remove": "Rimuovi",
+      "import": "Importa...",
+      "export": "Esporta...",
+      "edit": "Modifica",
+      "delete": "Elimina",
+      "close": "Chiudi",
+      "importProfile": "Importa",
+      "exportProfile": "Esporta",
+      "save": "Salva",
+      "saveAndSearch": "Salva e cerca",
+      "cancel": "Annulla",
+      "newSearch": "Nuova ricerca",
+      "checkAll": "Seleziona tutto",
+      "markRedaction": "Segna risultati selezionati per redazione",
+      "applyRedaction": "Applica redazioni",
+      "markWholeWord": "Contrassegna le parole intere per redazione",
+      "markPartialWord": "Contrassegna le parole parziali per redazione",
+      "setting": "Impostazioni...",
+      "loadMore": "Altro",
+      "text-highlight": "Evidenzia testo"
+    },
+    "country": {
+      "Brazil": "Brasile",
+      "Canada": "Canada",
+      "China": "Cina",
+      "Denmark": "Danimarca",
+      "Finland": "Finlandia",
+      "France": "Francia",
+      "Germany": "Germania",
+      "Hong Kong/Taiwan": "Hong Kong/Taiwan",
+      "Iceland": "Islanda",
+      "Ireland": "Irlanda",
+      "Japan": "Giappone",
+      "Korea": "Coreano",
+      "Norway": "Norvegia",
+      "Spain": "Spagna",
+      "Sweden": "Svezia",
+      "Turkey": "Turchia",
+      "United Kingdom": "Regno Unito",
+      "United States": "Stati Uniti"
+    },
+    "dialog": {
+      "selectWord": "Parole e frasi da cercare & Rimuovi testo",
+      "manageProfile": "Gestisci profili",
+      "createProfile": "Crea nuovo profilo",
+      "partialRedaction": "Impostazioni",
+      "modified": "Poiché questo documento è stato modificato, il risultato della ricerca non è valido.\n\nVuoi cercare di nuovo?",
+      "noModifyPerm": "Non disponi dell'autorizzazione per applicare la redazione al contenuto selezionato. ",
+      "existInHide": "Il risultato si trova in un layer attualmente invisibile. Rendere il layer visibile?"
+    },
+    "table": {
+      "wordPhrase": "Parola/frase",
+      "overlayText": "Testo sovrapposto"
+    },
+    "csv": {
+      "results": "Risultati della ricerca",
+      "summary": "Riepilogo",
+      "savedOn": "Salvato in",
+      "search": "Eseguita ricerca di",
+      "count": "Numero di istanze trovate",
+      "fileName": "Nome file",
+      "title": "Titolo",
+      "page": "Pagina",
+      "searchInstance": "Cerca istanza",
+      "metadata": "Metadati documento"
+    }
+  }
+}

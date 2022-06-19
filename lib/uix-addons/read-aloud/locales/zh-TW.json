@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "讀取",
+      "desc": "大聲朗讀文件"
+    },
+    "activate-read": {
+      "text": "啟用讀取",
+      "desc": "啟用讀取 Shift+Ctrl+Y",
+      "descSub": "「啟用讀取」會啟用讀取功能"
+    },
+    "deactivate-read": {
+      "text": "停用讀取",
+      "desc": "停用讀取 Shift+Ctrl+Y",
+      "descSub": "「停用讀取」會停用讀取功能。"
+    },
+    "read-current-page": {
+      "text": "閱讀目前頁面",
+      "desc": "閱讀當前頁面 Shift+Ctrl+V",
+      "descSub": "僅閱讀目前頁面文字"
+    },
+    "read-from-current-page": {
+      "text": "從目前頁面閱讀",
+      "desc": "從當前頁面閱讀 Shift+Ctrl+B",
+      "descSub": "閱讀本文件目前頁面到最後的文字"
+    },
+    "stop": {
+      "text": "停止",
+      "desc": "停止 Shift+Ctrl+E",
+      "descSub": "停止大聲朗讀"
+    },
+    "rate": {
+      "text": "速率",
+      "desc": "速率",
+      "descSub": "拖曳以調整為更快或更慢的速度"
+    },
+    "volume": {
+      "text": "音量",
+      "desc": "音量",
+      "descSub": "拖曳以調高或調低音量"
+    },
+    "pause": {
+      "text": "暫停",
+      "desc": "暫停 Shift+Ctrl+C",
+      "descSub": "暫停大聲朗讀"
+    },
+    "resume": {
+      "text": "繼續",
+      "desc": "恢復 Shift+Ctrl+C",
+      "descSub": "繼續大聲朗讀"
+    }
+  },
+  "error": {
+    "document-not-openned": "無法大聲朗讀，因為沒有打開文檔",
+    "permDenyCopyContent": "您沒有權限，無法從此文件複製內容。 "
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "ribbon": {
+    "text": "JavaScript"
+  },
+  "button-tooltip": {
+    "title": "JavaScript innerhalb dieses Dokuments hinzufügen, ändern und testen"
+  },
+  "document-javascript": {
+    "text": "Dokument-JavaScript",
+    "title": "JavaScript-Funktionen hinzufügen und verwalten",
+    "dialog": {
+      "title": "JavaScript-Funktionen",
+      "name": "Skriptname",
+      "close": "Schließen",
+      "add": "Hinzufügen ...",
+      "edit": "Bearbeiten ...",
+      "delete": "Löschen"
+    }
+  },
+  "document-action": {
+    "text": "Dokumentaktion",
+    "title": "JavaScript-Dokumentvorgänge bearbeiten",
+    "dialog": {
+      "title": "Dokumentvorgänge",
+      "name": "Situation...",
+      "edit": "Bearbeiten ...",
+      "sub-name": "Dieses JavaScript ausführen:",
+      "ok": "OK",
+      "cancel": "Abbrechen",
+      "doc-will-close": "Dokument wird geschlossen",
+      "doc-will-save": "Dokument wird gespeichert",
+      "doc-did-save": "Dokument wurde gespeichert",
+      "doc-did-saved": "Dokument gespeichert",
+      "doc-will-print": "Dokument wird gedruckt",
+      "doc-did-print": "Dokument wurde gedruckt",
+      "doc-did-printed": "Dokument gedruckt",
+      "enable-tip": "JavaScript ist derzeit deaktiviert und wird im Dokument für einige Funktionen verwendet. Die Aktivierung von JavaScript kann einige Sicherheitsrisiken bergen."
+    }
+  },
+  "javascript-console": {
+    "text": "JavaScript-Konsole",
+    "title": "JavaScript-Code ausführen und debuggen",
+    "dialog": {
+      "title": "JavaScript-Konsole",
+      "name": "JavaScript-Konsole",
+      "run": "Ausführen",
+      "clear": "Löschen",
+      "close": "Schließen",
+      "exec": "Konsole: exec",
+      "fail": "Linie:",
+      "success": "Ausführung erfolgreich."
+    },
+    "checkbox": {
+      "info": "Hilfe beim Bearbeiten anzeigen"
+    }
+  },
+  "edit-all-javascript": {
+    "text": "Alle JavaScripts bearbeiten",
+    "title": "Alle JavaScripts im Dokument bearbeiten",
+    "dialog": {
+      "title": "JavaScript-Editor",
+      "sub-title": "JavaScripts erstellen und bearbeiten",
+      "ok": "OK",
+      "cancel": "Abbrechen",
+      "go": "Gehe zu...",
+      "ln": "Ln",
+      "col": "Col",
+      "go-title": "Gehe zu Zeile",
+      "go-sub-title": "Zeilennummer:"
+    }
+  }
+}

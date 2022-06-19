@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "Find options",
+      "searchFeatures": "search features",
+      "placeholder": "Search"
+    },
+    "basicOption": {
+      "wholeWordOnly": "Whole Words Only",
+      "caseSensitive": "Case-Sensitive",
+      "includeBookmark": "Include Bookmarks",
+      "includeComments": "Include Comments",
+      "highlight": "Highlight All Text",
+      "properties": "Properties"
+    },
+    "prop": {
+      "ok": "OK",
+      "cancel": "Cancel",
+      "title": "Properties",
+      "intro": "Appearance of search result:",
+      "color": "Color:",
+      "opacity": "Opacity:"
+    },
+    "searchType": {
+      "advanced": "Advanced Search",
+      "replace": "Search & Replace",
+      "redact": "Search & Redact",
+      "highlight": "Search & Highlight"
+    }
+  },
+  "noMore":"Searching finished. No more matches were found.",
+  "searchPanel": {
+    "mode": {
+      "exact": "Match exact word or phrase",
+      "any": "Match any of the words",
+      "pattern": "Looks like search pattern",
+      "multiple": "Multiple words or phrase",
+      "profile": "Redaction Profiles"
+    },
+    "pattern": {
+      "select": "Select your pattern",
+      "phone": "Phone Number",
+      "date": "Date",
+      "security": "Social Security Number",
+      "email": "Email Address",
+      "credit": "Credit Card Number",
+      "bank": "International Bank Account Number",
+      "driving": "Driving License Number"
+    },
+    "text": {
+      "wordOrPhrase": "What word or phrase would you like to search for?",
+      "searching": "Searching",
+      "country": "Country/Region",
+      "selectProfile": "Select existing profile",
+      "or": "OR",
+      "newWord": "New word or phrase:",
+      "list": "Word and phrase list:",
+      "profileList": "Profile List",
+      "profileName": "Profile name:",
+      "overlayText": "Overlay text:",
+      "wordOverlayList": "Word/Phrase and overlay text list:",
+      "lookingFor": "Looking For:",
+      "lookingWordRes": "${1} in Current Document",
+      "lookingMulRes": "Multiple phrases in Current Document",
+      "lookingPatternRes": "${1} in Current Document",
+      "results": "Results:",
+      "resultCount": "${2} document(s) with ${1} instance(s)",
+      "markOptions": "Redaction Mark Options",
+      "markByPos": "Mark ${} character(s) from ${} for redaction",
+      "markByCount": "Mark from ${} character to ${} character for redaction",
+      "profileHeader": "Word/Phrase",
+      "resultMetaData": "${1} instance(s) in metadata"
+    },
+    "options": {
+      "wholeWordsOnly": "Whole Words Only",
+      "caseSensitive": "Case-Sensitive",
+      "includeBookmarks": "Include Bookmarks",
+      "includeComments": "Include Comments",
+      "includeAttachments": "Include Attachments",
+      "stemming": "Stemming",
+      "highlight": "Highlight All Text",
+      "autoSize": "Always Auto-Size text to fit redaction region",
+      "beginning": "beginning",
+      "end": "end"
+    },
+    "button": {
+      "more": "More >>",
+      "less": "Less >>",
+      "search": "Search",
+      "selectWords": "Select Words...",
+      "selectProfile": "Select...",
+      "manage": "Manage",
+      "create": "Create",
+      "add": "Add",
+      "remove": "Remove",
+      "import": "Import...",
+      "export": "Export...",
+      "edit": "Edit",
+      "delete": "Delete",
+      "close": "Close",
+      "importProfile": "Import",
+      "exportProfile": "Export",
+      "save": "Save",
+      "saveAndSearch": "Save & Search",
+      "cancel": "Cancel",
+      "newSearch": "New Search",
+      "checkAll": "Check All",
+      "markRedaction": "Mark Checked Results for Redaction",
+      "applyRedaction": "Apply Redactions",
+      "markWholeWord": "Mark whole word(s) for redaction",
+      "markPartialWord": "Mark partial word(s) for redaction",
+      "setting": "Settings...",
+      "loadMore": "More",
+      "text-highlight": "Highlight text"
+    },
+    "country": {
+      "Brazil": "Brazil",
+      "Canada": "Canada",
+      "China": "China",
+      "Denmark": "Denmark",
+      "Finland": "Finland",
+      "France": "France",
+      "Germany": "Germany",
+      "Hong Kong/Taiwan": "Hong Kong/Taiwan",
+      "Iceland": "Iceland",
+      "Ireland": "Ireland",
+      "Japan": "Japan",
+      "Korea": "Korea",
+      "Norway": "Norway",
+      "Spain": "Spain",
+      "Sweden": "Sweden",
+      "Turkey": "Turkey",
+      "United Kingdom": "United Kingdom",
+      "United States": "United States"
+    },
+    "dialog": {
+      "selectWord": "Words and Phrases to Search & Remove Text",
+      "manageProfile": "Manage Profiles",
+      "createProfile": "Create New Profile",
+      "partialRedaction": "Settings",
+      "modified": "Since this document has been modified, the search result is invalid. \n\n Do you want to search again?",
+      "noModifyPerm": "You do not have permission to apply redaction on the selected content. ",
+      "existInHide": "The result existed on a layer that is invisible currently. Do you want to make the layer visible now?"
+    },
+    "table": {
+      "wordPhrase": "Word/Phrase",
+      "overlayText": "Overlay text"
+    },
+    "csv": {
+      "results": "Search Results",
+      "summary": "Summary",
+      "savedOn": "Saved on",
+      "search": "Searched for",
+      "count": "Number of instance(s) found",
+      "fileName": "File name",
+      "title": "Title",
+      "page": "Page",
+      "searchInstance": "Search Instance",
+      "metadata": "Document Metadata"
+    }
+  }
+}

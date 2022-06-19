@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "Options de recherche",
+      "searchFeatures": "fonctions de recherche",
+      "placeholder": "Rechercher"
+    },
+    "basicOption": {
+      "wholeWordOnly": "Mots entiers uniquement",
+      "caseSensitive": "Sensible à la casse",
+      "includeBookmark": "Inclure les signets",
+      "includeComments": "Inclure les commentaires",
+      "highlight": "Mettre le texte en évidence",
+      "properties": "Propriétés"
+    },
+    "prop": {
+      "ok": "OK",
+      "cancel": "Annuler",
+      "title": "Propriétés",
+      "intro": "Apparence du résultat de la recherche :",
+      "color": "Couleur :",
+      "opacity": "Opacité :"
+    },
+    "searchType": {
+      "advanced": "Recherche avancée",
+      "replace": "Rechercher et remplacer",
+      "redact": "Rechercher et Censurer",
+      "highlight": "Rechercher et mettre en évidence"
+    }
+  },
+  "noMore": "Fin de la recherche. Aucune autre correspondance n'a été trouvée.",
+  "searchPanel": {
+    "mode": {
+      "exact": "Correspondance exacte avec le mot ou la phrase",
+      "any": "Correspondance avec l'un des mots",
+      "pattern": "Motif de recherche semblable à",
+      "multiple": "Plusieurs mots ou une phrase",
+      "profile": "Profils de censure"
+    },
+    "pattern": {
+      "select": "Sélectionnez votre modèle",
+      "phone": "Numéro de téléphone",
+      "date": "Date",
+      "security": "Numéro de sécurité sociale",
+      "email": "Adresse e-mail",
+      "credit": "Numéro de carte de crédit",
+      "bank": "Numéro de compte bancaire international",
+      "driving": "Numéro de permis de conduire"
+    },
+    "text": {
+      "wordOrPhrase": "Quel mot ou quelle expression voulez-vous rechercher ?",
+      "searching": "Recherche",
+      "country": "Pays/Région",
+      "selectProfile": "Sélectionner un profil existant",
+      "or": "ou",
+      "newWord": "Nouveau mot ou nouvelle phrase :",
+      "list": "Liste de mots et phrases :",
+      "profileList": "Liste de profils",
+      "profileName": "Nom du profil :",
+      "overlayText": "Texte de recouvrement :",
+      "wordOverlayList": "Mot/Phrase et liste de textes de recouvrement :",
+      "lookingFor": "Recherche de :",
+      "lookingWordRes": "${1} dans le document actif",
+      "lookingMulRes": "Plusieurs phrases dans le document actif",
+      "lookingPatternRes": "${1} dans le document actif",
+      "results": "Résultats :",
+      "resultCount": "${2} document(s) avec ${1} instance(s)",
+      "markOptions": "Options de marques de censure",
+      "markByPos": "Marquer ${} caractère(s) depuis ${} pour la censure",
+      "markByCount": "Marquer depuis le caractère ${} jusqu'au caractère ${} pour la censure",
+      "profileHeader": "Mot/Phrase",
+      "resultMetaData": "${1} instance(s) dans les métadonnées"
+    },
+    "options": {
+      "wholeWordsOnly": "Mots entiers uniquement",
+      "caseSensitive": "Sensible à la casse",
+      "includeBookmarks": "Inclure les signets",
+      "includeComments": "Inclure les commentaires",
+      "includeAttachments": "Inclure les pièces jointes",
+      "stemming": "Recherche de radical",
+      "highlight": "Mettre le texte en évidence",
+      "autoSize": "Toujours ajuster automatiquement le texte à la zone de censure",
+      "beginning": "début",
+      "end": "fin"
+    },
+    "button": {
+      "more": "Plus >>",
+      "less": "Moins >>",
+      "search": "Rechercher",
+      "selectWords": "Sélectionnez les mots…",
+      "selectProfile": "Sélectionner...",
+      "manage": "Gérer",
+      "create": "Créer",
+      "add": "Ajouter",
+      "remove": "Supprimer",
+      "import": "Importer…",
+      "export": "Exporter…",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "close": "Fermer",
+      "importProfile": "Importer",
+      "exportProfile": "Exporter",
+      "save": "Enregistrer",
+      "saveAndSearch": "Enregistrer et rechercher",
+      "cancel": "Annuler",
+      "newSearch": "Relancer",
+      "checkAll": "Vérifier tout",
+      "markRedaction": "Marquer les résultats vérifiés pour la censure",
+      "applyRedaction": "Appliquer les censures",
+      "markWholeWord": "Marquer le(s) mots(s) partiel(s) pour la censure",
+      "markPartialWord": "Marquer le(s) mot(s) partiel(s) pour la censure",
+      "setting": "Paramètres...",
+      "loadMore": "Plus",
+      "text-highlight": "Mettre le texte en évidence"
+    },
+    "country": {
+      "Brazil": "Brésil",
+      "Canada": "Canada",
+      "China": "Chine",
+      "Denmark": "Danemark",
+      "Finland": "Finlande",
+      "France": "France",
+      "Germany": "Allemagne",
+      "Hong Kong/Taiwan": "Hong Kong/Taïwan",
+      "Iceland": "Islande",
+      "Ireland": "Irlande",
+      "Japan": "Japon",
+      "Korea": "Corée",
+      "Norway": "Norvège",
+      "Spain": "Espagne",
+      "Sweden": "Suède",
+      "Turkey": "Turquie",
+      "United Kingdom": "Royaume-Uni",
+      "United States": "États-Unis"
+    },
+    "dialog": {
+      "selectWord": "Mots et phrases pour rechercher et supprimer du texte",
+      "manageProfile": "Gérer les profils",
+      "createProfile": "Créer un profil",
+      "partialRedaction": "Paramètres",
+      "modified": "Ce document ayant été modifié, le résultat de la recherche n'est plus valide. \n\n Voulez-vous relancer la recherche ?",
+      "noModifyPerm": "Vous n'êtes pas autorisé à ajouter une censure au contenu sélectionné. ",
+      "existInHide": "Le résultat existait sur un calque actuellement invisible. Voulez-vous le rendre visible maintenant ?"
+    },
+    "table": {
+      "wordPhrase": "Mot/Phrase",
+      "overlayText": "Texte de recouvrement"
+    },
+    "csv": {
+      "results": "Résultats de recherche",
+      "summary": "Résumé",
+      "savedOn": "Partagé le",
+      "search": "Recherché",
+      "count": "Nombre d'instance(s) trouvée(s)",
+      "fileName": "Nom de fichier",
+      "title": "Titre",
+      "page": "Page",
+      "searchInstance": "Rechercher l'instance",
+      "metadata": "Métadonnées du document"
+    }
+  }
+}

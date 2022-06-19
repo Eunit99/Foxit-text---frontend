@@ -1,0 +1,9 @@
+{
+  "page": "Page: ",
+  "separator": "of",
+  "pageNotFoundTip": "There is no page numbered '{{target}}' in this document.",
+  "noPageSelected": "No page is selected. Please select appropriate options.",
+  "sample": "Sample: 1,5-9,12",
+  "sampleHintTitle": "Page Range",
+  "sampleHintDescription": "To use logical page number, enclose \nthe page number in quotes.Example: \n\"A\". If the logical page numbers \ninclude quote or backslash symbols, \nadd a '\\' before the quote or \nbackslash. Example, from page \\5 to \npage \"12\" : \"\\\\5\" - \"\\\"12\\\"\""
+}

@@ -1,0 +1,11 @@
+{
+  "tips": {
+    "xfa": "Edit Static XFA Form"
+  },
+  "confirm": {
+    "title": "",
+    "content": "This static XFA form contains components that will be lost when you choose to edit the form. Please save a copy of your original file. Continue editing?",
+    "confirmButton": "Yes",
+    "cancelButton": "No"
+  }
+}

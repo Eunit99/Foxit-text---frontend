@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "Pagina's draaien",
+    "subTitle": "Paginabereik",
+    "direction": "Richting",
+    "clockwise": "90 graden rechtsom",
+    "counterClockwise": "90 graden linksom",
+    "allPage": "Alle pagina's",
+    "turning": "180 graden",
+    "page": "Pagina: ",
+    "pages": "Pagina's",
+    "separator": "van",
+    "rotate": "Draaien: ",
+    "sample": "Voorbeeld: 1,5-9,12",
+    "sampleTips": "Paginabereik\n\nNeem het paginanummer op tussen aanhalingstekens, om een logische paginanummering te gebruiken. Voorbeeld:\n\"A\", wanneer de logische paginanummers aanhalingstekens of schuine strepen bevatten,\nvoeg een '\\' toe voor het aanhalingsteken of de schuine streep. Bijvoorbeeld, van pagina's \\5 tot\npagina \"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+    "allPages": "Alle pagina's binnen bereik",
+    "evenPages": "Alleen even pagina's",
+    "oddPages": "Alleen oneven pagina's",
+    "landscape": "Liggende pagina's",
+    "protrait": "Staande pagina's",
+    "all": "Liggende en staande pagina's",
+    "errMessage": "Voer een geldig bereik in",
+    "emptyMessage": "Voer een bereik in",
+    "noPageSelected": "Geen pagina geselecteerd. Selecteer geschikte opties."
+  },
+  "button-tooltip": {
+    "title": "Draaien",
+    "tooltip": "Pagina's draaien"
+  },
+  "rotate": {
+    "counterclockwise": "Links",
+    "clockwise": "Rechts",
+    "pages": "Meerdere pagina's draaien"
+  }
+}

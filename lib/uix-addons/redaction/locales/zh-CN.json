@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "标记为密文",
+    "redact_text_image": "标记文本 & 图像",
+    "redact_area": "标记区域",
+    "redact_page": "标记页面",
+    "redact_auto": "自动密文",
+    "redact_search": "查找文本",
+    "apply": "应用",
+    "ok": "确定",
+    "cancel": "取消"
+  },
+  "tooltips": {
+    "redaction": "标记内容为密文",
+    "apply": "永久移除标记的内容",
+    "auto_redaction": "福昕智能密文\n\n让“福昕智能密文”自动为您的文档添加密文。"
+  },
+  "dialog": {
+    "apply_alert": "您将要永久删除选择的被标记为密文的内容。选择应用后，此项操作将不可恢复。\n您确认要继续吗？\n重要提示！推荐您在应用密文之前保留该文档的备份副本。",
+    "redaction_page": {
+      "mark_current_page": "标记当前页为密文",
+      "mark_specific_page": "标记选定的页面为密文",
+      "page_range": "页面范围"
+    },
+    "readaction_page_max": "最大值：",
+    "pageRange": "页面范围"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "ribbon": {
+    "text": "JavaScript"
+  },
+  "button-tooltip": {
+    "title": "添加，修改并测试文档中的JavaScript"
+  },
+  "document-javascript": {
+    "text": "文档JavaScript",
+    "title": "添加、管理JavaScript函数",
+    "dialog": {
+      "title": "JavaScript方法",
+      "name": "脚本名称",
+      "close": "关闭",
+      "add": "添加...",
+      "edit": "编辑...",
+      "delete": "删除"
+    }
+  },
+  "document-action": {
+    "text": "文档动作",
+    "title": "编辑JavaScript文档动作",
+    "dialog": {
+      "title": "文档动作",
+      "name": "何时发生...",
+      "edit": "编辑...",
+      "sub-name": "执行以下JavaScript脚本：",
+      "ok": "确定",
+      "cancel": "取消",
+      "doc-will-close": "文档将要关闭",
+      "doc-will-save": "文档将要保存",
+      "doc-did-save": "文档已经保存",
+      "doc-did-saved": "文档已被保存",
+      "doc-will-print": "文档将要打印",
+      "doc-did-print": "文档已经打印",
+      "doc-did-printed": "文档已打印",
+      "enable-tip": "JavaScript当前被禁用了，该文档的某些功能需要使用Javascript。启用Javascript可能会带来某些潜在的安全风险。"
+    }
+  },
+  "javascript-console": {
+    "text": "JavaScript控制台",
+    "title": "运行并调试JavaScript代码",
+    "dialog": {
+      "title": "JavaScript控制台",
+      "name": "JavaScript控制台",
+      "run": "运行",
+      "clear": "清除",
+      "close": "关闭",
+      "exec": "控制台：执行",
+      "fail": "行：",
+      "success": "运行成功。"
+    },
+    "checkbox": {
+      "info": "编辑时显示提示信息"
+    }
+  },
+  "edit-all-javascript": {
+    "text": "编辑全部JavaScripts",
+    "title": "编辑文档中的全部JavaScripts",
+    "dialog": {
+      "title": "JavaScript编辑器",
+      "sub-title": "创建并编辑JavaScripts",
+      "ok": "确定",
+      "cancel": "取消",
+      "go": "转到...",
+      "ln": "行",
+      "col": "列",
+      "go-title": "跳转至行",
+      "go-sub-title": "行号："
+    }
+  }
+}

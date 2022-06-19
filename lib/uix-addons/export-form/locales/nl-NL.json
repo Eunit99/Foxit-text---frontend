@@ -1,0 +1,15 @@
+{
+  "ribbon": {
+    "text": "Exporteren"
+  },
+  "button-tooltip": {
+    "title": "Formuliergegevens exporteren"
+  },
+  "export": {
+    "xml": "Naar een XML-bestand",
+    "fdf": "Naar een FDF-bestand",
+    "xfdf": "Naar een XFDF-bestand",
+    "csv": "Naar een CSV-bestand",
+    "txt": "Naar een TXT-bestand"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "页面",
+  "tooltip": "查看页面缩略图且对页面进行排序",
+  "removePageConfirm": "您确定要删除页面？此操作不能被撤消。",
+  "deletePageConfirm": "您确定要删除页面？此操作不能被撤消。",
+  "removePageAlert": "您不能删除全部的页面。至少要留下1页。",
+  "embedAllPageThumbnail": "您确定要在文档中嵌入所有页面缩略图吗？",
+  "removeEmbeddedPageThumbnail": "您确定要从文档中删除所有嵌入的页面缩略图吗？",
+  "contextmenu": {
+    "copy": "复制",
+    "paste": "粘贴",
+    "enlarge": "放大页面预览",
+    "reduce": "缩小页面预览",
+    "embed": "嵌入所有页面缩略图",
+    "removeEmbedded": "移除嵌入的页面缩略图",
+    "rotateLeft": "逆时针旋转90°",
+    "rotateRight": "顺时针旋转90°",
+    "addBlankPage": "插入空白页",
+    "delete": "删除页面...",
+    "deletePage": "删除页面",
+    "duplicate": "复制页面...",
+    "crop": "裁剪页面...",
+    "rotate": "旋转页面...",
+    "extract": "提取页面...",
+    "swap": "交换页面...",
+    "move": "移动页面...",
+    "split": "拆分文档...",
+    "properties": "属性...",
+    "replace": "替换页面...",
+    "formatNumbering": "格式化页码...",
+    "pageTransitions": "页面过渡"
+  },
+  "pageHandleDialog": {
+    "preview": "预览",
+    "showPreview": "显示缩略图",
+    "movePages": {
+      "title": "移动页面",
+      "pageRange": {
+        "title": "页面范围",
+        "pages": "页面： ",
+        "separator": "/",
+        "simple": "示例： 1,5-9,12",
+        "sampleTips": "页面范围\n\n使用逻辑页码，并用双引号将其框起来。\n 例如： \"A\"。如果逻辑页码中包含双引号或者反斜线符号，需要在双引号或者反斜线符号前添加'\\' 。例如，从页面 \\5 到页面\"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+        "pageError": "请输入一个有效的范围。"
+      },
+      "destination": {
+        "title": "目标位置",
+        "beforePage": "在页面之前",
+        "afterPage": "在页面之后",
+        "beginningDocument": "文档开头",
+        "endDocument": "文档末尾"
+      }
+    }
+  },
+  "loadingProgress": {
+    "embedding": "正在嵌入缩略图...",
+    "removing": "正在移除缩略图..."
+  },
+  "retry": {
+    "title": "“${filename}”是一个受保护的文档。请输入打开密码。",
+    "notSupport": "福昕高级PDF编辑器不支持这种文件格式。请直接打开文件后选择福昕高级PDF编辑器打印机进行打印。"
+  },
+  "zoom": {
+    "zoom-in": "放大",
+    "zoom-out": "缩小"
+  },
+  "pasteErrorAlertMsg": "打开CopyPages_tmp.pdf时出错。此文件已损坏，无法修复。",
+  "insertFailed": "无法插入到当前文档中。请稍后再试。"
+}

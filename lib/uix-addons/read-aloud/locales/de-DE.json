@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "Lesen",
+      "desc": "Dokument vorlesen"
+    },
+    "activate-read": {
+      "text": "Lesen aktivieren",
+      "desc": "Lesen aktivieren Umschalt+Strg+Y",
+      "descSub": "Aktivieren Sie das Lesen, um die Lesefunktion zu aktivieren."
+    },
+    "deactivate-read": {
+      "text": "Lesen deaktivieren",
+      "desc": "Lesen deaktivieren Umschalt+Strg+Y",
+      "descSub": "„Lesen deaktivieren“ wird zum Deaktivieren der Lesefunktion verwendet."
+    },
+    "read-current-page": {
+      "text": "Aktuelle Seite vorlesen",
+      "desc": "Aktuelle Seite vorlesen Umschalt+Strg+V",
+      "descSub": "Nur Text auf aktueller Seite vorlesen"
+    },
+    "read-from-current-page": {
+      "text": "Ab aktueller Seite vorlesen",
+      "desc": "Ab aktueller Seite vorlesen Umschalt+Strg+B",
+      "descSub": "Text von aktueller Seite bis zum Ende des Dokuments vorlesen"
+    },
+    "stop": {
+      "text": "Beenden",
+      "desc": "Beenden Umschalt+Strg+E",
+      "descSub": "Vorlesen beenden"
+    },
+    "rate": {
+      "text": "Geschwindigkeit",
+      "desc": "Geschwindigkeit",
+      "descSub": "Ziehen, um die Lesegeschwindigkeit anzupassen"
+    },
+    "volume": {
+      "text": "Lautstärke",
+      "desc": "Lautstärke",
+      "descSub": "Ziehen, um die Lautstärke einzustellen"
+    },
+    "pause": {
+      "text": "Anhalten",
+      "desc": "Beenden Umschalt+Strg+C",
+      "descSub": "Vorlesen anhalten"
+    },
+    "resume": {
+      "text": "Fortsetzen",
+      "desc": "Fortsetzen Umschalt+Strg+C",
+      "descSub": "Vorlesen wiederaufnehmen"
+    }
+  },
+  "error": {
+    "document-not-openned": "Laut Vorlesen ist nicht möglich, weil kein Dokument geöffnet ist.",
+    "permDenyCopyContent": "Sie haben keine Berechtigung zum Kopieren vom Inhalt aus diesem Dokument."
+  }
+}

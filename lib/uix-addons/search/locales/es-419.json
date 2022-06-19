@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "Opciones de búsqueda",
+      "searchFeatures": "características de búsqueda",
+      "placeholder": "Buscar"
+    },
+    "basicOption": {
+      "wholeWordOnly": "Solo palabras completas",
+      "caseSensitive": "Distingue mayúsculas y minúsculas",
+      "includeBookmark": "Incluir marcadores",
+      "includeComments": "Incluir comentarios",
+      "highlight": "Resaltar todo el texto",
+      "properties": "Propiedades"
+    },
+    "prop": {
+      "ok": "Aceptar",
+      "cancel": "Cancelar",
+      "title": "Propiedades",
+      "intro": "Apariencia del resultado de la búsqueda:",
+      "color": "Color:",
+      "opacity": "Opacidad:"
+    },
+    "searchType": {
+      "advanced": "Búsqueda avanzada",
+      "replace": "Buscar y reemplazar",
+      "redact": "Buscar y Censurar",
+      "highlight": "Buscar y resaltar"
+    }
+  },
+  "noMore": "Finalizó la búsqueda. No se encontraron más coincidencias.",
+  "searchPanel": {
+    "mode": {
+      "exact": "Coincidir frase o palabra exacta",
+      "any": "Coincidir con cualquier palabra",
+      "pattern": "Patrón de búsqueda \"se parece a\"",
+      "multiple": "Varias palabras o frases",
+      "profile": "Perfiles de censura"
+    },
+    "pattern": {
+      "select": "Seleccione su patrón",
+      "phone": "Número de teléfono",
+      "date": "Fecha",
+      "security": "Número de seguro social",
+      "email": "Dirección de correo electrónico",
+      "credit": "Número de tarjeta de crédito",
+      "bank": "Número de cuenta bancaria internacional",
+      "driving": "Número de licencia de conducir"
+    },
+    "text": {
+      "wordOrPhrase": "¿Qué palabra o frase le gustaría buscar?",
+      "searching": "Buscando",
+      "country": "País/Región",
+      "selectProfile": "Seleccionar perfil existente",
+      "or": "O",
+      "newWord": "Nueva palabra o frase:",
+      "list": "Lista de palabras o frases:",
+      "profileList": "Lista de perfiles",
+      "profileName": "Nombre de perfil:",
+      "overlayText": "Texto superpuesto:",
+      "wordOverlayList": "Lista de palabras/frases y texto superpuesto:",
+      "lookingFor": "Buscando:",
+      "lookingWordRes": "${1} en el documento actual",
+      "lookingMulRes": "Varias frases en el documento actual",
+      "lookingPatternRes": "${1} en el documento actual",
+      "results": "Resultados:",
+      "resultCount": "${2} documento(s) con ${1} instancia(s)",
+      "markOptions": "Opciones de marcas de censura",
+      "markByPos": "Marcar ${} carácter(es) de ${} para censura",
+      "markByCount": "Marcar del carácter ${} al carácter ${} para censura",
+      "profileHeader": "Palabra/frase",
+      "resultMetaData": "${1} instancia(s) en los metadatos"
+    },
+    "options": {
+      "wholeWordsOnly": "Solo palabras completas",
+      "caseSensitive": "Distingue mayúsculas y minúsculas",
+      "includeBookmarks": "Incluir marcadores",
+      "includeComments": "Incluir comentarios",
+      "includeAttachments": "Incluir archivos adjuntos",
+      "stemming": "Lematización",
+      "highlight": "Resaltar todo el texto",
+      "autoSize": "Ajustar siempre el texto automáticamente al área de censura",
+      "beginning": "comienzo",
+      "end": "fin"
+    },
+    "button": {
+      "more": "Más >>",
+      "less": "Menos >>",
+      "search": "Buscar",
+      "selectWords": "Seleccionar palabras...",
+      "selectProfile": "Seleccionar...",
+      "manage": "Administrar",
+      "create": "Crear",
+      "add": "Agregar",
+      "remove": "Eliminar",
+      "import": "Importar...",
+      "export": "Exportar...",
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "close": "Cerrar",
+      "importProfile": "Importar",
+      "exportProfile": "Exportar",
+      "save": "Guardar",
+      "saveAndSearch": "Guardar y buscar",
+      "cancel": "Cancelar",
+      "newSearch": "Nueva búsqueda",
+      "checkAll": "Marcar todo",
+      "markRedaction": "Marcar los resultados señalados para censura",
+      "applyRedaction": "Aplicar censura",
+      "markWholeWord": "Marcar palabras completas para censura",
+      "markPartialWord": "Marcar palabras parciales para censura",
+      "setting": "Configuración...",
+      "loadMore": "Más",
+      "text-highlight": "Resaltar texto"
+    },
+    "country": {
+      "Brazil": "Brasil",
+      "Canada": "Canadá",
+      "China": "China",
+      "Denmark": "Dinamarca",
+      "Finland": "Finlandia",
+      "France": "Francia",
+      "Germany": "Alemania",
+      "Hong Kong/Taiwan": "Hong Kong/Taiwán",
+      "Iceland": "Islandia",
+      "Ireland": "Irlanda",
+      "Japan": "Japón",
+      "Korea": "Corea",
+      "Norway": "Noruega",
+      "Spain": "España",
+      "Sweden": "Suecia",
+      "Turkey": "Turquía",
+      "United Kingdom": "Reino Unido",
+      "United States": "Estados Unidos"
+    },
+    "dialog": {
+      "selectWord": "Palabras y frases para buscar & Eliminar texto",
+      "manageProfile": "Administrar perfiles",
+      "createProfile": "Crear nuevo perfil",
+      "partialRedaction": "Configuración",
+      "modified": "Dado que el documento se modificó, el resultado de la búsqueda no es válido.\n \n¿Desea volver a realizar la búsqueda?",
+      "noModifyPerm": "No tiene permiso para aplicar censura al contenido seleccionado. ",
+      "existInHide": "El resultado está en una capa que actualmente es invisible. ¿Desea hacer que la capa sea visible ahora?"
+    },
+    "table": {
+      "wordPhrase": "Palabra/frase",
+      "overlayText": "Texto superpuesto"
+    },
+    "csv": {
+      "results": "Resultados de la búsqueda",
+      "summary": "Resumen",
+      "savedOn": "Se guardó en",
+      "search": "Se buscó",
+      "count": "Cantidad de instancias encontradas",
+      "fileName": "Nombre de archivo",
+      "title": "Título",
+      "page": "Página",
+      "searchInstance": "Buscar instancia",
+      "metadata": "Metadatos del documento"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tips": {
+    "xfa": "編輯靜態 XFA 表單"
+  },
+  "confirm": {
+    "title": "",
+    "content": "此靜態 XFA 表單中的組件可能會在您選擇編輯表單時遺失。請儲存原始檔案複本。是否繼續編輯?",
+    "confirmButton": "是",
+    "cancelButton": "否"
+  }
+}

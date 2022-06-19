@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "ページを回転",
+    "subTitle": "ページ範囲",
+    "direction": "方向",
+    "clockwise": "右に 90 度",
+    "counterClockwise": "左に 90 度",
+    "allPage": "すべてのページ",
+    "turning": "180 度",
+    "page": "ページ: ",
+    "pages": "ページ",
+    "separator": "/",
+    "rotate": "回転: ",
+    "sample": "例: 1,5-9,12",
+    "sampleTips": "ページ範囲\n\n論理ページ番号を使用するには、\"A\"\nのように引用符で囲んでください。\n論理ページ番号に引用符やバック\nスラッシュ記号が含まれる場合は、\n引用符やバックスラッシュの前に '\\'\nを追加してください。例: \\5 ページ\nから \"12\" ページ: \"\\\\5\"-\"\\\"12\\\"\"",
+    "allPages": "範囲内のすべてのページ",
+    "evenPages": "偶数ページのみ",
+    "oddPages": "奇数ページのみ",
+    "landscape": "横長ページ",
+    "protrait": "縦長ページ",
+    "all": "任意の向きのページ",
+    "errMessage": "有効な範囲を入力してください",
+    "emptyMessage": "範囲を入力してください",
+    "noPageSelected": "選択されたページがありません。適切なオプションを選択してください。"
+  },
+  "button-tooltip": {
+    "title": "回転",
+    "tooltip": "ページを回転"
+  },
+  "rotate": {
+    "counterclockwise": "左",
+    "clockwise": "右",
+    "pages": "複数ページを回転"
+  }
+}

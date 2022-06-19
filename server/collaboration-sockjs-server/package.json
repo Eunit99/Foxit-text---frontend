@@ -1,0 +1,21 @@
+{
+  "name": "collaboration-sockjs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "koa": "^2.13.0",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "nodemon": "^2.0.6",
+    "sockjs": "^0.3.21"
+  }
+}

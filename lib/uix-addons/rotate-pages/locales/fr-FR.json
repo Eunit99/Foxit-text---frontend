@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "Rotation de pages",
+    "subTitle": "Plage de pages",
+    "direction": "Direction",
+    "clockwise": "Sens horaire 90 degrés",
+    "counterClockwise": "Sens anti-horaire 90 degrés",
+    "allPage": "Toutes les pages",
+    "turning": "180 degrés",
+    "page": "Page : ",
+    "pages": "Pages",
+    "separator": "sur",
+    "rotate": "Rotation : ",
+    "sample": "Exemple : 1,5-9,12",
+    "sampleTips": "Plage de pages\n\nPour utiliser un numéro de page logique, placez\nle numéro de page entre guillemets. Exemple :\n\"A\". Si les numéros de page logiques\ncomprennent des guillemets ou une barre oblique inverse,\najoutez '\\' devant le guillemet ou\nla barre oblique. Exemple, de la page \\5 à\nla page \"12\" : \"\\\\5\"-\"\\\"12\\\"\"",
+    "allPages": "Toutes les pages de la plage",
+    "evenPages": "Pages paires uniquement",
+    "oddPages": "Pages impaires uniquement",
+    "landscape": "Pages au format Paysage",
+    "protrait": "Pages au format Portrait",
+    "all": "Pgs au format Paysage et Portrait",
+    "errMessage": "Entrez une plage valide",
+    "emptyMessage": "Entrez une plage",
+    "noPageSelected": "Aucune page n'est sélectionnée. Sélectionnez les options appropriées."
+  },
+  "button-tooltip": {
+    "title": "Faire pivoter",
+    "tooltip": "Rotation de pages"
+  },
+  "rotate": {
+    "counterclockwise": "Gauche",
+    "clockwise": "Droite",
+    "pages": "Faire pivoter plusieurs pages"
+  }
+}

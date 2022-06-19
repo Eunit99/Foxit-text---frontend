@@ -1,0 +1,11 @@
+{
+  "tips": {
+    "xfa": "Statisch XFA-formulier bewerken"
+  },
+  "confirm": {
+    "title": "",
+    "content": "Dit statische XFA-formulier bevat onderdelen die verloren zullen gaan als u dit formulier wilt bewerken. Sla een kopie van uw originele bestand op. Wilt u doorgaan met bewerken?",
+    "confirmButton": "Ja",
+    "cancelButton": "Nee"
+  }
+}

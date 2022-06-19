@@ -1,0 +1,15 @@
+{
+  "contextmenu": {
+    "properties": "プロパティ",
+    "set-to-front": "前面に移動",
+    "set-to-back": "背面に移動",
+    "delete": "削除"
+  },
+  "graphics-properties": {
+    "dialog": {
+      "title": "グラフィックオブジェクトのプロパティ",
+      "image-title": "画像オブジェクトのプロパティ",
+      "path-title": "パスオブジェクトのプロパティ"
+    }
+  }
+}

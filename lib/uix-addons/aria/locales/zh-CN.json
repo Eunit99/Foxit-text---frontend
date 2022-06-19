@@ -1,0 +1,51 @@
+{
+  "labels": {
+    "toolbar": {
+      "open-file": "文件",
+      "selection": "选定内容",
+      "shape": "形状",
+      "measurement": "测量",
+      "path-object": "路径对象"
+    },
+    "gotopage": "设置页面",
+    "setzoom": "设置缩放比率",
+    "set-font-size": "设置字体大小",
+    "close-layer-btn": "关闭对话框",
+    "color-picker-item": "颜色：{{color}}",
+    "color-picker-remove-item": "移除颜色： {{color}}",
+    "color-picker-transparent": "颜色：透明",
+    "color-picker-removecolor": "移除颜色",
+    "color-picker-add-color": "添加颜色",
+    "color-picker-confirm-remove": "确认移除颜色",
+    "color-spectrum-hue": "色调：{{hue}}",
+    "commentlist": {
+      "group-title": "第 {{page}} 页，数量 {{count}}",
+      "comment": "{{author}}在第{{page}}页添加的{{type}}，{{content}}",
+      "reply": "{{replyAuthor}}回复{{commentAuthor}}，在第{{page}}页添加的{{type}}，{{content}}"
+    },
+    "field": {
+      "widget": "第 {{page}} 页上的 {{type}}，名称：{{name}}"
+    },
+    "createInkSign": {
+      "strokeColor": "描边色",
+      "brushSize": "画笔大小",
+      "eraser": "橡皮",
+      "clear": "清除",
+      "preview": "预览",
+      "unit": "{{unit}}像素"
+    },
+    "createSignature": "创建的签名 {{index}}",
+    "deleteSignature": "删除签名{{index}}",
+    "no-color": "无颜色",
+    "visibleBox": "可见",
+    "promptTitle": "提示",
+    "select": {
+      "selectedLabel": "已选定"
+    },
+    "prevMonth": "上个月",
+    "nextMonth": "下个月",
+    "PDF": {
+      "pageN": "PDF页面， {{pageIndex}} / {{pageCount}}"
+    }
+  }
+}

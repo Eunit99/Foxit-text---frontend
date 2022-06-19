@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "Marcar para censurar",
+    "redact_text_image": "Marcar texto e imagen",
+    "redact_area": "Marcar área",
+    "redact_page": "Marcar página",
+    "redact_auto": "Censura automática",
+    "redact_search": "Buscar texto",
+    "apply": "Aplicar",
+    "ok": "Aceptar",
+    "cancel": "Cancelar"
+  },
+  "tooltips": {
+    "redaction": "Marcar contenido para censura",
+    "apply": "Eliminar el contenido marcado de forma permanente",
+    "auto_redaction": "Censura automática de Foxit\n\nDeje que la \"Censura automática de Foxit\" censure sus documentos automáticamente."
+  },
+  "dialog": {
+    "apply_alert": "Está a punto de censurar permanentemente el contenido seleccionado que se ha marcado para censurar. Si selecciona Aplicar, la operación no se podrá deshacer.\n¿Está seguro de que desea continuar?\nIMPORTANTE Se recomienda que guarde una copia de seguridad de este documento antes de aplicar la censura.",
+    "redaction_page": {
+      "mark_current_page": "Marcar la página actual para censura",
+      "mark_specific_page": "Marcar las páginas seleccionadas para censura",
+      "page_range": "Rango de páginas"
+    },
+    "readaction_page_max": "Máximo: ",
+    "pageRange": "Rango de páginas"
+  }
+}

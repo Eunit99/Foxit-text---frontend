@@ -1,0 +1,15 @@
+{
+  "contextmenu": {
+    "properties": "属性",
+    "set-to-front": "置顶",
+    "set-to-back": "置底",
+    "delete": "删除"
+  },
+  "graphics-properties": {
+    "dialog": {
+      "title": "图形对象属性",
+      "image-title": "图像对象属性",
+      "path-title": "路径对象属性"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "labels": {
+    "toolbar": {
+      "open-file": "Bestand",
+      "selection": "Selectie",
+      "shape": "Vorm",
+      "measurement": "Meting",
+      "path-object": "Padobject"
+    },
+    "gotopage": "Pagina instellen",
+    "setzoom": "Zoom instellen",
+    "set-font-size": "Lettergrootte instellen",
+    "close-layer-btn": "Dialoogvenster sluiten",
+    "color-picker-item": "Kleur: {{color}}",
+    "color-picker-remove-item": "Kleur verwijderen: {{color}}",
+    "color-picker-transparent": "Kleur: transparant",
+    "color-picker-removecolor": "Kleur verwijderen",
+    "color-picker-add-color": "Kleur toevoegen",
+    "color-picker-confirm-remove": "Kleur verwijderen bevestigen",
+    "color-spectrum-hue": "Tint: {{hue}}",
+    "commentlist": {
+      "group-title": "Pagina {{page}}, Aantal {{count}}",
+      "comment": "{{type}} op pagina {{page}} by {{author}}, {{content}}",
+      "reply": "{{type}} op pagina {{page}} van {{replyAuthor}} tot {{commentAuthor}}, {{content}}"
+    },
+    "field": {
+      "widget": "{{type}} op pagina {{page}}, naam: {{name}}"
+    },
+    "createInkSign": {
+      "strokeColor": "Streepkleur",
+      "brushSize": "Borstelgrootte",
+      "eraser": "Gum",
+      "clear": "Wissen",
+      "preview": "Voorbeeld",
+      "unit": "{{unit}} Pixel"
+    },
+    "createSignature": "Gemaakte handtekening {{index}}",
+    "deleteSignature": "Handtekening verwijderen {{index}}",
+    "no-color": "Geen kleur",
+    "visibleBox": "Zichtbaar",
+    "promptTitle": "Vragen",
+    "select": {
+      "selectedLabel": "Geselecteerd"
+    },
+    "prevMonth": "Vorige maand",
+    "nextMonth": "Volgende maand",
+    "PDF": {
+      "pageN": "PDF Pagina, {{pageIndex}} van {{pageCount}}"
+    }
+  }
+}

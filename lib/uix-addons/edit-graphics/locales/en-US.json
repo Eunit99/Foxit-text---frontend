@@ -1,0 +1,15 @@
+{
+  "contextmenu": {
+    "properties": "Properties",
+    "set-to-front": "Bring to Front",
+    "set-to-back": "Send to Back",
+    "delete": "Delete"
+  },
+  "graphics-properties": {
+      "dialog": {
+          "title": "Graphics Object Properties",
+          "image-title": "Image Object Properties",
+          "path-title": "Path Object Properties"
+      }
+  }
+}

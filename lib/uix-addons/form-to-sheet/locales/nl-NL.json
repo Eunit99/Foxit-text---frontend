@@ -1,0 +1,11 @@
+{
+  "ribbon": {
+    "text": "Formulier naar blad"
+  },
+  "button-tooltip": {
+    "title": "Formuliergegevens exporteren naar spreadsheet"
+  },
+  "export": {
+    "existing": "Toevoegen aan een bestaand blad"
+  }
+}

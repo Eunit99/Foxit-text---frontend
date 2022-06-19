@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "title": "音频 & 视频 "
+  },
+  "dialog": {
+    "RequireHTTPS": "该音频功能需要使用HTTPS才能继续。",
+    "DeviceNotFoundError": "没有麦克风。",
+    "TrackStartError": "麦克风已被占用。",
+    "PermissionDeniedError": "请检查您的浏览器是否允许使用麦克风。",
+    "BrowserNotSupported": "浏览器不支持",
+    "chooseFile": "选择文件",
+    "rec-file-label": "文件：",
+    "rec-recorder-label": "录制器：",
+    "rec-recording-tip": "正在录制...",
+    "rec-poster-file-label": "海报文件：",
+    "ok": "确定",
+    "cancel": "取消"
+  }
+}

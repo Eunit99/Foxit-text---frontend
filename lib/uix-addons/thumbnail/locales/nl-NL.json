@@ -1,0 +1,69 @@
+{
+  "title": "Pagina's",
+  "tooltip": "Paginaminiaturen weergeven en volgorde van pagina's wijzigen",
+  "removePageConfirm": "Wilt u deze pagina's verwijderen? De bewerking kan niet ongedaan worden gemaakt.",
+  "deletePageConfirm": "Wilt u deze pagina verwijderen? De bewerking kan niet ongedaan worden gemaakt.",
+  "removePageAlert": "U kunt niet alle pagina's verwijderen. U moet ten minste één pagina behouden",
+  "embedAllPageThumbnail": "Weet u zeker dat u alle paginaminiaturen in het document wilt insluiten?",
+  "removeEmbeddedPageThumbnail": "Weet u zeker dat u alle ingesloten paginaminiaturen uit het document wilt verwijderen?",
+  "insertFailed": "Invoegen in het huidige document mislukt. Probeer het later opnieuw.",
+  "contextmenu": {
+    "copy": "Kopiëren",
+    "paste": "Plakken",
+    "enlarge": "Paginaminiaturen vergroten",
+    "reduce": "Paginaminiaturen verkleinen",
+    "embed": "Alle paginaminiaturen insluiten",
+    "removeEmbedded": "Ingesloten paginaminiaturen verwijderen",
+    "rotateLeft": "90° Linksom draaien",
+    "rotateRight": "90° Rechtsom draaien",
+    "addBlankPage": "Lege pagina invoegen",
+    "delete": "Pagina's verwijderen...",
+    "deletePage": "Pagina verwijderen",
+    "duplicate": "Pagina's dupliceren",
+    "crop": "Pagina's bijsnijden...",
+    "rotate": "Pagina's draaien...",
+    "extract": "Pagina's extraheren...",
+    "swap": "Pagina's wisselen...",
+    "move": "Pagina's verplaatsen...",
+    "split": "Document splitsen...",
+    "properties": "Eigenschappen...",
+    "replace": "Pagina's vervangen...",
+    "formatNumbering": "Paginanummers opmaken...",
+    "pageTransitions": "Paginaovergangen"
+  },
+  "pageHandleDialog": {
+    "preview": "Voorbeeld",
+    "showPreview": "Miniaturen weergeven",
+    "movePages": {
+      "title": "Pagina's verplaatsen",
+      "pageRange": {
+        "title": "Paginabereik",
+        "pages": "Pagina: ",
+        "separator": "van",
+        "simple": "Voorbeeld: 1,5-9,12",
+        "sampleTips": "Paginabereik\n\nAls u logische paginanummers wilt gebruiken, plaatst u de paginanummers tussen aanhalingstekens, bijvoorbeeld A\"\". Als de logische paginanummers aanhalingstekens of backslashes bevatten, voegt u \\ toe voor het aanhalingsteken of de backslash. Bijvoorbeeld: van pagina's \\5 tot\npagina \"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+        "pageError": "Voer een geldig bereik in"
+      },
+      "destination": {
+        "title": "Bestemming",
+        "beforePage": "Voor pagina",
+        "afterPage": "Na pagina",
+        "beginningDocument": "Begin van document",
+        "endDocument": "Einde van document"
+      }
+    }
+  },
+  "loadingProgress": {
+    "embedding": "Miniaturen insluiten...",
+    "removing": "Miniaturen verwijderen..."
+  },
+  "retry": {
+    "title": "Het bestand \"${filename}\" is beveiligd. Voer het wachtwoord voor het openen van het document in.",
+    "notSupport": "Foxit PDF Editor ondersteunt deze bestandsindeling niet. Open het bestand rechtstreeks en druk het af met de Foxit PDF Editor-printer"
+  },
+  "zoom": {
+    "zoom-in": "Inzoomen",
+    "zoom-out": "Uitzoomen"
+  },
+  "pasteErrorAlertMsg": "Er is een fout opgetreden bij het openen van CopyPages_tmp.pdf. Dit bestand is beschadigd en kon niet worden gerepareerd."
+}

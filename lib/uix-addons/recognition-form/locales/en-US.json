@@ -1,0 +1,21 @@
+{
+  "tips": {
+    "recognition": "Run Form Field Recognition"
+  },
+  "dialog": {
+    "title": "Form Field Recognition",
+    "content": "Your PDF Form has been created.\n\nDuring creation, Foxit may have missed some fields or created extraneous fields.\n\nPlease validate the fields and field names on your form. You can click any of the Form Fields buttons on the toolbar to add more fields and right-click on the form to edit or delete fields.",
+    "description": "1 = Field Name, 2 = Field",
+    "notAgain": "Don't show again"
+  },
+  "error": {
+    "title": "",
+    "noFields": "No new form field annotations were detected."
+  },
+  "quickRecognition": {
+    "alert": {
+      "content": "Foxit PDF Editor could not perform recognition because this page contains renderable text or this page is blank.",
+      "againText": "Ignore future errors in this document"
+    }
+  }
+}

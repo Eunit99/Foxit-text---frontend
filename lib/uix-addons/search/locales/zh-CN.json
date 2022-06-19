@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "查找选项",
+      "searchFeatures": "搜索功能",
+      "placeholder": "搜索"
+    },
+    "basicOption": {
+      "wholeWordOnly": "整词匹配",
+      "caseSensitive": "区分大小写",
+      "includeBookmark": "包含书签",
+      "includeComments": "包含注释",
+      "highlight": "高亮所有文本",
+      "properties": "属性"
+    },
+    "prop": {
+      "ok": "确定",
+      "cancel": "取消",
+      "title": "属性",
+      "intro": "搜索结果的外观：",
+      "color": "颜色：",
+      "opacity": "不透明度："
+    },
+    "searchType": {
+      "advanced": "高级搜索",
+      "replace": "搜索 & 替换",
+      "redact": "搜索 & 密文",
+      "highlight": "搜索 & 高亮"
+    }
+  },
+  "noMore": "搜索结束。没有找到更多的匹配项。",
+  "searchPanel": {
+    "mode": {
+      "exact": "匹配精确的单词或词组",
+      "any": "匹配任意单词",
+      "pattern": "近似搜索范例",
+      "multiple": "多个单词或词组",
+      "profile": "密文配置"
+    },
+    "pattern": {
+      "select": "选择您的范例",
+      "phone": "电话号码",
+      "date": "日期",
+      "security": "社会保障编号",
+      "email": "邮件地址",
+      "credit": "信用卡号",
+      "bank": "国际银行账号",
+      "driving": "驾驶执照号码"
+    },
+    "text": {
+      "wordOrPhrase": "您要搜索哪些字或词组？",
+      "searching": "搜索",
+      "country": "国家/地区",
+      "selectProfile": "选择已存在的配置",
+      "or": "或者",
+      "newWord": "新单词或词组：",
+      "list": "单词和词组列表：",
+      "profileList": "配置列表",
+      "profileName": "配置名称",
+      "overlayText": "覆盖文本：",
+      "wordOverlayList": "单词/词组和覆盖文本列表：",
+      "lookingFor": "正在查找： ",
+      "lookingWordRes": "${1} 位于 当前文档",
+      "lookingMulRes": "当前文档中的多个词组",
+      "lookingPatternRes": "${1} 位于 当前文档",
+      "results": "结果：",
+      "resultCount": "有${2}个文档，${1}个实例",
+      "markOptions": "密文标记选项",
+      "markByPos": "标记${}字符自${}为密文",
+      "markByCount": "标记自${}字符至${}字符为密文",
+      "profileHeader": "单词/词组",
+      "resultMetaData": " 元数据中有${1}处"
+    },
+    "options": {
+      "wholeWordsOnly": "整词匹配",
+      "caseSensitive": "区分大小写",
+      "includeBookmarks": "包含书签",
+      "includeComments": "包含注释",
+      "includeAttachments": "包含附件",
+      "stemming": "词干",
+      "highlight": "高亮所有文本",
+      "autoSize": "总是自动调整文字大小以适合密文区域",
+      "beginning": "开头",
+      "end": "结尾"
+    },
+    "button": {
+      "more": "更多>>",
+      "less": "较少>>",
+      "search": "搜索",
+      "selectWords": "选择单词...",
+      "selectProfile": "选择...",
+      "manage": "管理",
+      "create": "创建",
+      "add": "添加",
+      "remove": "移除",
+      "import": "导入...",
+      "export": "导出...",
+      "edit": "编辑",
+      "delete": "删除",
+      "close": "关闭",
+      "importProfile": "导入",
+      "exportProfile": "导出",
+      "save": "保存",
+      "saveAndSearch": "保存 & 搜索",
+      "cancel": "取消",
+      "newSearch": "新建搜索",
+      "checkAll": "全选",
+      "markRedaction": "标记选择项以添加密文",
+      "applyRedaction": "应用密文",
+      "markWholeWord": "将整个词标记为密文",
+      "markPartialWord": "将部分词标记为密文",
+      "setting": "设置...",
+      "loadMore": "更多",
+      "text-highlight": "高亮文本"
+    },
+    "country": {
+      "Brazil": "巴西",
+      "Canada": "加拿大",
+      "China": "简体中文",
+      "Denmark": "丹麦",
+      "Finland": "芬兰",
+      "France": "法国",
+      "Germany": "德国",
+      "Hong Kong/Taiwan": "香港繁体/台湾繁体",
+      "Iceland": "冰岛",
+      "Ireland": "爱尔兰",
+      "Japan": "日本",
+      "Korea": "韩国",
+      "Norway": "挪威",
+      "Spain": "西班牙",
+      "Sweden": "瑞典",
+      "Turkey": "土耳其",
+      "United Kingdom": "英国",
+      "United States": "美式英语"
+    },
+    "dialog": {
+      "selectWord": "用于搜索&移除文本的单词和词组",
+      "manageProfile": "管理配置文件",
+      "createProfile": "创建新的配置文件",
+      "partialRedaction": "设置",
+      "modified": "该文档已经被修改，搜索结果无效。\n\n您是否想要重新搜索？",
+      "noModifyPerm": "您没有在所选择的内容上应用密文的权限。 ",
+      "existInHide": "当前结果存在于一个不可见的层上。您是否想要现在使该图层可见？"
+    },
+    "table": {
+      "wordPhrase": "单词/词组",
+      "overlayText": "覆盖文本"
+    },
+    "csv": {
+      "results": "搜索结果",
+      "summary": "摘要",
+      "savedOn": "保存于",
+      "search": "搜索",
+      "count": "找到的实例数目",
+      "fileName": "文件名",
+      "title": "标题",
+      "page": "页",
+      "searchInstance": "搜索实例",
+      "metadata": "文档元数据"
+    }
+  }
+}

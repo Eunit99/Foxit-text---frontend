@@ -1,0 +1,21 @@
+{
+  "tips": {
+    "recognition": "Formulierveldherkenning uitvoeren"
+  },
+  "dialog": {
+    "title": "Formulierveldherkenning",
+    "content": "Uw PDF-formulier werd aangemaakt.\n\nTijdens het aanmaken, kan Foxi enkele velden gemist hebben of extra velden aangemaakt hebben.\n\nValideer de velden en veldnamen op uw formulier. Klik op een formulierveldknop om meer velden toe te voegen en klik met de rechtermuisknop in het formulier om velden te bewerken of te verwijderen.",
+    "description": "1 = veldnaam, 2 = veld",
+    "notAgain": "Dit bericht niet meer weergeven"
+  },
+  "error": {
+    "title": "",
+    "noFields": "Er zijn geen nieuwe formulierveldaantekeningen gedetecteerd."
+  },
+  "quickRecognition": {
+    "alert": {
+      "content": "Foxit PDF Editor kan herkenning niet uitvoeren omdat deze pagina te renderen tekst bevat of leeg is.",
+      "againText": "Toekomstige fouten in dit document negeren"
+    }
+  }
+}

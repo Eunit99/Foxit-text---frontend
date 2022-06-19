@@ -1,0 +1,11 @@
+{
+  "tips": {
+    "xfa": "Modifica modulo XFA statico"
+  },
+  "confirm": {
+    "title": "",
+    "content": "Il modulo XFA statico contiene componenti che andranno perduti quando si sceglie di modificare il modulo. Salvare una copia del file originale. Continuare con le modifiche?",
+    "confirmButton": "Sì",
+    "cancelButton": "No"
+  }
+}

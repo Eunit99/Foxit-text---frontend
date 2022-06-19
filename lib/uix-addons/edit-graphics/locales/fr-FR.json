@@ -1,0 +1,15 @@
+{
+  "contextmenu": {
+    "properties": "Propriétés",
+    "set-to-front": "Mettre au premier plan",
+    "set-to-back": "Mettre en arrière-plan",
+    "delete": "Supprimer"
+  },
+  "graphics-properties": {
+    "dialog": {
+      "title": "Propriétés d'objet graphiques",
+      "image-title": "Propriétés d'objet image",
+      "path-title": "Propriétés d'objet chemin"
+    }
+  }
+}

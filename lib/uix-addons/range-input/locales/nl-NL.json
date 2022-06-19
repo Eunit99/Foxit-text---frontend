@@ -1,0 +1,9 @@
+{
+  "page": "Pagina: ",
+  "separator": "van",
+  "pageNotFoundTip": "Er is geen pagina met het nummer '{{target}}' in dit document.",
+  "noPageSelected": "Geen pagina geselecteerd. Selecteer geschikte opties.",
+  "sample": "Voorbeeld: 1,5-9,12",
+  "sampleHintTitle": "Paginabereik",
+  "sampleHintDescription": "Neem het paginanummer op tussen aanhalingstekens, om een logische paginanummering te gebruiken. Voorbeeld:\n\"A\", wanneer de logische paginanummers aanhalingstekens of schuine strepen bevatten,\nvoeg een '\\' toe voor het aanhalingsteken of de schuine streep. Bijvoorbeeld, van pagina's \\5 tot\npagina \"12\":\"\\\\5\"-\"\\\"12\\\"\""
+}

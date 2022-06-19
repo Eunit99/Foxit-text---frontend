@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "editFontWeight": "Fett",
+    "editFontItalic": "Kursiv",
+    "editFontColor": "Schriftfarbe",
+    "addText": "Text hinzufügen",
+    "underline": "Unterstreichen",
+    "alignLeft": "Linksbündig",
+    "alignCenter": "Zentriert ausrichten",
+    "alignJustify": "Ausrichten",
+    "wordSpacing": "Wortabstand",
+    "lineSpacing": "Zeilenabstand",
+    "characterScale": "Zeichenskalierung"
+  },
+  "dropdowns": {
+    "editFontFamily": "Schriftart",
+    "editFontSize": "Schriftgröße"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "密码保护",
+    "PermissionTitle": "权限设置",
+    "removeTitle": "移除安全设置",
+    "inputOwnerPassword": "请输入所有者密码："
+  },
+  "warning": {
+    "already-secured": "该文档已经被保护。\n您确定要修改该文档的安全设置？",
+    "apply-to-document": "文档保存后安全设置才会生效。您可以在关闭文档前继续修改安全设置。",
+    "incorrect-owner-pwd": "所有者密码不正确。",
+    "restriction-warn": "某些非福昕出品的软件，可能会由于不遵循或者不尊重文档本身的权限设置， 而允许用户忽略某些操作限制。",
+    "reader-warn": "禁用为视障人士启用屏幕阅读器设备的文本辅助工具将使得残障用户无法便利地使用该文档且不符合辅助功能法规，如美国政府部门的508法案。"
+  },
+  "error": {
+    "pwdLength": "您的密码必须介于1到32个字符之间。",
+    "open-pwd-not-match": "文档打开密码不匹配！",
+    "permission-pwd-not-match": "文档权限密码不匹配！",
+    "open-owner-pwd-cannot-same": "打开文档密码同文档权限密码不能相同，请修改文档打开密码或文档权限密码为不同的密码。",
+    "admin-pwd-cannot-blank": "管理员密码不能为空！"
+  },
+  "dialog": {
+    "Printing": "打印权限：",
+    "Accessiability": "辅助功能：",
+    "Copying": "复制权限：",
+    "Changes": "更改权限：",
+    "Allowed": "允许",
+    "NotAllowed": "不允许",
+    "permission": "权限...",
+    "warn": "警告：",
+    "error": "错误：",
+    "doc-open-caption": "文档打开设置",
+    "password-check-hint": "需要输入密码来打开文档",
+    "password-label": "设置密码：",
+    "password-confirm-label": "确认密码：",
+    "document-restriction-caption": "文档权限设置",
+    "add-document-restriction": "添加文档权限",
+    "add-document-setting": "限制打印、编辑文档和权限设定",
+    "permission-specific-caption": "权限详情",
+    "permission-caption": "权限",
+    "printing-label": "允许打印：",
+    "printing-none": "无",
+    "printing-low": "低分辨率（150 dpi）",
+    "printing-high": "高分辨率",
+    "perm-access-label": "为视障人士启用屏幕阅读器设备的文本辅助工具",
+    "perm-copy-label": "启用文本、图像和其它内容的复制",
+    "perm-change-label": "允许修改：",
+    "perm-changes-none": "无",
+    "perm-changes-1": "插入、删除、旋转页面",
+    "perm-changes-2": "填写表单且签署已存在的数字签名域",
+    "perm-changes-3": "注释、填写表单、签署已存在的数字签名域",
+    "perm-changes-4": "除提取页面外的任何权限",
+    "encrypt-caption": "加密设置",
+    "enc-alg-label": "加密算法：",
+    "enc-no-metadata": "不加密元数据",
+    "ok": "确定",
+    "cancel": "取消",
+    "remove": {
+      "confirmation": "您确定要删除文档中的安全设置？"
+    },
+    "saveToPolicy": "将设置另存为新策略"
+  },
+  "toolbar": {
+    "protect": {
+      "secureDocument": "安全文档"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "Kennwortschutz",
+    "PermissionTitle": "Berechtigungseinstellungen",
+    "removeTitle": "Sicherheit entfernen",
+    "inputOwnerPassword": "Geben Sie das Besitzerkennwort ein:"
+  },
+  "warning": {
+    "already-secured": "Das Dokument wurde bereits gesichert.\nMöchten Sie die Sicherheitseinstellungen für dieses Dokument wirklich ändern?",
+    "apply-to-document": "Sicherheitseinstellungen werden erst beim Speichern des Dokuments auf das Dokument angewendet. Sie können die Sicherheitseinstellungen weiter ändern, bis Sie das Dokument schließen.",
+    "incorrect-owner-pwd": "Das Besitzerkennwort ist falsch.",
+    "restriction-warn": "Möglicherweise erzwingen oder beachten einige Nicht-Foxit-PDF-Anwendungen die durch das Berechtigungskennwort festgelegten Beschränkungen nicht, sodass Benutzer diese Beschränkungen umgehen können.",
+    "reader-warn": "Wenn Sie den Zugriff auf den Text durch Bildschirmlesegeräte für Sehbehinderte deaktivieren, ist der Zugriff auf dieses Dokument für einige Benutzer mit Einschränkungen nicht mehr möglich. Zudem entspricht das Dokument dann nicht mehr den Richtlinien der Barrierefreiheit, wie z. B. Abschnitt 508 der US-Regierung."
+  },
+  "error": {
+    "pwdLength": "Ihr Kennwort muss zwischen 1 und 32 Zeichen lang sein",
+    "open-pwd-not-match": "Das Kennwort zum Öffnen des Dokuments stimmt nicht überein!",
+    "permission-pwd-not-match": "Das Kennwort zur Dokumentberechtigung stimmt nicht überein!",
+    "open-owner-pwd-cannot-same": "Das Kennwort zum Öffnen und das Besitzerkennwort dürfen nicht identisch sein. Geben Sie für das Kennwort zum Öffnen eines Dokuments oder für das Besitzerkennwort ein anderes Kennwort ein.",
+    "admin-pwd-cannot-blank": "Das Adminkennwort darf nicht leer sein!"
+  },
+  "dialog": {
+    "Printing": "Drucken:",
+    "Accessiability": "Barrierefreiheit:",
+    "Copying": "Kopieren:",
+    "Changes": "Änderungen:",
+    "Allowed": "Zugelassen",
+    "NotAllowed": "Nicht zugelassen",
+    "permission": "Berechtigung ...",
+    "warn": "Warnung:",
+    "error": "Fehler:",
+    "doc-open-caption": "Einstellungen zum Öffnen des Dokuments",
+    "password-check-hint": "Kennwort zum Öffnen des Dokuments erforderlich",
+    "password-label": "Kennwort eingeben:",
+    "password-confirm-label": "Kennwort bestätigen:",
+    "document-restriction-caption": "Einstellungen für Dokumenteinschränkungen",
+    "add-document-restriction": "Dokumentbeschränkung hinzufügen",
+    "add-document-setting": "Drucken und Bearbeiten des Dokuments und der Sicherheitseinstellungen einschränken",
+    "permission-specific-caption": "Berechtigungsangabe",
+    "permission-caption": "Berechtigungen",
+    "printing-label": "Drucken zulassen:",
+    "printing-none": "Keine",
+    "printing-low": "Niedrige Auflösung (150 dpi)",
+    "printing-high": "Hohe Auflösung",
+    "perm-access-label": "Bildschirmlesegeräten für Sehbehinderte Zugriff auf den Text ermöglichen",
+    "perm-copy-label": "Kopieren von Text, Bildern und anderen Inhalten aktivieren",
+    "perm-change-label": "Änderungen zulassen:",
+    "perm-changes-none": "Keine",
+    "perm-changes-1": "Seiten einfügen, löschen und drehen",
+    "perm-changes-2": "Formulare ausfüllen und vorhandene Signaturfelder signieren",
+    "perm-changes-3": "Kommentieren, Formulare ausfüllen, vorhandene Signaturfelder signieren",
+    "perm-changes-4": "Alles außer Seiten extrahieren",
+    "encrypt-caption": "Verschlüsselungseinstellungen",
+    "enc-alg-label": "Verschlüsselungsalgorithmus:",
+    "enc-no-metadata": "Metadaten nicht verschlüsseln",
+    "ok": "OK",
+    "cancel": "Abbrechen",
+    "remove": {
+      "confirmation": "Möchten Sie die Sicherheitseinstellungen wirklich aus diesem Dokument entfernen?"
+    },
+    "saveToPolicy": "Einstellungen als neue Richtlinie speichern"
+  },
+  "toolbar": {
+    "protect": {
+      "secureDocument": "Sicheres Dokument"
+    }
+  }
+}

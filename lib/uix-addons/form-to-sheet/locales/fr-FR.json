@@ -1,0 +1,11 @@
+{
+  "ribbon": {
+    "text": "Formulaire vers feuille"
+  },
+  "button-tooltip": {
+    "title": "Exporter les données du formulaire vers une feuille de calcul"
+  },
+  "export": {
+    "existing": "Ajouter à une feuille existante"
+  }
+}

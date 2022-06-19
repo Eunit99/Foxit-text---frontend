@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+ <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Foxit PDF SDK</title>
+  <link rel="stylesheet" type="text/css" href="./lib/PDFViewCtrl.css">
+  <meta charset="utf-8">
+  <style>
+        .fv__ui-tab-nav li span {
+            color: #636363;
+        }
+        .flex-row {
+            display: flex;
+            flex-direction: row;
+        }
+    </style>
+  <!-- ignore other unimportant code -->
+ </head>
+
+ <body>
+  <div id="pdf-ui"></div>
+
+  <script src="./lib/UIExtension.full.js"></script>
+  <script>
+   var licenseSN = "Your license SN";
+   var licenseKey = "Your license Key";
+  </script>
+  <script>
+   var pdfui = new UIExtension.PDFUI({
+    viewerOptions: {
+     libPath: './lib', // the library path of web sdk.
+     jr: {
+     licenseSN:"qBMF6Omj6zYnOGIfjWQqYdB1XcQmjT1WR8MSYvuYKw+2gyx8Wr0DEw==",
+licenseKey:"PjwcmTSwMVyob7urGyG0AlYv0yI33y77QY43gyne6K7urAri1TjwEpz4KItLxaQ5qY0MALKdIYTKJk85ICL4UNXcjuTppp/zPFdMpo71mfesRLbMBPhKvy5c9xVGWGXDhpZ8/4CtyQl75JaSW9KADBCEb4+HlaM6e9Ml7fkujBL2cVGVYU71crn65nxGHqCMWAZFBeQ01MR0lYCnhkMba9jsvPH6mnDQP3zDlQLrVTkY294LJ3ZNQmf/Lyq2EnSI3hlzpw+uIKyyUBJj1ZMjHkZbKHWopn3j7iElI7fhxeP88pG2nlFEJgvb0z1KvCjvrkVEZoElVmIzS32mdYWPFUwckz30O5VsNfe/FFnTp8pcVvmbL7sljDjUOGVhDJCT95F/qOvH1Yz60Zwk4RvJeYYiekRrdjpHcmdIa8NVkR/BB+tiS8Laa9mHHozDrYN6jE4AYagP/GwkU+jvUPgEWRXDPJhPkbZGAEioxeSFkrTq7B7DNmFn9pdeEe5l9BXLgvCQKXybaZ3N82/I4m80Byb8DcpCOTii6jaUo3QbjUa0613vIk1UCPVNs7PdJazckwqLXsSu/KfPS0MWGc6fz+8YyUVSKUFLRd+SeT4nT6ZeD3e26EhFZfoE9eHbhfJGrIgfb8/W3ODvJO0iUMuqV1LvlU1w7e8rVwcP805B3RVrbti1ARt9gP0x/R5l4wZ4s4S67x+HIfNND1GMx6kbxv/CUW3NbwDDWAvbj6mlrD+t2wqwDQjNzgikED9LN5mKNHzLjclVy+tfyKd0IKSqFJzAjozPdMuD/6IIhv/raDl3UkCa59arVLwqGVXB0eACZqJNgDL9eeHVGh86VHLqJzJ0LvDTZ4aROehLAZJt4SD6zCvUNLPIFaExMuAuqegX2K/Ul6YcDdvS7TdS4MbnCYKn8XFhggxvftN3LTmO0g/XwXnYLxmsGxwjgRoFSBzkiDtT74ny/PRK0TskRzDo6FJ2gQCzfaJ3nUQMmLMJotj3XdEM+0w394gCkyj3zJqZRKkn9id6zOfso7p2+S7drbEFmwFvM5ubOYwyywvEJT0AZjH9YzBolbUnPwMwsySbBFOx5Jvg1Gh2FojYHxa55bohIKY4azqchUmwkPoh/TUPr6F9x+kA6FvxeLalxFPUVVzGvwMZx28gCvCIsT4NfifUloMvd0hIJ+AxrYsYAFi4rPGUSDEflj3hk9djDA8R+V+21uHIVfgtmJj1mOk7Zx4gxsyC9XL7B59R"
+     }
+    },
+    renderTo: '#pdf-ui' // the div (id="pdf-ui").
+   });
+
+   // modify the file path as your need.
+   fetch('/sample_PDF.pdf').then(function (response) {
+    response.arrayBuffer().then(function (buffer) {
+     pdfui.openPDFByFile(buffer);
+    })
+   })
+
+  </script>
+ </body>
+
+</html>

@@ -1,0 +1,72 @@
+{
+  "ribbon": {
+    "text": "JavaScript"
+  },
+  "button-tooltip": {
+    "title": "JavaScript in dit document toevoegen, wijzigen en testen"
+  },
+  "document-javascript": {
+    "text": "Document-JavaScript",
+    "title": "JavaScript-functies toevoegen en beheren",
+    "dialog": {
+      "title": "JavaScript-functies",
+      "name": "Scriptnaam",
+      "close": "Sluiten",
+      "add": "Toevoegen...",
+      "edit": "Bewerken...",
+      "delete": "Verwijderen"
+    }
+  },
+  "document-action": {
+    "text": "Documentactie",
+    "title": "JavaScript-documentacties bewerken",
+    "dialog": {
+      "title": "Documentacties",
+      "name": "Wanneer dit gebeurt...",
+      "edit": "Bewerken...",
+      "sub-name": "Dit Javascript uitvoeren:",
+      "ok": "OK",
+      "cancel": "Annuleren",
+      "doc-will-close": "Document wordt gesloten",
+      "doc-will-save": "Document wordt opgeslagen",
+      "doc-did-save": "Document werd opgeslagen",
+      "doc-did-saved": "Document opgeslagen",
+      "doc-will-print": "Document wordt afgedrukt",
+      "doc-did-print": "Document werd afgedrukt",
+      "doc-did-printed": "Document afgedrukt",
+      "enable-tip": "JavaScript is momenteel uitgeschakeld en wordt door dit document gebruikt voor sommige functies. Het inschakelen van JavaScript kan leiden tot potentiële beveiligingsrisico's."
+    }
+  },
+  "javascript-console": {
+    "text": "JavaScript Console",
+    "title": "De JavaScript-code uitvoeren en fouten oplossen",
+    "dialog": {
+      "title": "JavaScript Console",
+      "name": "JavaScript Console",
+      "run": "Uitvoeren",
+      "clear": "Wissen",
+      "close": "Sluiten",
+      "exec": "Console : exec",
+      "fail": "Regel:",
+      "success": "Wordt met succes uitgevoerd."
+    },
+    "checkbox": {
+      "info": "Tips weergeven tijdens het bewerken"
+    }
+  },
+  "edit-all-javascript": {
+    "text": "Alle JavaScripts bewerken",
+    "title": "Alle JavaScripts in het document bewerken",
+    "dialog": {
+      "title": "JavaScript-editor",
+      "sub-title": "JavaScripts maken en bewerken",
+      "ok": "OK",
+      "cancel": "Annuleren",
+      "go": "Ga naar...",
+      "ln": "Ln",
+      "col": "Col",
+      "go-title": "Ga naar regel",
+      "go-sub-title": "Regelnummer:"
+    }
+  }
+}

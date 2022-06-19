@@ -1,0 +1,118 @@
+{
+    "library": "EditTextObject",
+    "i18n": {
+        "ns": "edit-text",
+        "sources": {
+            "zh-CN": "./locales/zh-CN.json",
+            "en-US": "./locales/en-US.json",
+            "zh-TW": "./locales/zh-TW.json",
+            "ja-JP": "./locales/ja-JP.json",
+            "it-IT": "./locales/it-IT.json",
+			"de-DE": "./locales/de-DE.json",
+			"fr-FR": "./locales/fr-FR.json",
+            "es-419": "./locales/es-419.json",
+            "nl-NL": "./locales/nl-NL.json"
+        }
+    },
+    "css": [
+        "./index.css"
+    ],
+    "customFontSizes": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        16,
+        18,
+        20,
+        24,
+        26,
+        28,
+        36,
+        48,
+        72
+    ],
+    "standardFontFamilies": [
+        {
+            "text": "Helvetica",
+            "value": 4
+        },
+        {
+            "text": "Courier",
+            "value": 0
+        },
+        {
+            "text": "Times-Roman",
+            "value": 8
+        },
+        {
+            "text": "Courier-Bold",
+            "value": 1
+        },
+        {
+            "text": "Courier-BoldOblique",
+            "value": 2
+        },
+        {
+            "text": "Courier-Oblique",
+            "value": 3
+        },
+        {
+            "text": "Helvetica-Bold",
+            "value": 5
+        },
+        {
+            "text": "Helvetica-BoldOblique",
+            "value": 6
+        },
+        {
+            "text": "Helvetica-Oblique",
+            "value": 7
+        },
+        {
+            "text": "Times-Bold",
+            "value": 9
+        },
+        {
+            "text": "Times-BoldItalic",
+            "value": 10
+        },
+        {
+            "text": "Times-Italic",
+            "value": 11
+        }
+    ],
+    "extensionFontFamilies": [
+        {
+            "text": "宋体",
+            "name": "SimSun",
+            "style": 34,
+            "charset": 134
+        },
+        {
+            "text": "楷体",
+            "name": "KaiTi",
+            "style": 32,
+            "charset": 134
+        },
+        {
+            "text": "メイリオ",
+            "name": "Meiryo",
+            "style": 32,
+            "charset": 128
+        },
+        {
+            "text": "한국어",
+            "name": "Korean",
+            "style": 32,
+            "charset": 129
+        }
+    ],
+    "depends": ["../edit-graphics"],
+    "restrictions": {
+        "products": ["websdk", "online"],
+        "platforms": ["desktop", "tablet"]
+    }
+}

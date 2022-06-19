@@ -1,0 +1,15 @@
+{
+  "contextmenu": {
+    "properties": "Eigenschappen",
+    "set-to-front": "Naar voor brengen",
+    "set-to-back": "Naar achter brengen",
+    "delete": "Verwijderen"
+  },
+  "graphics-properties": {
+    "dialog": {
+      "title": "Eigenschappen van afbeeldingsobject",
+      "image-title": "Eigenschappen van afbeeldingsobjecten",
+      "path-title": "Eigenschappen van padobjecten"
+    }
+  }
+}

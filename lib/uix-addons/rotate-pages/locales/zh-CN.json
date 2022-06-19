@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "旋转页面",
+    "subTitle": "页面范围",
+    "direction": "方向",
+    "clockwise": "顺时针旋转90度",
+    "counterClockwise": "逆时针旋转90度",
+    "allPage": "所有页面",
+    "turning": "180度",
+    "page": "页码：",
+    "pages": "页",
+    "separator": "/",
+    "rotate": "旋转：",
+    "sample": "范例： 1,5-9,12",
+    "sampleTips": "页面范围\n\n使用逻辑页码，并用双引号将其框起来。\n 例如： \"A\"。如果逻辑页码中包含双引号或者反斜线符号，需要在双引号或者反斜线符号前添加'\\' 。例如，从页面 \\5 到页面 \"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+    "allPages": "范围内的所有页面",
+    "evenPages": "仅偶数页面",
+    "oddPages": "仅奇数页面",
+    "landscape": "横向页面",
+    "protrait": "纵向页面",
+    "all": "横向和纵向页面",
+    "errMessage": "请输入一个有效的范围。",
+    "emptyMessage": "请输入一个有效的范围。",
+    "noPageSelected": "未选择任何页面。请选择合适的选项。"
+  },
+  "button-tooltip": {
+    "title": "旋转",
+    "tooltip": "旋转页面"
+  },
+  "rotate": {
+    "counterclockwise": "左",
+    "clockwise": "右",
+    "pages": "多页旋转"
+  }
+}

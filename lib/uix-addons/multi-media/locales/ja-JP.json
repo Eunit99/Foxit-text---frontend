@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "title": "ビデオとオーディオ"
+  },
+  "dialog": {
+    "RequireHTTPS": "このオーディオ機能を続行するには HTTPS でアクセスする必要があります。",
+    "DeviceNotFoundError": "マイクがありません。",
+    "TrackStartError": "マイクは既に使用中です。",
+    "PermissionDeniedError": "ブラウザーがマイクを使用可能か確認してください。",
+    "BrowserNotSupported": "ブラウザーがサポートしていません。",
+    "chooseFile": "ファイルを選択",
+    "rec-file-label": "ファイル: ",
+    "rec-recorder-label": "録音: ",
+    "rec-recording-tip": "録音中...",
+    "rec-poster-file-label": "ポスター画像: ",
+    "ok": "OK",
+    "cancel": "キャンセル"
+  }
+}

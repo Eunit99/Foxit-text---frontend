@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "Rotate Pages",
+    "subTitle": "Page Range",
+    "direction": "Direction",
+    "clockwise": "Clockwise 90 degrees",
+    "counterClockwise": "Counterclockwise 90 degrees",
+    "allPage": "All pages",
+    "turning": "180 degrees",
+    "page": "Page: ",
+    "pages": "Pages",
+    "separator": "of",
+    "rotate": "Rotate: ",
+    "sample": "Sample: 1,5-9,12",
+    "sampleTips": "Page Range\n\nTo use logical page number, enclose\nthe page number in quotes. Example:\n\"A\", If the logical page numbers\ninclude quote or backslash symbols,\nadd a '\\' before the quote or\nbackslash. Example, from pages \\5 to\npage \"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+    "allPages": "All pages in range",
+    "evenPages": "Even pages only",
+    "oddPages": "Odd pages only",
+    "landscape": "Landscape pages",
+    "protrait": "Portrait pages",
+    "all": "Landscape and portrait pages",
+    "errMessage": "Please enter a valid range",
+    "emptyMessage": "Please enter a range",
+    "noPageSelected": "No page is selected. Please select appropriate options."
+  },
+  "button-tooltip": {
+    "title": "Rotate",
+    "tooltip": "Rotate Pages"
+  },
+  "rotate": {
+    "counterclockwise": "Left",
+    "clockwise": "Right",
+    "pages": "Multi-page rotate"
+  }
+}

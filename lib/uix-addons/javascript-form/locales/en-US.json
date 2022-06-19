@@ -1,0 +1,72 @@
+{
+  "ribbon": {
+    "text": "JavaScript"
+  },
+  "button-tooltip": {
+    "title": "Add, modify and test JavaScript within this document"
+  },
+  "document-javascript": {
+    "text": "Document JavaScript",
+    "title": "Add and manage JavaScript functions",
+    "dialog": {
+      "title":"JavaScript Functions",
+      "name":"Script Name",
+      "close":"Close",
+      "add":"Add...",
+      "edit":"Edit...",
+      "delete":"Delete"
+    }
+  },
+  "document-action": {
+    "text": "Document Action",
+    "title":"Edit JavaScript document actions",
+    "dialog": {
+      "title": "Document Actions",
+      "name": "When this happens...",
+      "edit": "Edit...",
+      "sub-name": "Execute this JavaScript:",
+      "ok": "OK",
+      "cancel": "Cancel",
+      "doc-will-close": "Document Will Close",
+      "doc-will-save": "Document Will Save",
+      "doc-did-save": "Document Did Save",
+      "doc-did-saved": "Document Saved",
+      "doc-will-print": "Document Will Print",
+      "doc-did-print": "Document Did Print",
+      "doc-did-printed": "Document Printed",
+      "enable-tip": "JavaScript is currently disabled and this document uses if for some features. Enabling JavaScript can lead to some potential security risks."
+    }
+  },
+  "javascript-console": {
+    "text": "JavaScript Console",
+    "title": "Execute and debug the JavaScript code",
+    "dialog":{
+      "title":"JavaScript Console",
+      "name": "JavaScript Console",
+      "run": "Run",
+      "clear": "Clear",
+      "close":"Close",
+      "exec":"Console : exec",
+      "fail":"Line:",
+      "success":"It runs successfully."
+    },
+    "checkbox":{
+      "info":"Show tips when editing"
+    }
+  },
+  "edit-all-javascript": {
+    "text": "Edit All JavaScripts",
+    "title": "Edit all the JavaScripts in the document",
+    "dialog":{
+      "title":"JavaScript Editor",
+      "sub-title": "Create and Edit JavaScripts",
+      "ok": "OK",
+      "cancel": "Cancel",
+      "go": "Go to...",
+      "ln": "Ln",
+      "col":"Col",
+      "go-title": "Go to line",
+      "go-sub-title": "Line Number:"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "Proteger con contraseña",
+    "PermissionTitle": "Configuración de permisos",
+    "removeTitle": "Eliminar seguridad",
+    "inputOwnerPassword": "Ingrese la contraseña del propietario:"
+  },
+  "warning": {
+    "already-secured": "El documento ya estaba protegido. ¿Está seguro de que quiere cambiar la seguridad de este documento?",
+    "apply-to-document": "La configuración de seguridad no se aplicará al documento hasta que lo guarde. Podrá seguir modificando la configuración de seguridad hasta que cierre el documento.",
+    "incorrect-owner-pwd": "La contraseña del propietario no es correcta.",
+    "restriction-warn": "Algunos programas que no son Foxit PDF, pueden no aplicar o respetar las restricciones que establecen las contraseñas de permiso, permitiendo que los usuarios ignoren estas restricciones.",
+    "reader-warn": "Si deshabilita el acceso al texto para los dispositivos de lectura de pantalla para invidentes, el documento será inaccesible para algunos usuarios discapacitados y no cumplirá las normas de accesibilidad, como US Government Section 508."
+  },
+  "error": {
+    "pwdLength": "Contraseña debe tener entre 1 y 32 caracteres",
+    "open-pwd-not-match": "¡No coinciden las contraseñas para abrir el documento!",
+    "permission-pwd-not-match": "¡No coinciden las contraseñas de permiso del documento!",
+    "open-owner-pwd-cannot-same": "La contraseña para abrir el documento y la contraseña del propietario no pueden ser iguales. Ingrese una contraseña diferente, ya sea en el campo de contraseña para abrir documento o en el campo de contraseña del propietario.",
+    "admin-pwd-cannot-blank": "¡La contraseña del administrador no puede estar en blanco!"
+  },
+  "dialog": {
+    "Printing": "Impresión:",
+    "Accessiability": "Accesibilidad:",
+    "Copying": "Copiado:",
+    "Changes": "Cambios:",
+    "Allowed": "Permitido",
+    "NotAllowed": "No permitido",
+    "permission": "Permiso...",
+    "warn": "Advertencia:",
+    "error": "Error:",
+    "doc-open-caption": "Configuración de apertura de documento",
+    "password-check-hint": "Solicitar una contraseña para abrir el documento",
+    "password-label": "Ingresar contraseña:",
+    "password-confirm-label": "Confirmar contraseña:",
+    "document-restriction-caption": "Configuración de restricciones de documento",
+    "add-document-restriction": "Agregar restricción de documentos",
+    "add-document-setting": "Restringir impresión y edición del documento y su configuración de seguridad",
+    "permission-specific-caption": "Especificación de permisos",
+    "permission-caption": "Permisos",
+    "printing-label": "Impresión permitida:",
+    "printing-none": "Ninguno",
+    "printing-low": "Baja resolución (150 dpi)",
+    "printing-high": "Alta resolución",
+    "perm-access-label": "Permitir acceso al texto en dispositivos lectores de pantalla para invidentes",
+    "perm-copy-label": "Permitir la copia de texto, imágenes y otro contenido",
+    "perm-change-label": "Cambios permitidos:",
+    "perm-changes-none": "Ninguno",
+    "perm-changes-1": "Insertar, eliminar y rotar páginas",
+    "perm-changes-2": "Completar formularios y firmar en campos existentes de firmas",
+    "perm-changes-3": "Comentar, completar formularios, firmar en campos existentes de firma",
+    "perm-changes-4": "Cualquiera excepto extraer páginas",
+    "encrypt-caption": "Configuración de encriptación",
+    "enc-alg-label": "Algoritmo de encriptado:",
+    "enc-no-metadata": "No encriptar metadatos",
+    "ok": "Aceptar",
+    "cancel": "Cancelar",
+    "remove": {
+      "confirmation": "¿Está seguro de que desea eliminar la seguridad de este documento?"
+    },
+    "saveToPolicy": "Guardar la configuración como una nueva política"
+  },
+  "toolbar": {
+    "protect": {
+      "secureDocument": "Proteger documento"
+    }
+  }
+}

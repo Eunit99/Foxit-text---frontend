@@ -1,0 +1,9 @@
+{
+  "page": "Página: ",
+  "separator": "de",
+  "pageNotFoundTip": "No existe una página numerada '{{target}}' en este documento.",
+  "noPageSelected": "No hay ninguna página seleccionada. Seleccione opciones apropiadas.",
+  "sample": "Muestra: 1,5-9,12",
+  "sampleHintTitle": "Rango de páginas",
+  "sampleHintDescription": "Para utilizar el número lógico de página, encierre\nel número de página entre comillas. Ejemplo:\n\"A\". Si los números lógicos de página\nincluyen comillas o símbolos de barra invertida,\nañada una \"\\\" antes de las comillas o de la\nbarra invertida. Ejemplo, de la página \\5 a la\npágina \"12\": \"\\\\5\" - \"\\\"12\\\"\""
+}

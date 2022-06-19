@@ -1,0 +1,69 @@
+{
+  "title": "Páginas",
+  "tooltip": "Ver las miniaturas de página y reordenar las páginas",
+  "removePageConfirm": "¿Desea eliminar estas páginas? No se puede deshacer la operación.",
+  "deletePageConfirm": "¿Desea eliminar esta página? No se puede deshacer la operación.",
+  "removePageAlert": "No se pueden eliminar todas las páginas. Debe quedar al menos una página",
+  "embedAllPageThumbnail": "¿Está seguro de que desea incrustar todas las miniaturas de página en el documento?",
+  "removeEmbeddedPageThumbnail": "¿Está seguro de que desea eliminar todas las miniaturas incrustadas del documento?",
+  "insertFailed": "Error de inserción en el documento actual. Intente de nuevo más tarde.",
+  "contextmenu": {
+    "copy": "Copiar",
+    "paste": "Pegar",
+    "enlarge": "Ampliar miniaturas de página",
+    "reduce": "Reducir miniaturas de página",
+    "embed": "Incrustar todas las miniaturas de página",
+    "removeEmbedded": "Eliminar las miniaturas de página incrustadas",
+    "rotateLeft": "Rotar 90° a la izquierda",
+    "rotateRight": "Rotar 90° a la derecha",
+    "addBlankPage": "Insertar página en blanco",
+    "delete": "Eliminar páginas...",
+    "deletePage": "Eliminar página",
+    "duplicate": "Duplicar páginas...",
+    "crop": "Recortar páginas ...",
+    "rotate": "Rotar páginas...",
+    "extract": "Extraer páginas...",
+    "swap": "Intercambiar páginas...",
+    "move": "Mover páginas...",
+    "split": "Dividir documento...",
+    "properties": "Propiedades...",
+    "replace": "Reemplazar páginas...",
+    "formatNumbering": "Dar formato a los números de página...",
+    "pageTransitions": "Transiciones de página"
+  },
+  "pageHandleDialog": {
+    "preview": "Vista previa",
+    "showPreview": "Mostrar miniaturas",
+    "movePages": {
+      "title": "Mover páginas",
+      "pageRange": {
+        "title": "Rango de páginas",
+        "pages": "Página: ",
+        "separator": "de",
+        "simple": "Muestra: 1,5-9,12",
+        "sampleTips": "Rango de páginas\n\nPara utilizar un número lógico de página, encierre\nel número de página entre comillas. Ejemplo:\n\"A\", si los números lógicos de página\nincluyen comillas o símbolos de barra invertida,\nañada una \"\\\" antes de las comillas o de la\nbarra invertida. Ejemplo, de la página \\5 a\nla página \"12\": \"\\\\5\"-\"\\\"12\\\"\"",
+        "pageError": "Ingrese un rango válido"
+      },
+      "destination": {
+        "title": "Destino",
+        "beforePage": "Antes de la página",
+        "afterPage": "Después de la página",
+        "beginningDocument": "Principio del documento",
+        "endDocument": "Fin del documento"
+      }
+    }
+  },
+  "loadingProgress": {
+    "embedding": "Incrustando miniaturas...",
+    "removing": "Eliminando miniaturas..."
+  },
+  "retry": {
+    "title": "El archivo \"${filename}\" está protegido. Ingrese la contraseña para abrir el documento.",
+    "notSupport": "Este formato de archivo no es compatible con Foxit PDF Editor. Abra el archivo directamente e imprímalo con la impresora de Foxit PDF Editor"
+  },
+  "zoom": {
+    "zoom-in": "Acercar",
+    "zoom-out": "Alejar"
+  },
+  "pasteErrorAlertMsg": "Se produjo un error al abrir CopyPages_tmp.pdf. Este archivo está dañado y no pudo repararse."
+}

@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "検索オプション",
+      "searchFeatures": "検索機能",
+      "placeholder": "検索"
+    },
+    "basicOption": {
+      "wholeWordOnly": "完全に一致する語のみ",
+      "caseSensitive": "大文字と小文字を区別",
+      "includeBookmark": "しおりを含める",
+      "includeComments": "注釈を含める",
+      "highlight": "検索テキストをすべてハイライト表示",
+      "properties": "プロパティ"
+    },
+    "prop": {
+      "ok": "OK",
+      "cancel": "キャンセル",
+      "title": "プロパティ",
+      "intro": "検索結果の表示方法:",
+      "color": "カラー:",
+      "opacity": "不透明度:"
+    },
+    "searchType": {
+      "advanced": "高度な検索",
+      "replace": "検索と置換",
+      "redact": "検索して墨消し",
+      "highlight": "検索してハイライト"
+    }
+  },
+  "noMore": "検索が終了しました。これ以上一致するものは見つかりませんでした。",
+  "searchPanel": {
+    "mode": {
+      "exact": "完全に一致する語句を検索",
+      "any": "いずれかの語が一致するものを検索",
+      "pattern": "パターンで検索",
+      "multiple": "複数の語句",
+      "profile": "墨消しプロファイル"
+    },
+    "pattern": {
+      "select": "パターンを選択",
+      "phone": "電話番号",
+      "date": "日付",
+      "security": "社会保障番号",
+      "email": "メールアドレス",
+      "credit": "クレジットカード番号",
+      "bank": "IBAN コード",
+      "driving": "運転免許証番号"
+    },
+    "text": {
+      "wordOrPhrase": "検索する語句を指定してください。",
+      "searching": "検索中",
+      "country": "国/地域",
+      "selectProfile": "既存のプロファイルを選択",
+      "or": "または",
+      "newWord": "新たに検索する語句:",
+      "list": "語句の一覧:",
+      "profileList": "プロファイルの一覧",
+      "profileName": "プロファイル名:",
+      "overlayText": "オーバーレイテキスト:",
+      "wordOverlayList": "語句とオーバーレイテキストの一覧:",
+      "lookingFor": "検索する語句:",
+      "lookingWordRes": "現在の文書に ${1} 件",
+      "lookingMulRes": "現在の文書の複数の語句",
+      "lookingPatternRes": "現在の文書に ${1} 件",
+      "results": "結果:",
+      "resultCount": "${2} 文書内に ${1} 件",
+      "markOptions": "墨消しマークのオプション",
+      "markByPos": "${} 文字を墨消し用にマーク:  ${}",
+      "markByCount": "${} 文字から ${} 文字まで墨消し用にマーク",
+      "profileHeader": "語句",
+      "resultMetaData": "メタデータ内に ${1} 件"
+    },
+    "options": {
+      "wholeWordsOnly": "完全に一致する語のみ",
+      "caseSensitive": "大文字と小文字を区別",
+      "includeBookmarks": "しおりを含める",
+      "includeComments": "注釈を含める",
+      "includeAttachments": "添付ファイルを含める",
+      "stemming": "語幹検索",
+      "highlight": "検索テキストをすべてハイライト表示",
+      "autoSize": "常に墨消し領域に合わせてテキストサイズを自動調整",
+      "beginning": "語句の先頭",
+      "end": "語句の末尾"
+    },
+    "button": {
+      "more": "詳細 >>",
+      "less": "基本 >>",
+      "search": "検索",
+      "selectWords": "単語を選択...",
+      "selectProfile": "選択...",
+      "manage": "管理",
+      "create": "作成",
+      "add": "追加",
+      "remove": "削除",
+      "import": "読み込み...",
+      "export": "書き出し...",
+      "edit": "編集",
+      "delete": "削除",
+      "close": "閉じる",
+      "importProfile": "読み込み",
+      "exportProfile": "書き出し",
+      "save": "保存",
+      "saveAndSearch": "保存して検索",
+      "cancel": "キャンセル",
+      "newSearch": "新規検索",
+      "checkAll": "すべてチェック",
+      "markRedaction": "チェックした結果を墨消し用に設定",
+      "applyRedaction": "墨消しを適用",
+      "markWholeWord": "語句をすべて墨消し",
+      "markPartialWord": "語句の一部を墨消し",
+      "setting": "設定...",
+      "loadMore": "詳細",
+      "text-highlight": "テキストをハイライト"
+    },
+    "country": {
+      "Brazil": "ブラジル",
+      "Canada": "カナダ",
+      "China": "中国",
+      "Denmark": "デンマーク",
+      "Finland": "フィンランド",
+      "France": "フランス",
+      "Germany": "ドイツ",
+      "Hong Kong/Taiwan": "香港 / 台湾",
+      "Iceland": "アイスランド",
+      "Ireland": "アイルランド",
+      "Japan": "日本",
+      "Korea": "大韓民国",
+      "Norway": "ノルウェー",
+      "Spain": "スペイン",
+      "Sweden": "スウェーデン",
+      "Turkey": "トルコ",
+      "United Kingdom": "イギリス",
+      "United States": "アメリカ合衆国"
+    },
+    "dialog": {
+      "selectWord": "テキストを検索して削除",
+      "manageProfile": "プロファイルの管理",
+      "createProfile": "新しいプロファイルの作成",
+      "partialRedaction": "設定",
+      "modified": "文書が変更されたため、検索結果が無効です。 \n\n再度検索を実行しますか?",
+      "noModifyPerm": "選択したコンテンツに墨消しを適用するアクセス許可がありません。 ",
+      "existInHide": "該当するものが現在非表示のレイヤー上にあります。今すぐレイヤーを表示しますか?"
+    },
+    "table": {
+      "wordPhrase": "語句",
+      "overlayText": "オーバーレイテキスト"
+    },
+    "csv": {
+      "results": "検索結果",
+      "summary": "概要",
+      "savedOn": "保存日",
+      "search": "検索対象",
+      "count": "見つかった件数",
+      "fileName": "ファイル名",
+      "title": "タイトル",
+      "page": "ページ",
+      "searchInstance": "検索件数",
+      "metadata": "文書のメタデータ"
+    }
+  }
+}

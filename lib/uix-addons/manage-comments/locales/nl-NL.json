@@ -1,0 +1,18 @@
+{
+  "manageComments": {
+    "text": "Opmerkingen beheren"
+  },
+  "comments": {
+    "text": "Opmerkingen"
+  },
+  "show-all": {
+    "text": "Alles weergeven",
+    "desc": "Alles weergeven Ctrl+8",
+    "descSub": "Alle opmerkingen in de documenten weergeven"
+  },
+  "hide-all": {
+    "text": "Alles verbergen",
+    "desc": "Alles Verbergen Ctrl+Shift +8",
+    "descSub": "Alle opmerkingen in de documenten verbergen"
+  }
+}

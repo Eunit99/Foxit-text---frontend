@@ -1,0 +1,11 @@
+{
+  "tips": {
+    "xfa": "Editar formulario XFA estático"
+  },
+  "confirm": {
+    "title": "",
+    "content": "Este formulario XFA estático contiene componentes que se perderán cuando elija editar el formulario. Guarde una copia del archivo original. ¿Desea continuar con la edición?",
+    "confirmButton": "Sí",
+    "cancelButton": "No"
+  }
+}

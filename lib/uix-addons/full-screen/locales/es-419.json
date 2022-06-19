@@ -1,0 +1,7 @@
+{
+  "fullscreen": "Pantalla completa",
+  "exit-fullscreen": "Salir de pantalla completa",
+  "contextmenu": "Pantalla completa",
+  "contextmenu-exit": "Salir de pantalla completa",
+  "browser-not-support": "El navegador actual no es compatible con la operación de pantalla completa."
+}

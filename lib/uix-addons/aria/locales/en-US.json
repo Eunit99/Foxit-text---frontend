@@ -1,0 +1,51 @@
+{
+    "labels": {
+        "toolbar": {
+            "open-file": "File",
+            "selection": "Selection",
+            "shape": "Shape",
+            "measurement": "Measurement",
+            "path-object": "Path Object"
+        },
+        "gotopage": "Set page",
+        "setzoom": "Set zoom",
+        "set-font-size": "Set font size",
+        "close-layer-btn": "Close dialog",
+        "color-picker-item": "Color: {{color}}",
+        "color-picker-remove-item": "Remove color: {{color}}",
+        "color-picker-transparent": "Color: transparent",
+        "color-picker-removecolor": "Remove color",
+        "color-picker-add-color": "Add color",
+        "color-picker-confirm-remove": "Confirm remove color",
+        "color-spectrum-hue": "Hue: {{hue}}",
+        "commentlist": {
+            "group-title": "Page {{page}}, Amount {{count}}",
+            "comment": "{{type}} on page {{page}} by {{author}}, {{content}}",
+            "reply": "{{type}} on page {{page}} from {{replyAuthor}} to {{commentAuthor}}, {{content}}"
+        },
+        "field": {
+            "widget": "{{type}} on page {{page}}, name: {{name}}"
+        },
+        "createInkSign": {
+            "strokeColor": "Stroke Color",
+            "brushSize": "Brush Size",
+            "eraser": "Eraser",
+            "clear": "Clear",
+            "preview": "Preview",
+            "unit": "{{unit}} Pixel"
+        },
+        "createSignature": "Created signature {{index}}",
+        "deleteSignature": "Delete signature {{index}}",
+        "no-color": "No color",
+        "visibleBox": "Visible",
+        "promptTitle": "Prompt",
+        "select": {
+            "selectedLabel": "Selected"
+        },
+        "prevMonth": "Previous Month",
+        "nextMonth": "Next Month",
+        "PDF": {
+            "pageN": "PDF Page, {{pageIndex}} of {{pageCount}}"
+        }
+    }
+}

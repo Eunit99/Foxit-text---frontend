@@ -1,0 +1,26 @@
+{
+  "dialog": {
+    "title": "Plantillas de página",
+    "close": "Cerrar",
+    "add": "Agregar",
+    "replace": "Reemplazar",
+    "rename": "Renombrar",
+    "delete": "Eliminar",
+    "goto": "Ir a",
+    "name": "Nombre: ",
+    "renameTitle": "Renombrar plantilla",
+    "newName": "Nuevo nombre: ",
+    "operateGuideTip": "Haga clic en el área de la izquierda del nombre de la plantilla para que la plantilla sea visible o invisible.",
+    "addTip": "¿Crear una nueva plantilla usando la página actual?",
+    "replaceTip": "¿Desea cambiar la plantilla para que luzca como la página actual?",
+    "renameTip": "¿Desea cambiar el nombre de la plantilla actual?",
+    "renameTip1": "Este nombre ya está en uso en otra plantilla.",
+    "deleteTip": "¿Desea eliminar la plantilla seleccionada?",
+    "deleteTip1": "La eliminación de la plantilla no elimina la página del documento actual, solo elimina la plantilla.",
+    "ok": "Aceptar",
+    "cancel": "Cancelar"
+  },
+  "button-tooltip": {
+    "title": "Plantilla de página"
+  }
+}

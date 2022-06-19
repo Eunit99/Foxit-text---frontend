@@ -1,0 +1,15 @@
+{
+  "ribbon": {
+    "text": "匯出"
+  },
+  "button-tooltip": {
+    "title": "匯出表單資料"
+  },
+  "export": {
+    "xml": "至 XML 檔案",
+    "fdf": "至 FDF 檔案",
+    "xfdf": "至 XFDF 檔案",
+    "csv": "至 CSV 檔案",
+    "txt": "至 TXT 檔案"
+  }
+}

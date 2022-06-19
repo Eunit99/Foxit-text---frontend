@@ -1,0 +1,51 @@
+{
+  "labels": {
+    "toolbar": {
+      "open-file": "Datei",
+      "selection": "Auswahl",
+      "shape": "Form",
+      "measurement": "Maß",
+      "path-object": "Pfadobjekt"
+    },
+    "gotopage": "Seite festlegen",
+    "setzoom": "Zoom festlegen",
+    "set-font-size": "Schriftgröße festlegen",
+    "close-layer-btn": "Dialogfeld schließen",
+    "color-picker-item": "Farbe: {{color}}",
+    "color-picker-remove-item": "Farbe entfernen: {{color}}",
+    "color-picker-transparent": "Farbe: transparent",
+    "color-picker-removecolor": "Farbe entfernen",
+    "color-picker-add-color": "Farbe hinzufügen",
+    "color-picker-confirm-remove": "Farbe entfernen bestätigen",
+    "color-spectrum-hue": "Farbton: {{hue}}",
+    "commentlist": {
+      "group-title": "Seite {{page}}, Betrag {{count}}",
+      "comment": "{{type}} auf Seite {{page}} von {{author}}, {{content}}",
+      "reply": "{{type}} auf Seite {{page}} von {{replyAuthor}} an {{commentAuthor}}, {{content}}"
+    },
+    "field": {
+      "widget": "{{type}} auf Seite {{page}}, Name: {{name}}"
+    },
+    "createInkSign": {
+      "strokeColor": "Konturfarbe",
+      "brushSize": "Pinselgröße",
+      "eraser": "Radiergummi",
+      "clear": "Löschen",
+      "preview": "Vorschau",
+      "unit": "{{unit}} Pixel"
+    },
+    "createSignature": "Erstellte Signatur {{index}}",
+    "deleteSignature": "Signatur löschen {{index}}",
+    "no-color": "Keine Farbe",
+    "visibleBox": "Anzeigen",
+    "promptTitle": "Warnung",
+    "select": {
+      "selectedLabel": "Ausgewählte"
+    },
+    "prevMonth": "Vorheriger Monat",
+    "nextMonth": "Nächster Monat",
+    "PDF": {
+      "pageN": "PDF-Seite, {{pageIndex}} von {{pageCount}}"
+    }
+  }
+}

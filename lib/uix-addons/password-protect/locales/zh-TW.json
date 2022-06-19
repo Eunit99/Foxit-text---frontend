@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "密碼保護",
+    "PermissionTitle": "權限設定",
+    "removeTitle": "移除安全性設定",
+    "inputOwnerPassword": "請輸入擁有者密碼"
+  },
+  "warning": {
+    "already-secured": "文件已受到保護。\n您確定要變更此文件的安全性?",
+    "apply-to-document": "在您儲存文件之前，安全性設定將不會套用至文件。在您關閉文件之前，將可繼續變更安全性設定。",
+    "incorrect-owner-pwd": "擁有者或密碼不正確。",
+    "restriction-warn": "某些非福昕 PDF 軟件可能不會強制執行或遵守權限密碼設置的限制，從而允許用戶忽略這些限制。",
+    "reader-warn": "停用視障人士的螢幕閱讀設備文字存取功能，將使視障使用者無法存取此文件，同時也會違反協助工具法規，例如 US Government Section 508。"
+  },
+  "error": {
+    "pwdLength": "您的密碼必須介於 1 到 32 個字符之間",
+    "open-pwd-not-match": "文件開啟密碼不相符!",
+    "permission-pwd-not-match": "文件權限密碼不相符!",
+    "open-owner-pwd-cannot-same": "文件開啟密碼和擁有者密碼不得相同。請在「文件開啟密碼」或「擁有者密碼」欄位中輸入不同的密碼。",
+    "admin-pwd-cannot-blank": "管理員密碼不可為空白!"
+  },
+  "dialog": {
+    "Printing": "列印：",
+    "Accessiability": "可存取性：",
+    "Copying": "複製：",
+    "Changes": "變更：",
+    "Allowed": "已允許",
+    "NotAllowed": "不允許",
+    "permission": "權限",
+    "warn": "警告：",
+    "error": "錯誤：",
+    "doc-open-caption": "文件開啟設定",
+    "password-check-hint": "需要輸入密碼才能開啟文件",
+    "password-label": "密碼輸入(&U)：",
+    "password-confirm-label": "密碼確認：",
+    "document-restriction-caption": "文件限制設定",
+    "add-document-restriction": "新增文件限制",
+    "add-document-setting": "限制列印和編輯文件及其安全性設定(&R)",
+    "permission-specific-caption": "權限指定",
+    "permission-caption": "權限",
+    "printing-label": "允許列印：",
+    "printing-none": "無",
+    "printing-low": "低解析度 (150 dpi)",
+    "printing-high": "高解析度",
+    "perm-access-label": "為視障人士啟動畫面閱讀器來閱讀文字",
+    "perm-copy-label": "允許複製文字、影像和其他內容",
+    "perm-change-label": "允許變更：",
+    "perm-changes-none": "無",
+    "perm-changes-1": "插入、刪除、旋轉頁面",
+    "perm-changes-2": "填寫表單且簽署已存在的簽名欄位",
+    "perm-changes-3": "新增註解、填寫表單、簽署已存在的簽名欄位",
+    "perm-changes-4": "除擷取頁外的其他頁面",
+    "encrypt-caption": "加密設定",
+    "enc-alg-label": "加密算法：",
+    "enc-no-metadata": "不加密中繼資料",
+    "ok": "確定",
+    "cancel": "取消",
+    "remove": {
+      "confirmation": "您確定要從此文件移除安全性設定?"
+    },
+    "saveToPolicy": "將設定另存為新原則"
+  },
+  "toolbar": {
+    "protect": {
+      "secureDocument": "安全文件"
+    }
+  }
+}

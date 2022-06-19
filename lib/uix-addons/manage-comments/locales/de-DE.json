@@ -1,0 +1,18 @@
+{
+  "manageComments": {
+    "text": "Kommentare verwalten"
+  },
+  "comments": {
+    "text": "Kommentare"
+  },
+  "show-all": {
+    "text": "Alle anzeigen",
+    "desc": "Alle anzeigen Strg+8",
+    "descSub": "Alle Kommentare in den Dokumenten einblenden"
+  },
+  "hide-all": {
+    "text": "Alle ausblenden",
+    "desc": "Ausblenden aufheben Strg+Umschalt+8",
+    "descSub": "Alle Kommentare in den Dokumenten ausblenden"
+  }
+}

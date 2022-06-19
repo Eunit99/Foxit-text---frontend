@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "title": "Audio & Video"
+  },
+  "dialog": {
+    "RequireHTTPS": "This audio feature requires HTTPS to continue.",
+    "DeviceNotFoundError": "No Microphone.",
+    "TrackStartError": "The Microphone is already occupied.",
+    "PermissionDeniedError": "Please check if your browser is allowed for a microphone.",
+    "BrowserNotSupported": "Browser not supported.",
+    "chooseFile": "Choose file",
+    "rec-file-label": "File: ",
+    "rec-recorder-label": "Recorder: ",
+    "rec-recording-tip": "Recording...",
+    "rec-poster-file-label": "Poster File: ",
+    "ok": "OK",
+    "cancel": "Cancel"
+  }
+}

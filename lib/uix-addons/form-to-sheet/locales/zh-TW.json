@@ -1,0 +1,11 @@
+{
+  "ribbon": {
+    "text": "表單合併成工作表"
+  },
+  "button-tooltip": {
+    "title": "將表單資料匯出至試算表"
+  },
+  "export": {
+    "existing": "附加到現有工作表"
+  }
+}

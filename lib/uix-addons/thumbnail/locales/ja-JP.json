@@ -1,0 +1,63 @@
+{
+    "title": "ページ",
+    "tooltip": "ページサムネイルの表示とページ順の変更",
+    "removePageConfirm": "これらのページを削除しますか? この操作は元に戻すことができません。",
+    "deletePageConfirm": "このページを削除しますか? この操作は元に戻すことができません。",
+    "removePageAlert": "すべてのページを削除することはできません。少なくとも 1 ページ残す必要があります。",
+    "embedAllPageThumbnail": "すべてのページサムネイルを文書に埋め込んでよろしいですか?",
+    "removeEmbeddedPageThumbnail": "文書に埋め込まれたすべてのページサムネイルを削除してもよろしいですか?",
+    "contextmenu": {
+        "copy": "コピー",
+        "paste": "貼り付け",
+        "enlarge": "ページサムネイルを拡大",
+        "reduce": "ページサムネイルを縮小",
+        "embed": "すべてのページサムネイルを埋め込む",
+        "removeEmbedded": "埋め込まれたページサムネイルを削除",
+        "rotateLeft": "左に 90° 回転",
+        "rotateRight": "右に 90° 回転",
+        "addBlankPage": "空白ページを挿入",
+        "delete": "ページを削除...",
+        "deletePage": "ページを削除",
+        "duplicate": "ページを複製...",
+        "crop": "ページを切抜...",
+        "rotate": "ページを回転...",
+        "extract": "ページを抽出...",
+        "swap": "ページを入替え...",
+        "move": "ページを移動...",
+        "split": "文書を分割...",
+        "properties": "プロパティ...",
+        "replace": "ページを置換...",
+        "formatNumbering": "ページ番号書式...",
+        "pageTransitions": "ページ効果"
+    },
+    "pageHandleDialog": {
+        "preview": "プレビュー",
+        "showPreview": "サムネイルを表示",
+        "movePages": {
+            "title": "ページを移動",
+            "pageRange": {
+                "title": "ページ範囲",
+                "pages": "ページ: ",
+                "separator": "/",
+                "simple": "例: 1,5-9,12",
+                "sampleTips": "ページ範囲\n\n論理ページ番号を使用するには、\"A\"\nのように引用符で囲んでください。\n論理ページ番号に引用符やバック\nスラッシュ記号が含まれる場合は、\n引用符やバックスラッシュの前に '\\'\nを追加してください。例: \\5 ページ\nから \"12\" ページ: \"\\\\5\"-\"\\\"12\\\"\"",
+                "pageError": "有効なページ範囲を入力してください"
+            },
+            "destination": {
+                "title": "移動先",
+                "beforePage": "ページの前",
+                "afterPage": "ページの後",
+                "beginningDocument": "文書の先頭",
+                "endDocument": "文書の最終"
+            }
+        }
+    },
+    "loadingProgress": {
+        "embedding": "サムネイルを埋め込み中...",
+        "removing": "サムネイルを削除中..."
+    },
+    "retry": {
+        "title": "ファイル \"${filename}\" は保護されています。文書を開くパスワードを入力してください。",
+        "notSupport": "Foxit PDF Editor はこのファイル形式をサポートしていません。ファイルを直接開いてから Foxit PDF Editor Printer で印刷してください。"
+    }
+}

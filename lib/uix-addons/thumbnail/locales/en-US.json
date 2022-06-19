@@ -1,0 +1,69 @@
+{
+    "title": "Pages",
+    "tooltip": "View page thumbnails and re-order pages",
+    "removePageConfirm": "Do you want delete these pages? The operation cannot be undone.",
+    "deletePageConfirm": "Do you want delete this page? The operation cannot be undone.",
+    "removePageAlert": "You cannot delete All pages. At least one page must remain",
+    "embedAllPageThumbnail": "Are you sure you want to embed all page thumbnails in the document?",
+    "removeEmbeddedPageThumbnail": "Are you sure you want to remove all embedded page thumbnails from the document?",
+    "insertFailed": "Failed to insert into the current document. Please try again later.",
+    "contextmenu": {
+        "copy": "Copy",
+        "paste": "Paste",
+        "enlarge": "Enlarge Page Thumbnails",
+        "reduce": "Reduce Page Thumbnails",
+        "embed": "Embed All Page Thumbnails",
+        "removeEmbedded": "Remove Embedded Page Thumbnails",
+        "rotateLeft": "Rotate 90° Counterclockwise",
+        "rotateRight": "Rotate 90° Clockwise",
+        "addBlankPage": "Insert Blank Page",
+        "delete": "Delete Pages...",
+        "deletePage": "Delete Page",
+        "duplicate": "Duplicate Pages...",
+        "crop": "Crop Pages...",
+        "rotate": "Rotate Pages...",
+        "extract": "Extract Pages...",
+        "swap": "Swap Pages...",
+        "move": "Move Pages...",
+        "split": "Split Document...",
+        "properties": "Properties...",
+        "replace": "Replace Pages...",
+        "formatNumbering": "Format Page Numbers...",
+        "pageTransitions": "Page Transitions"
+    },
+    "pageHandleDialog": {
+        "preview": "Preview",
+        "showPreview": "Show Thumbnails",
+        "movePages": {
+            "title": "Move Pages",
+            "pageRange": {
+                "title": "Page Range",
+                "pages": "Page: ",
+                "separator": "of",
+                "simple": "Sample: 1,5-9,12",
+                "sampleTips": "Page Range\n\nTo use logical page number, enclose\nthe page number in quotes. Example:\n\"A\",If the logical page numbers\ninclude quote or backslash symbols,\nadd a '\\' before the quote or\nbackslash. Example, from pages \\5 to\npage \"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+                "pageError": "Please enter a valid range"
+            },
+            "destination": {
+                "title": "Destination",
+                "beforePage": "Before page",
+                "afterPage": "After page",
+                "beginningDocument": "Beginning of document",
+                "endDocument": "End of document"
+            }
+        }
+    },
+    "loadingProgress": {
+        "embedding": "Embedding thumbnails...",
+        "removing": "Removing thumbnails..."
+    },
+    "retry": {
+        "title": "The file \"${filename}\" is protected. Please enter The Document Open Password.",
+        "notSupport": "Foxit PDF Editor does not support this file format. Please open the file directly and print it with the Foxit PDF Editor printer"
+    },
+    "zoom": {
+        "zoom-in": "Zoom In",
+        "zoom-out": "Zoom Out"
+    },
+    "pasteErrorAlertMsg": "There was an error opening CopyPages_tmp.pdf. This file is damaged and could not be repaired."
+}

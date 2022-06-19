@@ -1,0 +1,22 @@
+{
+    "library": "FullScreenUIXAddon",
+    "i18n": {
+        "sources": {
+            "en-US": "./locales/en-US.json",
+            "zh-CN": "./locales/zh-CN.json",
+            "zh-TW": "./locales/zh-TW.json",
+            "ja-JP": "./locales/ja-JP.json",
+            "it-IT": "./locales/it-IT.json",
+			"de-DE": "./locales/de-DE.json",
+			"fr-FR": "./locales/fr-FR.json",
+            "es-419": "./locales/es-419.json",
+            "nl-NL": "./locales/nl-NL.json"
+        }
+    },
+    "css": [
+        "./index.css"
+    ],
+    "restrictions": {
+        "products": ["websdk", "online"]
+    }
+}

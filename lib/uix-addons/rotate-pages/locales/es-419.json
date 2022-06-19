@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "Rotar páginas",
+    "subTitle": "Rango de páginas",
+    "direction": "Dirección",
+    "clockwise": "Hacia la derecha 90 grados",
+    "counterClockwise": "Hacia la izquierda 90 grados",
+    "allPage": "Todas las páginas",
+    "turning": "180 grados",
+    "page": "Página: ",
+    "pages": "Páginas",
+    "separator": "de",
+    "rotate": "Rotar: ",
+    "sample": "Muestra: 1,5-9,12",
+    "sampleTips": "Rango de páginas\n\nPara utilizar un número lógico e página, encierre\nel número de página entre comillas. Ejemplo:\n\"A\", si los números lógicos de página\nincluyen comillas o símbolos de barra invertida,\nañada una \"\\\" antes de las comillas o de la\nbarra invertida. Ejemplo, de la página \\5 a la\npágina \"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+    "allPages": "Todas las páginas del rango",
+    "evenPages": "Solo páginas pares",
+    "oddPages": "Solo páginas impares",
+    "landscape": "Páginas horizontales",
+    "protrait": "Páginas verticales",
+    "all": "Páginas horizontales y verticales",
+    "errMessage": "Ingrese un rango válido",
+    "emptyMessage": "Escriba un rango",
+    "noPageSelected": "No hay ninguna página seleccionada. Seleccione opciones apropiadas."
+  },
+  "button-tooltip": {
+    "title": "Rotar",
+    "tooltip": "Rotar páginas"
+  },
+  "rotate": {
+    "counterclockwise": "Izquierda",
+    "clockwise": "Derecha",
+    "pages": "Rotación de varias páginas"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ribbon": {
+    "text": "Formulario a hoja"
+  },
+  "button-tooltip": {
+    "title": "Exportar datos del formulario a una hoja de cálculo"
+  },
+  "export": {
+    "existing": "Anexar a una hoja existente"
+  }
+}

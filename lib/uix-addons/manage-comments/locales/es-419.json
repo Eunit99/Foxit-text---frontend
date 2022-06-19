@@ -1,0 +1,18 @@
+{
+  "manageComments": {
+    "text": "Administrar comentarios"
+  },
+  "comments": {
+    "text": "Comentarios"
+  },
+  "show-all": {
+    "text": "Mostrar todo",
+    "desc": "Mostrar todo Ctrl+8",
+    "descSub": "Mostrar todos los comentarios en los documentos"
+  },
+  "hide-all": {
+    "text": "Ocultar todo",
+    "desc": "Ocultar todo Shift+Ctrl+8",
+    "descSub": "Ocultar todos los comentarios en los documentos"
+  }
+}

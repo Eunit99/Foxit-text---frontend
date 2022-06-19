@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="30px" viewBox="0 0 100 30" enable-background="new 0 0 100 30" xml:space="preserve">
+<rect x="0.001" fill="#2E6DAD" width="99.999" height="30"/>
+<rect x="2.5" y="2.666" fill="#2E6DAD" width="95" height="25"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="100" height="30"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect x="2.5" y="2.666" clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="1.2" width="95" height="25"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M34.243,10.728c0-2.021-1.702-3.658-3.801-3.658
+		c-2.099,0-3.801,1.637-3.801,3.658c0,1.468,0.905,2.726,2.203,3.308v2.23h3.084v-2.171C33.288,13.538,34.243,12.24,34.243,10.728"
+		/>
+	<rect x="25.152" y="17.839" clip-path="url(#SVGID_2_)" fill="#FFFFFF" width="10.769" height="3.588"/>
+	<rect x="25.171" y="22.348" clip-path="url(#SVGID_2_)" fill="#FFFFFF" width="10.809" height="0.556"/>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M48.042,11.103h-3.504v3.035h3.246v1.031h-3.246v3.967h-1.172V10.06h4.676V11.103z"/>
+	<path fill="#FFFFFF" d="M50.912,10.06v9.076h-1.171V10.06H50.912z"/>
+	<path fill="#FFFFFF" d="M60.68,19.136h-1.389l-4.564-7.061c-0.129-0.199-0.232-0.396-0.311-0.592h-0.035
+		c0.031,0.203,0.047,0.627,0.047,1.271v6.381h-1.16V10.06h1.471l4.441,6.938c0.211,0.328,0.336,0.537,0.375,0.627h0.023
+		c-0.039-0.258-0.059-0.699-0.059-1.324v-6.24h1.16V19.136z"/>
+	<path fill="#FFFFFF" d="M70.154,19.136h-1.295l-0.926-2.484h-3.779l-0.873,2.484h-1.295l3.457-9.076h1.254L70.154,19.136z
+		 M67.57,15.626l-1.371-3.773c-0.043-0.121-0.09-0.332-0.141-0.633h-0.029c-0.043,0.273-0.092,0.484-0.146,0.633l-1.359,3.773H67.57
+		z"/>
+	<path fill="#FFFFFF" d="M76.254,19.136h-4.787V10.06h1.172v8.039h3.615V19.136z"/>
+</g>
+</svg>

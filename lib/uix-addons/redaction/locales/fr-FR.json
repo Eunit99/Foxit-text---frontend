@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "Marquer pour la censure",
+    "redact_text_image": "Marquer le texte et l'image",
+    "redact_area": "Marquer la surface",
+    "redact_page": "Marquer la page",
+    "redact_auto": "Censure automatique",
+    "redact_search": "Rechercher du texte",
+    "apply": "Appliquer",
+    "ok": "OK",
+    "cancel": "Annuler"
+  },
+  "tooltips": {
+    "redaction": "Marquer le contenu pour la censure",
+    "apply": "Supprimer définitivement le texte marqué",
+    "auto_redaction": "Censure intelligente Foxit\n\nLaissez la « censure intelligente Foxit » censurer automatiquement vos documents."
+  },
+  "dialog": {
+    "apply_alert": "Vous êtes sur le point de censurer définitivement le contenu sélectionné qui a été marqué pour la censure. Si vous sélectionnez Appliquer, l'opération ne peut pas être annulée\nVoulez-vous vraiment continuer ?\nIMPORTANT ! Nous vous recommandons d'enregistrer une copie de sauvegarde de ce document avant d'appliquer les censures.",
+    "redaction_page": {
+      "mark_current_page": "Marquer la page actuelle pour la censure",
+      "mark_specific_page": "Marquer les pages sélectionnées pour la censure",
+      "page_range": "Plage de pages"
+    },
+    "readaction_page_max": "Maximum : ",
+    "pageRange": "Plage de pages"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "title": "音訊與視訊"
+  },
+  "dialog": {
+    "RequireHTTPS": "此音訊功能需要 HTTPS 才能繼續。",
+    "DeviceNotFoundError": "無麥克風。",
+    "TrackStartError": "麥克風已遭到佔用。",
+    "PermissionDeniedError": "請檢查您的瀏覽器是否允許使用麥克風。",
+    "BrowserNotSupported": "瀏覽器不受支援。",
+    "chooseFile": "選擇檔案",
+    "rec-file-label": "檔案： ",
+    "rec-recorder-label": "錄音機： ",
+    "rec-recording-tip": "錄音中...",
+    "rec-poster-file-label": "Poster 檔案： ",
+    "ok": "確定",
+    "cancel": "取消"
+  }
+}

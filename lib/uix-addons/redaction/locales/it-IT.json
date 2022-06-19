@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "Contrassegna per la redazione",
+    "redact_text_image": "Contrassegna testo e immagine",
+    "redact_area": "Contrassegna area",
+    "redact_page": "Contrassegna pagina",
+    "redact_auto": "Redazione automatica",
+    "redact_search": "Trova testo",
+    "apply": "Applica",
+    "ok": "OK",
+    "cancel": "Annulla"
+  },
+  "tooltips": {
+    "redaction": "Contrassegna il contenuto per la redazione",
+    "apply": "Rimuovi definitivamente il contenuto contrassegnato",
+    "auto_redaction": "Foxit Smart Redact\n\nLascia che \"Foxit Smart Redact\" rediga automaticamente i tuoi documenti."
+  },
+  "dialog": {
+    "apply_alert": "Stai per redarre in modo permanente il contenuto selezionato che è stato contrassegnato per la redazione. Selezionando Applica, l'operazione non può essere annullata.\nSei sicuro di voler continuare?\nIMPORTANTE! Si consiglia di salvare una copia di backup di questo documento prima di applicare le revisioni.",
+    "redaction_page": {
+      "mark_current_page": "Contrassegna la pagina corrente per la redazione",
+      "mark_specific_page": "Contrassegna le pagine selezionate per la redazione",
+      "page_range": "Intervallo pagine"
+    },
+    "readaction_page_max": "Max: ",
+    "pageRange": "Intervallo pagine"
+  }
+}

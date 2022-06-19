@@ -1,0 +1,21 @@
+{
+  "tips": {
+    "recognition": "Exécuter la reconnaissance de champ de formulaire"
+  },
+  "dialog": {
+    "title": "Reconnaissance de champ de formulaire",
+    "content": "Votre formulaire PDF a été créé.\n\nLors de la création, il est possible que Foxit ait ignoré des champs ou créé des champs superflus.\n\nValidez les champs du formulaire et leurs noms. Pour en ajouter, cliquez sur un bouton de champ de formulaire dans la barre d'outils. Pour en modifier ou en supprimer, cliquez avec le bouton droit sur le formulaire.",
+    "description": "1 = Nom du champ, 2 = Champ",
+    "notAgain": "Ne plus afficher"
+  },
+  "error": {
+    "title": "",
+    "noFields": "Aucune nouvelle annotation de champ de formulaire n'a été détectée."
+  },
+  "quickRecognition": {
+    "alert": {
+      "content": "Foxit PDF Editor n'a pas pu effectuer la reconnaissance, car cette page contient du texte présentable ou est vide.",
+      "againText": "Ignorer les futures erreurs dans ce document"
+    }
+  }
+}

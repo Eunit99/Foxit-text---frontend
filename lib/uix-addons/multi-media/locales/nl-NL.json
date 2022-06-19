@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "title": "Audio en video"
+  },
+  "dialog": {
+    "RequireHTTPS": "Deze audiofunctie vereist verder gebruik van HTTPS.",
+    "DeviceNotFoundError": "Geen microfoon",
+    "TrackStartError": "De microfoon wordt al gebruikt.",
+    "PermissionDeniedError": "Controleer of een microfoon toegestaan is in uw browser.",
+    "BrowserNotSupported": "Browser niet ondersteund.",
+    "chooseFile": "Bestand kiezen",
+    "rec-file-label": "Bestand: ",
+    "rec-recorder-label": "Opname-apparaat: ",
+    "rec-recording-tip": "Opnemen...",
+    "rec-poster-file-label": "Posterbestand: ",
+    "ok": "OK",
+    "cancel": "Annuleren"
+  }
+}

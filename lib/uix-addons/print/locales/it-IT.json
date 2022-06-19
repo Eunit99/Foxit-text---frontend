@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "Chiudi",
+    "cancel": "Annulla",
+    "ok": "OK",
+    "printDialog": {
+      "title": "Stampa",
+      "range": "Intervallo di stampa",
+      "selectedPDF": "File PDF selezionati",
+      "allPDF": "Tutti i file PDF",
+      "all": "Tutte le pagine",
+      "current": "Pagina corrente",
+      "from": "Pagine da",
+      "to": "a",
+      "assign": "Pagine",
+      "comments": "Commenti",
+      "printComments": "Stampa commenti",
+      "moreOptions": "Altre opzioni",
+      "quality": "Qualità",
+      "pageSize": "Dimensione della carta",
+      "headerAndFooter": "Intestazioni e piè di pagina",
+      "alert": "Una qualità molto alta si traduce nel consumo di memoria del browser.",
+      "printWhat": "Stampa cosa",
+      "reversePages": "Ordine inverso pagine",
+      "doc": "Documento",
+      "docMark": "Documento e revisioni",
+      "docStamps": "Documento e timbri",
+      "formOnly": "Solo campi modulo",
+      "bleedMarks": "Segni di smarginatura"
+    },
+    "printProcess": "In stampa",
+    "unsupported": {
+      "title": "Chiedi conferma",
+      "message": "Il tuo browser attuale non supporta la stampa."
+    }
+  },
+  "button-tooltip": {
+    "title": "Stampa"
+  }
+}

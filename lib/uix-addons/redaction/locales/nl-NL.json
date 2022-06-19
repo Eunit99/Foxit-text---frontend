@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "Markeren voor redactie",
+    "redact_text_image": "Tekst & afbeelding markeren",
+    "redact_area": "Gebied markeren",
+    "redact_page": "Pagina markeren",
+    "redact_auto": "Automatische redactie",
+    "redact_search": "Tekst zoeken",
+    "apply": "Toepassen",
+    "ok": "OK",
+    "cancel": "Annuleren"
+  },
+  "tooltips": {
+    "redaction": "Inhoud markeren voor redactie",
+    "apply": "De gemarkeerde inhoud permanent verwijderen",
+    "auto_redaction": "Foxit Smart Redact \n\n Laat \"Foxit Smart Redact\" uw documenten automatisch redigeren."
+  },
+  "dialog": {
+    "apply_alert": "U staat op het punt de geselecteerde inhoud die is gemarkeerd voor redactie permanent te redigeren. Als u Toepassen selecteert, kan de bewerking niet ongedaan worden gemaakt.\nWeet u zeker dat u wilt doorgaan?\nBELANGRIJK: het wordt aanbevolen dat u een back-upexemplaar opslaat van dit document voordat u redacties toepast.",
+    "redaction_page": {
+      "mark_current_page": "Huidige pagina markeren voor redactie",
+      "mark_specific_page": "De geselecteerde pagina's markeren voor redactie",
+      "page_range": "Paginabereik"
+    },
+    "readaction_page_max": "Max: ",
+    "pageRange": "Paginabereik"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "朗读",
+      "desc": "朗读文档"
+    },
+    "activate-read": {
+      "text": "激活朗读",
+      "desc": "激活朗读 Shift+Ctrl+Y",
+      "descSub": "激活朗读以启动朗读功能"
+    },
+    "deactivate-read": {
+      "text": "停用朗读",
+      "desc": "停用朗读 Shift+Ctrl+Y",
+      "descSub": "停用朗读以禁止朗读功能"
+    },
+    "read-current-page": {
+      "text": "朗读当前页",
+      "desc": "朗读当前页 Shift+Ctrl+V",
+      "descSub": "仅朗读当前页的文本"
+    },
+    "read-from-current-page": {
+      "text": "从当前页开始朗读",
+      "desc": "从当前页开始朗读 Shift+Ctrl+B",
+      "descSub": "朗读从当前页至文档末尾的文本"
+    },
+    "stop": {
+      "text": "停止",
+      "desc": "停止 Shift+Ctrl+E",
+      "descSub": "停止朗读"
+    },
+    "rate": {
+      "text": "语速",
+      "desc": "语速",
+      "descSub": "拖拽以调整语速的快慢"
+    },
+    "volume": {
+      "text": "音量",
+      "desc": "音量",
+      "descSub": "拖拽以加大或者减小音量"
+    },
+    "pause": {
+      "text": "暂停",
+      "desc": "暂停 Shift+Ctrl+C",
+      "descSub": "暂停朗读"
+    },
+    "resume": {
+      "text": "继续",
+      "desc": "继续 Shift+Ctrl+C",
+      "descSub": "继续朗读"
+    }
+  },
+  "error": {
+    "document-not-openned": "由于没有打开文档，因此无法朗读",
+    "permDenyCopyContent": "您没有从该文档拷贝内容的权限。 "
+  }
+}

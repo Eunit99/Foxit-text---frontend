@@ -1,0 +1,26 @@
+{
+  "dialog": {
+    "title": "Modelli pagina",
+    "close": "Chiudi",
+    "add": "Aggiungi",
+    "replace": "Sostituisci",
+    "rename": "Rinomina",
+    "delete": "Elimina",
+    "goto": "Vai a",
+    "name": "Nome: ",
+    "renameTitle": "Rinomina il modello",
+    "newName": "Nuovo nome: ",
+    "operateGuideTip": "Fare clic sull'area a sinistra del nome del modello per rendere visibile o invisibile il modello.",
+    "addTip": "Creare un nuovo modello utilizzando la pagina corrente?",
+    "replaceTip": "Cambiare il modello in modo che abbia l'aspetto della pagina corrente?",
+    "renameTip": "Cambiare il nome del modello corrente?",
+    "renameTip1": "Questo nome è già utilizzato in un altro modello.",
+    "deleteTip": "Vuoi cancellare il modello selezionato?",
+    "deleteTip1": "La cancellazione del modello non eliminerà la pagina dal documento corrente, ma solo il modello.",
+    "ok": "OK",
+    "cancel": "Annulla"
+  },
+  "button-tooltip": {
+    "title": "Modello pagina"
+  }
+}

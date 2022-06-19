@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "尋找選項",
+      "searchFeatures": "搜索功能",
+      "placeholder": "搜尋"
+    },
+    "basicOption": {
+      "wholeWordOnly": "整詞相符",
+      "caseSensitive": "區分大小寫",
+      "includeBookmark": "包含書籤",
+      "includeComments": "包含註解",
+      "highlight": "反白顯示所有文字",
+      "properties": "內容"
+    },
+    "prop": {
+      "ok": "確定",
+      "cancel": "取消",
+      "title": "內容",
+      "intro": "搜尋結果外觀：",
+      "color": "色彩：",
+      "opacity": "不透明度："
+    },
+    "searchType": {
+      "advanced": "進階搜尋",
+      "replace": "搜尋與取代",
+      "redact": "搜尋與密文處理",
+      "highlight": "搜尋與反白顯示"
+    }
+  },
+  "noMore": "搜尋完成。找不到任何相符的結果。",
+  "searchPanel": {
+    "mode": {
+      "exact": "符合整詞或詞組",
+      "any": "符合任何字詞",
+      "pattern": "類似搜尋模式",
+      "multiple": "多個字詞",
+      "profile": "密文設定檔"
+    },
+    "pattern": {
+      "select": "選取模式",
+      "phone": "電話號碼",
+      "date": "日期",
+      "security": "身份證號碼",
+      "email": "電子郵件地址",
+      "credit": "信用卡號碼",
+      "bank": "國際銀行帳號",
+      "driving": "駕照號碼"
+    },
+    "text": {
+      "wordOrPhrase": "您要搜尋哪些詞或詞組?",
+      "searching": "正在搜尋",
+      "country": "國家/地區",
+      "selectProfile": "選取現有設定檔",
+      "or": "或",
+      "newWord": "新字詞(&N)",
+      "list": "字詞清單：",
+      "profileList": "設定檔清單",
+      "profileName": "設鄧檔名稱：",
+      "overlayText": "重疊文字：",
+      "wordOverlayList": "字/詞和重疊文字清單：",
+      "lookingFor": "尋找： ",
+      "lookingWordRes": "${1} 在目前文件",
+      "lookingMulRes": "當前文檔中的多個詞",
+      "lookingPatternRes": "${1} 在目前文件",
+      "results": "結果： ",
+      "resultCount": "${2}個文件，含${1}個執行個體",
+      "markOptions": "校訂標記選項",
+      "markByPos": "標記 ${} 中的 ${} 個字符以進行密文",
+      "markByCount": "標記從 ${} 字符到 ${} 字符以進行密文",
+      "profileHeader": "字/詞",
+      "resultMetaData": "${1}個執行個體在中繼資料中"
+    },
+    "options": {
+      "wholeWordsOnly": "整詞相符",
+      "caseSensitive": "區分大小寫",
+      "includeBookmarks": "包含書籤",
+      "includeComments": "包含註解",
+      "includeAttachments": "包含附件",
+      "stemming": "去字尾",
+      "highlight": "反白顯示所有文字",
+      "autoSize": "一律自動調整文字大小以符合密文區域(&Z)",
+      "beginning": "開始",
+      "end": "結束"
+    },
+    "button": {
+      "more": "更多>>",
+      "less": "更少>>",
+      "search": "搜尋",
+      "selectWords": "選取單字...",
+      "selectProfile": "選取",
+      "manage": "管理",
+      "create": "建立",
+      "add": "新增",
+      "remove": "移除",
+      "import": "匯入...",
+      "export": "匯出...",
+      "edit": "編輯",
+      "delete": "刪除",
+      "close": "關閉",
+      "importProfile": "匯入",
+      "exportProfile": "匯出",
+      "save": "儲存",
+      "saveAndSearch": "儲存並搜尋(&V)",
+      "cancel": "取消",
+      "newSearch": "新建搜尋",
+      "checkAll": "全部核取",
+      "markRedaction": "標記核取的結果進行密文處理",
+      "applyRedaction": "套用密文",
+      "markWholeWord": "標記整個字詞以供校訂",
+      "markPartialWord": "標記部分字詞以供校訂",
+      "setting": "設定...",
+      "loadMore": "更多",
+      "text-highlight": "反白顯示文字"
+    },
+    "country": {
+      "Brazil": "巴西",
+      "Canada": "加拿大",
+      "China": "中國",
+      "Denmark": "丹麥",
+      "Finland": "芬蘭",
+      "France": "法國",
+      "Germany": "德國",
+      "Hong Kong/Taiwan": "香港／台灣",
+      "Iceland": "冰島",
+      "Ireland": "愛爾蘭",
+      "Japan": "日本",
+      "Korea": "韓國",
+      "Norway": "挪威",
+      "Spain": "西班牙",
+      "Sweden": "瑞典",
+      "Turkey": "土耳其",
+      "United Kingdom": "英國",
+      "United States": "美國"
+    },
+    "dialog": {
+      "selectWord": "要搜尋的字詞和移除文字",
+      "manageProfile": "管理設定檔",
+      "createProfile": "建立新的設定檔",
+      "partialRedaction": "設定",
+      "modified": "由於此文件已修改，搜尋結果無效。\n是否要再次搜尋?",
+      "noModifyPerm": "您無權將密文套用至所選內容。 ",
+      "existInHide": "圖層上現有的結果目前為隱藏狀態。您要立即讓圖層顯示嗎?"
+    },
+    "table": {
+      "wordPhrase": "字/詞",
+      "overlayText": "重疊文字"
+    },
+    "csv": {
+      "results": "搜尋結果",
+      "summary": "摘要",
+      "savedOn": "儲存於",
+      "search": "搜尋",
+      "count": "找到的執行個體數目",
+      "fileName": "檔案名稱",
+      "title": "標題",
+      "page": "頁面",
+      "searchInstance": "搜尋執行個體",
+      "metadata": "文件中繼資料"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "labels": {
+    "toolbar": {
+      "open-file": "檔案",
+      "selection": "選取範圍",
+      "shape": "圖案",
+      "measurement": "測量",
+      "path-object": "路徑對象"
+    },
+    "gotopage": "設置頁面",
+    "setzoom": "設置縮放",
+    "set-font-size": "設定字型大小",
+    "close-layer-btn": "關閉對話框",
+    "color-picker-item": "顏色：{{color}}",
+    "color-picker-remove-item": "移除顏色：{{color}}",
+    "color-picker-transparent": "顏色：透明",
+    "color-picker-removecolor": "移除顏色",
+    "color-picker-add-color": "添加顏色",
+    "color-picker-confirm-remove": "確認移除顏色",
+    "color-spectrum-hue": "色調： {{hue}}",
+    "commentlist": {
+      "group-title": "第 {{page}} 頁，數量 {{count}}",
+      "comment": "{{type}} 在頁面 {{page}} 由 {{author}} 添加，{{content}}",
+      "reply": "{{type}} 在頁面 {{page}} 來自 {{replyAuthor}} 答复 {{commentAuthor}}，{{content}}"
+    },
+    "field": {
+      "widget": "第 {{page}} 頁上的 {{type}}，名稱：{{name}}"
+    },
+    "createInkSign": {
+      "strokeColor": "描邊色彩",
+      "brushSize": "刷子大小",
+      "eraser": "橡皮擦",
+      "clear": "清除",
+      "preview": "預覽",
+      "unit": "{{unit}}像素"
+    },
+    "createSignature": "創建簽名 {{index}}",
+    "deleteSignature": "刪除簽名 {{index}}",
+    "no-color": "沒有顏色",
+    "visibleBox": "可見",
+    "promptTitle": "提示",
+    "select": {
+      "selectedLabel": "已選取"
+    },
+    "prevMonth": "上個月",
+    "nextMonth": "下個月",
+    "PDF": {
+      "pageN": "PDF 頁面，{{pageIndex}} / {{pageCount}} "
+    }
+  }
+}

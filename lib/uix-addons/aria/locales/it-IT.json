@@ -1,0 +1,51 @@
+{
+  "labels": {
+    "toolbar": {
+      "open-file": "File",
+      "selection": "Selezione",
+      "shape": "Forma",
+      "measurement": "Misurazione",
+      "path-object": "Oggetto percorso"
+    },
+    "gotopage": "Imposta pagina",
+    "setzoom": "Imposta zoom",
+    "set-font-size": "Imposta dimensioni carattere",
+    "close-layer-btn": "Chiudi finestra di dialogo",
+    "color-picker-item": "Colore: {{color}}",
+    "color-picker-remove-item": "Rimuovi colore: {{color}}",
+    "color-picker-transparent": "Colore: trasparente",
+    "color-picker-removecolor": "Rimuovi colore",
+    "color-picker-add-color": "Aggiungi colore",
+    "color-picker-confirm-remove": "Conferma rimozione colore",
+    "color-spectrum-hue": "Tinta: {{hue}}",
+    "commentlist": {
+      "group-title": "Pagina {{page}}, Quantità {{count}}",
+      "comment": "{{type}} a pagina {{page}} per {{author}}, {{content}}",
+      "reply": "{{type}} a pagina {{page}} da {{replyAuthor}} a {{commentAuthor}}, {{content}}"
+    },
+    "field": {
+      "widget": "{{type}} a pagina {{page}}, nome: {{name}}"
+    },
+    "createInkSign": {
+      "strokeColor": "Colore tratto",
+      "brushSize": "Dimensione pennello",
+      "eraser": "Gomma",
+      "clear": "Cancella",
+      "preview": "Anteprima",
+      "unit": "{{unit}} pixel"
+    },
+    "createSignature": "Firma creata {{index}}",
+    "deleteSignature": "Elimina firma {{index}}",
+    "no-color": "Nessun colore",
+    "visibleBox": "Visibile",
+    "promptTitle": "Chiedi conferma",
+    "select": {
+      "selectedLabel": "Selezionato"
+    },
+    "prevMonth": "Mese precedente",
+    "nextMonth": "Mese successivo",
+    "PDF": {
+      "pageN": "Pagina PDF, {{pageIndex}} di {{pageCount}}"
+    }
+  }
+}

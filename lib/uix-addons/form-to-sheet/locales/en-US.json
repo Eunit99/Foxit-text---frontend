@@ -1,0 +1,11 @@
+{
+  "ribbon": {
+    "text": "Form to sheet"
+  },
+  "button-tooltip": {
+    "title": "Export form data to spreadsheet"
+  },
+  "export": {
+    "existing": "Append to an Existing Sheet"
+  }
+}

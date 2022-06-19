@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "Mark for Redaction",
+    "redact_text_image": "Mark Text & Image",
+    "redact_area": "Mark Area",
+    "redact_page": "Mark Page",
+    "redact_auto": "Auto Redaction",
+    "redact_search": "Find Text",
+    "apply": "Apply",
+    "ok": "OK",
+    "cancel": "Cancel"
+  },
+  "tooltips": {
+    "redaction": "Mark content for redaction",
+    "apply": "Remove the marked content permanently",
+    "auto_redaction": "Foxit Smart Redact \n\n Let \"Foxit Smart Redact\" redact your documents automatically."
+  },
+  "dialog": {
+    "apply_alert": "You are about to permanently redact the selected content that has been marked for redaction. By selecting Apply, the operation cannot be undone.\nAre you sure you want to continue?\nIMPORTANT! It is recommended that you save a backup copy of this document before you apply redactions.",
+    "redaction_page": {
+      "mark_current_page": "Mark current page for redaction",
+      "mark_specific_page": "Mark the selected pages for redaction",
+      "page_range": "Page range"
+    },
+    "readaction_page_max": "Max: ",
+    "pageRange":"Page Range"
+  }
+}

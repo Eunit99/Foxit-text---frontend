@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "editFontWeight": "太字",
+    "editFontItalic": "斜体",
+    "editFontColor": "フォントの色",
+    "addText": "テキストを追加",
+    "underline": "下線",
+    "alignLeft": "左揃え",
+    "alignCenter": "中央揃え",
+    "alignJustify": "両端揃え",
+    "wordSpacing": "文字の間隔",
+    "lineSpacing": "行間",
+    "characterScale": "文字の水平方向倍率"
+  },
+  "dropdowns": {
+    "editFontFamily": "フォント",
+    "editFontSize": "フォントサイズ"
+  }
+}

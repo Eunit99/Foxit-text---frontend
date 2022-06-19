@@ -1,0 +1,15 @@
+{
+  "contextmenu": {
+    "properties": "Eigenschaften",
+    "set-to-front": "In den Vordergrund",
+    "set-to-back": "In den Hintergrund",
+    "delete": "Löschen"
+  },
+  "graphics-properties": {
+    "dialog": {
+      "title": "Grafikobjekteigenschaften",
+      "image-title": "Bildobjekteigenschaften",
+      "path-title": "Pfadobjekteigenschaften"
+    }
+  }
+}

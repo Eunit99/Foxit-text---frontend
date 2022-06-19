@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "editFontWeight": "Bold",
+    "editFontItalic": "Italic",
+    "editFontColor": "Font Color",
+    "addText": "Add text",
+    "underline": "Underline",
+    "alignLeft": "Align left",
+    "alignCenter": "Align center",
+    "alignJustify": "Justify",
+    "wordSpacing": "Word spacing",
+    "lineSpacing": "Line spacing",
+    "characterScale": "Character scale"
+  },
+  "dropdowns": {
+    "editFontFamily": "Font",
+    "editFontSize": "Font size"
+  }
+}

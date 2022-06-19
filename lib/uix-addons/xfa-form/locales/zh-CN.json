@@ -1,0 +1,11 @@
+{
+  "tips": {
+    "xfa": "编辑静态XFA表单"
+  },
+  "confirm": {
+    "title": "",
+    "content": "静态XFA表单中的一些组件可能在编辑后丢失。请为原始文件保存一个副本。继续编辑？",
+    "confirmButton": "是",
+    "cancelButton": "否"
+  }
+}

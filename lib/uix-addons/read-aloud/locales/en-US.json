@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "Read",
+      "desc": "Read the document out loud"
+    },
+    "activate-read": {
+      "text": "Activate Read",
+      "desc": "Activate Read Shift+Ctrl+Y",
+      "descSub": "Activate Read to enable reading feature"
+    },
+    "deactivate-read": {
+      "text": "Deactivate Read",
+      "desc": "Deactivate Read Shift+Ctrl+Y",
+      "descSub": "Deactivate Read to disable reading feature"
+    },
+    "read-current-page": {
+      "text": "Read Current Page",
+      "desc": "Read Current Page Shift+Ctrl+V",
+      "descSub": "Read text on current page only"
+    },
+    "read-from-current-page": {
+      "text": "Read from Current Page",
+      "desc": "Read from Current Page Shift+Ctrl+B",
+      "descSub": "Read text from current page to end of document"
+    },
+    "stop": {
+      "text": "Stop",
+      "desc": "Stop Shift+Ctrl+E",
+      "descSub": "Stop reading out loud"
+    },
+    "rate": {
+      "text": "Speed",
+      "desc": "Speed",
+      "descSub": "Drag to adjust the reading speed"
+    },
+    "volume": {
+      "text": "Volume",
+      "desc": "Volume",
+      "descSub": "Drag to adjust the volume"
+    },
+    "pause": {
+      "text": "Pause",
+      "desc": "Pause Shift+Ctrl+C",
+      "descSub": "Pause reading out loud"
+    },
+    "resume": {
+      "text": "Resume",
+      "desc": "Resume Shift+Ctrl+C",
+      "descSub": "Resume reading out loud"
+    }
+  },
+  "error": {
+    "document-not-openned": "Cannot read aloud because no document is open",
+    "permDenyCopyContent": "You do not have permission to copy content from this document."
+  }
+}

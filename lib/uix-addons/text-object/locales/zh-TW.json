@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "editFontWeight": "粗體",
+    "editFontItalic": "斜體",
+    "editFontColor": "字型色彩",
+    "addText": "新增文字",
+    "underline": "底線",
+    "alignLeft": "靠左對齊",
+    "alignCenter": "居中對齊",
+    "alignJustify": "左右對齊",
+    "wordSpacing": "字距",
+    "lineSpacing": "行間距",
+    "characterScale": "字元縮放比例"
+  },
+  "dropdowns": {
+    "editFontFamily": "字型",
+    "editFontSize": "字型大小"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "關閉",
+    "cancel": "取消",
+    "ok": "確定",
+    "printDialog": {
+      "title": "列印",
+      "range": "列印範圍",
+      "selectedPDF": "選取的 PDF 檔案",
+      "allPDF": "所有 PDF 檔案",
+      "all": "所有頁面",
+      "current": "目前頁面(C)",
+      "from": "起始頁面",
+      "to": "至",
+      "assign": "頁面",
+      "comments": "註解",
+      "printComments": "列印註解",
+      "moreOptions": "更多選項",
+      "quality": "品質",
+      "pageSize": "紙張大小",
+      "headerAndFooter": "頁首及頁尾",
+      "alert": "極高品質會消耗瀏覽器記憶體。",
+      "printWhat": "列印內容",
+      "reversePages": "逆序列印",
+      "doc": "文件",
+      "docMark": "文件和標記",
+      "docStamps": "文件和戳記",
+      "formOnly": "僅表單欄位",
+      "bleedMarks": "跨頁標記"
+    },
+    "printProcess": "列印中",
+    "unsupported": {
+      "title": "提示",
+      "message": "您目前的瀏覽器不支援列印。"
+    }
+  },
+  "button-tooltip": {
+    "title": "列印"
+  }
+}

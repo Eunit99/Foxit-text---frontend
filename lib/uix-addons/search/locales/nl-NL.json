@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "Opties zoeken",
+      "searchFeatures": "zoekfuncties",
+      "placeholder": "Zoeken"
+    },
+    "basicOption": {
+      "wholeWordOnly": "Alleen hele woorden",
+      "caseSensitive": "Hoofdlettergevoelig",
+      "includeBookmark": "Inclusief bladwijzers",
+      "includeComments": "Inclusief opmerkingen",
+      "highlight": "Alle tekst markeren",
+      "properties": "Eigenschappen"
+    },
+    "prop": {
+      "ok": "OK",
+      "cancel": "Annuleren",
+      "title": "Eigenschappen",
+      "intro": "Weergave van zoekresultaten:",
+      "color": "Kleur:",
+      "opacity": "Transparantie:"
+    },
+    "searchType": {
+      "advanced": "Geavanceerd zoeken",
+      "replace": "Zoeken & vervangen",
+      "redact": "Zoeken en redigeren",
+      "highlight": "Zoeken en markeren"
+    }
+  },
+  "noMore": "Zoeken voltooid. Er zijn geen andere overeenkomsten gevonden.",
+  "searchPanel": {
+    "mode": {
+      "exact": "Exacte overeenkomst met woord of woordgroep",
+      "any": "Komt overeen met een willekeurig woord",
+      "pattern": "Vergelijkbaar zoekpatroon",
+      "multiple": "Meerdere woorden of woordgroepen",
+      "profile": "Redactieprofielen"
+    },
+    "pattern": {
+      "select": "Selecteer uw patroon",
+      "phone": "Telefoonnummer",
+      "date": "Datum",
+      "security": "Burgerservicenummer",
+      "email": "E-mailadres",
+      "credit": "Creditkaartnummer",
+      "bank": "Internationaal bankrekeningnummer",
+      "driving": "Rijbewijsnummer"
+    },
+    "text": {
+      "wordOrPhrase": "Welk woord of welke zin wilt u zoeken?",
+      "searching": "Zoeken",
+      "country": "Land/Gebied",
+      "selectProfile": "Bestaand profiel selecteren",
+      "or": "OF",
+      "newWord": "Nieuw woord of nieuwe woordgroep:",
+      "list": "Lijst met woorden en woordgroepen:",
+      "profileList": "Profiellijst",
+      "profileName": "Profielnaam:",
+      "overlayText": "Overlaytekst:",
+      "wordOverlayList": "Lijst met woorden/woordgroepen en overlaytekst:",
+      "lookingFor": "Zoeken naar:",
+      "lookingWordRes": "${1} in huidig document",
+      "lookingMulRes": "Meerdere zinnen in huidig document",
+      "lookingPatternRes": "${1} in huidig document",
+      "results": "Resultaten:",
+      "resultCount": "${2} document(en) met ${1} instantie(s)",
+      "markOptions": "Opties voor redactiemarkeringen",
+      "markByPos": "Markeer ${} teken(s) van ${} voor redactie",
+      "markByCount": "Markeer van ${} teken tot ${} teken voor redactie",
+      "profileHeader": "Woord/zin",
+      "resultMetaData": "${1} instantie(s) in metagegevens"
+    },
+    "options": {
+      "wholeWordsOnly": "Alleen hele woorden",
+      "caseSensitive": "Hoofdlettergevoelig",
+      "includeBookmarks": "Inclusief bladwijzers",
+      "includeComments": "Inclusief opmerkingen",
+      "includeAttachments": "Inclusief bijlagen",
+      "stemming": "Stamgebruik",
+      "highlight": "Alle tekst markeren",
+      "autoSize": "Tekstgrootte altijd automatisch aanpassen aan redactiegebied",
+      "beginning": "begin",
+      "end": "einde"
+    },
+    "button": {
+      "more": "Meer >>",
+      "less": "Minder >>",
+      "search": "Zoeken",
+      "selectWords": "Woorden selecteren...",
+      "selectProfile": "Selecteren...",
+      "manage": "Beheren",
+      "create": "Maken",
+      "add": "Toevoegen",
+      "remove": "Verwijderen",
+      "import": "Importeren...",
+      "export": "Exporteren...",
+      "edit": "Bewerken",
+      "delete": "Verwijderen",
+      "close": "Sluiten",
+      "importProfile": "Importeren",
+      "exportProfile": "Exporteren",
+      "save": "Opslaan",
+      "saveAndSearch": "Opslaan en zoeken",
+      "cancel": "Annuleren",
+      "newSearch": "Nwe zoekopdr",
+      "checkAll": "Alles inschakelen",
+      "markRedaction": "Selectie markeren voor redactie",
+      "applyRedaction": "Redacties toepassen",
+      "markWholeWord": "Hele woorden markeren om te redigeren",
+      "markPartialWord": "Gedeeltelijke woorden markeren om te redigeren",
+      "setting": "Instellingen...",
+      "loadMore": "Meer",
+      "text-highlight": "Hiermee markeert u tekst"
+    },
+    "country": {
+      "Brazil": "Brazilië",
+      "Canada": "Canada",
+      "China": "China",
+      "Denmark": "Denemarken",
+      "Finland": "Finland",
+      "France": "Frankrijk",
+      "Germany": "Duitsland",
+      "Hong Kong/Taiwan": "Hongkong/Taiwan",
+      "Iceland": "IJsland",
+      "Ireland": "Iers",
+      "Japan": "Japan",
+      "Korea": "Korea",
+      "Norway": "Noorwegen",
+      "Spain": "Spanje",
+      "Sweden": "Zweden",
+      "Turkey": "Turkije",
+      "United Kingdom": "Verenigd Koninkrijk",
+      "United States": "Verenigde Staten"
+    },
+    "dialog": {
+      "selectWord": "Te zoeken woorden en woordgroepen & tekst verwijderen",
+      "manageProfile": "Profielen beheren",
+      "createProfile": "Nieuw profiel maken",
+      "partialRedaction": "Instellingen",
+      "modified": "Het zoekresultaat is ongeldig omdat dit document is gewijzigd. \n\n  \n Wilt u opnieuw zoeken?",
+      "noModifyPerm": "U hebt geen toestemming om redactie op de geselecteerde inhoud toe te passen. ",
+      "existInHide": "Het resultaat heeft bestaan op een laag die momenteel onzichtbaar is. Wilt u de laag nu zichtbaar maken?"
+    },
+    "table": {
+      "wordPhrase": "Woord/zin",
+      "overlayText": "Overlaytekst"
+    },
+    "csv": {
+      "results": "Zoekresultaten",
+      "summary": "Samenvatting",
+      "savedOn": "Opgeslagen op",
+      "search": "Gezocht naar",
+      "count": "Aantal gevonden instanties",
+      "fileName": "Bestandsnaam",
+      "title": "Titel",
+      "page": "Pagina",
+      "searchInstance": "Zoekinstantie",
+      "metadata": "Metagegevens van document"
+    }
+  }
+}

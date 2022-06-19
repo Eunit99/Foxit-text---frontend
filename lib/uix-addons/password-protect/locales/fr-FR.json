@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "Protéger par mot de passe",
+    "PermissionTitle": "Paramètres d'autorisation",
+    "removeTitle": "Supprimer la sécurité",
+    "inputOwnerPassword": "Entrez le mot de passe du propriétaire :"
+  },
+  "warning": {
+    "already-secured": "Le document est déjà protégé. Voulez-vous vraiment modifier la sécurité sur ce document ?",
+    "apply-to-document": "Les paramètres de sécurité ne sont pas appliqués au document tant qu'il n'a pas été enregistré. Vous pourrez continuer à les modifier une fois le document fermé.",
+    "incorrect-owner-pwd": "Le mot de passe du propriétaire est incorrect.",
+    "restriction-warn": "Certains logiciels non-Foxit PDF peuvent ne pas appliquer ou respecter les restrictions définies par le mot de passe d'autorisations, permettant aux utilisateurs d'ignorer ces restrictions.",
+    "reader-warn": "La désactivation de l'accès textuel des périphériques de lecture d'écran pour malvoyants rendra ce document inaccessible à certains utilisateurs et non conforme aux réglementations relatives à l'accessibilité (section 508 du gouvernement américain, par exemple)."
+  },
+  "error": {
+    "pwdLength": "Votre mot doit être comporter entre 1 et 32 caractères",
+    "open-pwd-not-match": "Les mots de passe d'ouverture du document ne correspondent pas !",
+    "permission-pwd-not-match": "Les mots de passe d'autorisation du document ne correspondent pas !",
+    "open-owner-pwd-cannot-same": "Les mots de passe du propriétaire du document et de son ouverture ne peuvent pas être identiques. Entrez des mots de passe différents dans le champ Mot de passe d'ouverture du document ou dans le champ Mot de passe du propriétaire.",
+    "admin-pwd-cannot-blank": "Le mot de passe d'administrateur ne pas être vide !"
+  },
+  "dialog": {
+    "Printing": "Impression :",
+    "Accessiability": "Accessibilité :",
+    "Copying": "Copie :",
+    "Changes": "Modifications :",
+    "Allowed": "Autorisé",
+    "NotAllowed": "Non autorisé",
+    "permission": "Autorisation...",
+    "warn": "Avertissement :",
+    "error": "Erreur :",
+    "doc-open-caption": "Préférences d'ouverture de document",
+    "password-check-hint": "Demander un mot de passe pour ouvrir le document",
+    "password-label": "Saisir le mot de passe :",
+    "password-confirm-label": "Confirmer le mot de passe :",
+    "document-restriction-caption": "Paramètres de restriction de document",
+    "add-document-restriction": "Ajouter une restriction au document",
+    "add-document-setting": "Restreindre l'impression/édition du document/paramètres de sécurité",
+    "permission-specific-caption": "Spécification d'autorisation",
+    "permission-caption": "Autorisations",
+    "printing-label": "Impression autorisée :",
+    "printing-none": "Aucune",
+    "printing-low": "Basse résolution (150 ppp)",
+    "printing-high": "Haute résolution",
+    "perm-access-label": "Activer l'accès au texte par les périphériques de lecture d'écran pour les personnes malvoyantes",
+    "perm-copy-label": "Autoriser la copie de texte, d'image et d'autre contexte",
+    "perm-change-label": "Modifications autorisées :",
+    "perm-changes-none": "Aucune",
+    "perm-changes-1": "Insérer, supprimer et faire pivoter les pages",
+    "perm-changes-2": "Remplir des formulaires et signer des champs de signature existants",
+    "perm-changes-3": "Commenter, remplir des champs de formulaire, signer des champs existants",
+    "perm-changes-4": "Tout sauf extraire des pages",
+    "encrypt-caption": "Paramètres de chiffrement",
+    "enc-alg-label": "Algorithme de chiffrement :",
+    "enc-no-metadata": "Ne pas chiffrer les métadonnées",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "remove": {
+      "confirmation": "Voulez-vous vraiment retirer la sécurité de ce document ?"
+    },
+    "saveToPolicy": "Enregistrer les paramètres comme nouvelle stratégie"
+  },
+  "toolbar": {
+    "protect": {
+      "secureDocument": "Document sécurisé"
+    }
+  }
+}

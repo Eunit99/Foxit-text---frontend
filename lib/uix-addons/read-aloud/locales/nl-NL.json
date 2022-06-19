@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "Lezen",
+      "desc": "Het document hardop voorlezen"
+    },
+    "activate-read": {
+      "text": "Lezen activeren",
+      "desc": "Lezen activeren Shift+Ctrl+Y ",
+      "descSub": "Lezen activeren om de leesfunctie in te schakelen"
+    },
+    "deactivate-read": {
+      "text": "Lezen deactiveren",
+      "desc": "Lezen deactiveren Shift+Ctrl+Y",
+      "descSub": "Lezen deactiveren om de leesfunctie uit te schakelen"
+    },
+    "read-current-page": {
+      "text": "Huidige pagina lezen",
+      "desc": "Huidige pagina lezen Shift+Ctrl+V ",
+      "descSub": "Alleen tekst op huidige pagina lezen"
+    },
+    "read-from-current-page": {
+      "text": "Lezen vanaf huidige pagina",
+      "desc": "Lezen vanaf huidige pagina Shift+Ctrl+B",
+      "descSub": "Tekst vanaf huidige pagina tot einde van document lezen"
+    },
+    "stop": {
+      "text": "Stoppen",
+      "desc": "Stoppen Shift+Ctrl+E",
+      "descSub": "Stoppen met hardop voorlezen"
+    },
+    "rate": {
+      "text": "Snelheid",
+      "desc": "Snelheid",
+      "descSub": "Sleep om de leessnelheid aan te passen"
+    },
+    "volume": {
+      "text": "Volume",
+      "desc": "Volume",
+      "descSub": "Sleep om het volume aan te passen"
+    },
+    "pause": {
+      "text": "Onderbreken",
+      "desc": "Pauzeren Shift+Ctrl+C",
+      "descSub": "Hardop voorlezen pauzeren"
+    },
+    "resume": {
+      "text": "Hervatten",
+      "desc": "Hervatten Shift+Ctrl+C",
+      "descSub": "Hardop voorlezen hervatten"
+    }
+  },
+  "error": {
+    "document-not-openned": "Kan niet luidop lezen omdat er geen document geopend is",
+    "permDenyCopyContent": "U hebt geen toestemming om inhoud uit dit document te kopiëren."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "editFontWeight": "Vet",
+    "editFontItalic": "Cursief",
+    "editFontColor": "Tekenkleur",
+    "addText": "Tekst toevoegen",
+    "underline": "Onderstrepen",
+    "alignLeft": "Links uitlijnen",
+    "alignCenter": "Centreren",
+    "alignJustify": "Uitvullen",
+    "wordSpacing": "Woordruimte",
+    "lineSpacing": "Regelafstand",
+    "characterScale": "Tekenschaal"
+  },
+  "dropdowns": {
+    "editFontFamily": "Lettertype",
+    "editFontSize": "Tekengrootte"
+  }
+}

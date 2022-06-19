@@ -1,0 +1,72 @@
+{
+  "ribbon": {
+    "text": "JavaScript"
+  },
+  "button-tooltip": {
+    "title": "文書に対して JavaScript の設定、編集およびテストを実行"
+  },
+  "document-javascript": {
+    "text": "文書レベル JavaScript",
+    "title": "JavaScript 関数の追加と管理",
+    "dialog": {
+      "title": "JavaScript 関数",
+      "name": "スクリプト名",
+      "close": "閉じる",
+      "add": "追加...",
+      "edit": "編集...",
+      "delete": "削除"
+    }
+  },
+  "document-action": {
+    "text": "文書のアクション",
+    "title": "文書のアクションに対して実行する JavaScript を編集",
+    "dialog": {
+      "title": "文書のアクション",
+      "name": "この操作を行なった場合...",
+      "edit": "編集...",
+      "sub-name": "次の Javascript を実行:",
+      "ok": "OK",
+      "cancel": "キャンセル",
+      "doc-will-close": "文書を閉じる",
+      "doc-will-save": "文書を保存する",
+      "doc-did-save": "文書を保存した",
+      "doc-did-saved": "文書が保存された",
+      "doc-will-print": "文書を印刷する",
+      "doc-did-print": "文書を印刷した",
+      "doc-did-printed": "文書が印刷された",
+      "enable-tip": "この文書では JavaScript を一部の機能に使用していますが、JavaScript は現在無効になっています。JavaScriptを有効にすると、潜在的なセキュリティリスクが発生する可能性があります。"
+    }
+  },
+  "javascript-console": {
+    "text": "JavaScript コンソール",
+    "title": "JavaScript コードの実行とデバッグの実施",
+    "dialog": {
+      "title": "JavaScript コンソール",
+      "name": "JavaScript コンソール",
+      "run": "実行",
+      "clear": "消去",
+      "close": "閉じる",
+      "exec": "コンソール : exec",
+      "fail": "行:",
+      "success": "正常に実行しました。"
+    },
+    "checkbox": {
+      "info": "編集のヒントを表示"
+    }
+  },
+  "edit-all-javascript": {
+    "text": "すべての JavaScript を編集",
+    "title": "文書内のすべての JavaScript を編集",
+    "dialog": {
+      "title": "JavaScript エディター",
+      "sub-title": "JavaScript の作成と編集",
+      "ok": "OK",
+      "cancel": "キャンセル",
+      "go": "行を指定...",
+      "ln": "行",
+      "col": "列",
+      "go-title": "行を指定して移動",
+      "go-sub-title": "行番号:"
+    }
+  }
+}

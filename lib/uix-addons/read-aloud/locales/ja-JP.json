@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "読み上げ",
+      "desc": "文書を音声で読み上げ"
+    },
+    "activate-read": {
+      "text": "読み上げを有効にする",
+      "desc": "読み上げを有効にする Shift+Ctrl+Y",
+      "descSub": "読み上げ機能を有効にする"
+    },
+    "deactivate-read": {
+      "text": "読み上げを無効にする",
+      "desc": "読み上げを無効にする Shift+Ctrl+Y",
+      "descSub": "読み上げ機能を無効にする"
+    },
+    "read-current-page": {
+      "text": "現在のページを読み上げ",
+      "desc": "現在のページを読み上げ Shift+Ctrl+V",
+      "descSub": "現在のページのみを読み上げる"
+    },
+    "read-from-current-page": {
+      "text": "文書の最後まで読み上げ",
+      "desc": "文書の最後まで読み上げ Shift+Ctrl+B",
+      "descSub": "現在のページから文書を最後まで読み上げる"
+    },
+    "stop": {
+      "text": "停止",
+      "desc": "停止 Shift+Ctrl+E",
+      "descSub": "音声読み上げを停止"
+    },
+    "rate": {
+      "text": "速度",
+      "desc": "速度を調整",
+      "descSub": "ドラッグで読み上げの速度を調整"
+    },
+    "volume": {
+      "text": "ボリューム",
+      "desc": "ボリューム調整",
+      "descSub": "ドラッグで音量を調整"
+    },
+    "pause": {
+      "text": "一時停止",
+      "desc": "一時停止 Shift+Ctrl+C",
+      "descSub": "音声読み上げを一時停止"
+    },
+    "resume": {
+      "text": "再開",
+      "desc": "再開 Shift+Ctrl+C",
+      "descSub": "音声読み上げを再開"
+    }
+  },
+  "error": {
+    "document-not-openned": "開いている文書がないため、読み上げできません",
+    "permDenyCopyContent": "この文書からコンテンツをコピーする権限がありません。 "
+  }
+}

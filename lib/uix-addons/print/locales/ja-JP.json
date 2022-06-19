@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "閉じる",
+    "cancel": "キャンセル",
+    "ok": "OK",
+    "printDialog": {
+      "title": "印刷",
+      "range": "印刷範囲",
+      "selectedPDF": "選択した PDF ファイル",
+      "allPDF": "すべての PDF ファイル",
+      "all": "すべてのページ",
+      "current": "現在のページ",
+      "from": "開始",
+      "to": "終了",
+      "assign": "ページ",
+      "comments": "注釈",
+      "printComments": "注釈を印刷",
+      "moreOptions": "オプション設定",
+      "quality": "品質",
+      "pageSize": "用紙サイズ",
+      "headerAndFooter": "ヘッダーとフッター",
+      "alert": "画質が高くなるほど、ブラウザーのメモリを消費します。",
+      "printWhat": "印刷対象",
+      "reversePages": "逆順に印刷",
+      "doc": "文書",
+      "docMark": "文書と注釈",
+      "docStamps": "文書とスタンプ",
+      "formOnly": "フォームフィールドのみ",
+      "bleedMarks": "コーナートンボ"
+    },
+    "printProcess": "印刷中",
+    "unsupported": {
+      "title": "確認",
+      "message": "使用中のブラウザーは印刷をサポートしていません。"
+    }
+  },
+  "button-tooltip": {
+    "title": "印刷"
+  }
+}

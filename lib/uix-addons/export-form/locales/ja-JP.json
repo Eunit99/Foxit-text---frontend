@@ -1,0 +1,15 @@
+{
+  "ribbon": {
+    "text": "書き出し"
+  },
+  "button-tooltip": {
+    "title": "フォームデータの書き出し"
+  },
+  "export": {
+    "xml": "XML ファイル",
+    "fdf": "FDF ファイル",
+    "xfdf": "XFDF ファイル",
+    "csv": "CSV ファイル",
+    "txt": "TXT ファイル"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "page": "Pagina: ",
+  "separator": "di",
+  "pageNotFoundTip": "Non c'è una pagina numerata '{{target}}' in questo documento.",
+  "noPageSelected": "Nessuna pagina selezionata. Selezionare le opzioni appropriate.",
+  "sample": "Esempio: 1,5-9,12",
+  "sampleHintTitle": "Intervallo pagine",
+  "sampleHintDescription": "Per utilizzare il numero di pagina logico, racchiudere\nil numero di pagina tra virgolette. Esempio:\n\"A\". Se i numeri di pagina logici\nincludere virgolette o simboli di barra rovesciata,\naggiungere una '\\' prima della virgoletta o della\nbarra rovesciata. Esempio, da pagina \\5 a\npagina \"12\": \"\\\\5\" - \"\\\"12\\\"\""
+}

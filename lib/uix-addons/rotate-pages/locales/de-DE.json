@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "Seiten drehen",
+    "subTitle": "Seitenbereich",
+    "direction": "Suchrichtung",
+    "clockwise": "90 Grad im Uhrzeigersinn",
+    "counterClockwise": "90 Grad gegen den Uhrzeigersinn",
+    "allPage": "Alle Seiten",
+    "turning": "180 Grad",
+    "page": "Seite: ",
+    "pages": "Seiten",
+    "separator": "von",
+    "rotate": "Drehen: ",
+    "sample": "Beispiel: 1,5-9,12",
+    "sampleTips": "Seitenbereich\n\nSchließen Sie für die Verwendung einer logischen \nSeitenzahl die entsprechende Seitenzahl in \nAnführungszeichen ein. Beispiel: \"A\". \nWenn die logischen Seitenzahlen Anführungszeichen \noder umgekehrte Schrägstriche enthalten, fügen \nSie vor diesen '\\' hinzu. Beispiel: von Seite \\5 bis \nSeite \"12\": \"\\\\5\" - \"\\\"12\\\"\"",
+    "allPages": "Alle Seiten im Bereich",
+    "evenPages": "Nur gerade Seiten",
+    "oddPages": "Nur ungerade Seiten",
+    "landscape": "Seiten in Querformat",
+    "protrait": "Seiten in Hochformat",
+    "all": "Seiten in Quer- und Hochformat",
+    "errMessage": "Bitte gültigen Bereich eingeben",
+    "emptyMessage": "Geben Sie einen Bereich ein",
+    "noPageSelected": "Es ist keine Seite ausgewählt. Bitte wählen Sie entsprechende Optionen aus."
+  },
+  "button-tooltip": {
+    "title": "Drehen",
+    "tooltip": "Seiten drehen"
+  },
+  "rotate": {
+    "counterclockwise": "Links",
+    "clockwise": "Rechts",
+    "pages": "Mehrere Seiten drehen"
+  }
+}

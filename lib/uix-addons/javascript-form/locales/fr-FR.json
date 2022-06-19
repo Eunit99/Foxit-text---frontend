@@ -1,0 +1,72 @@
+{
+  "ribbon": {
+    "text": "JavaScript"
+  },
+  "button-tooltip": {
+    "title": "Ajouter, modifier et tester JavaScript dans ce document"
+  },
+  "document-javascript": {
+    "text": "Document JavaScript",
+    "title": "Ajouter et gérer des fonctions JavaScript",
+    "dialog": {
+      "title": "Fonctions JavaScript",
+      "name": "Nom du script",
+      "close": "Fermer",
+      "add": "Ajouter…",
+      "edit": "Éditer...",
+      "delete": "Supprimer"
+    }
+  },
+  "document-action": {
+    "text": "Action du document",
+    "title": "Modifier les actions de document JavaScript",
+    "dialog": {
+      "title": "Actions du document",
+      "name": "Lorsque cela se produit...",
+      "edit": "Éditer...",
+      "sub-name": "Exécuter ce JavaScript :",
+      "ok": "OK",
+      "cancel": "Annuler",
+      "doc-will-close": "Le document sera fermé",
+      "doc-will-save": "Le document sera enregistré",
+      "doc-did-save": "Le document a été enregistré",
+      "doc-did-saved": "Document enregistré",
+      "doc-will-print": "Le document sera imprimé",
+      "doc-did-print": "Le document a été imprimé",
+      "doc-did-printed": "Document imprimé",
+      "enable-tip": "JavaScript est actuellement désactivé et ce document l'utilise pour certaines fonctionnalités. L'activation de JavaScript peut entraîner d'éventuels risques de sécurité."
+    }
+  },
+  "javascript-console": {
+    "text": "Console JavaScript",
+    "title": "Exécuter et déboguer le code JavaScript",
+    "dialog": {
+      "title": "Console JavaScript",
+      "name": "Console JavaScript",
+      "run": "Exécuter",
+      "clear": "Effacer",
+      "close": "Fermer",
+      "exec": "Console : exec",
+      "fail": "Ligne :",
+      "success": "Il s'exécute correctement."
+    },
+    "checkbox": {
+      "info": "Afficher les conseils lors de l'édition"
+    }
+  },
+  "edit-all-javascript": {
+    "text": "Modifier tous les codes JavaScript",
+    "title": "Modifier tous les codes JavaScript dans le document",
+    "dialog": {
+      "title": "Éditeur JavaScript",
+      "sub-title": "Créer et modifier des codes JavaScript",
+      "ok": "OK",
+      "cancel": "Annuler",
+      "go": "Aller à...",
+      "ln": "Ln",
+      "col": "Col",
+      "go-title": "Aller à la ligne",
+      "go-sub-title": "Numéro de ligne :"
+    }
+  }
+}

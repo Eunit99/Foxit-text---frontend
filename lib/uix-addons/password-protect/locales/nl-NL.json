@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "Beveiligen met wachtwoord",
+    "PermissionTitle": "Instellingen voor machtiging",
+    "removeTitle": "Beveiliging verwijderen",
+    "inputOwnerPassword": "Voer het wachtwoord van de eigenaar in:"
+  },
+  "warning": {
+    "already-secured": "Het document is al beveiligd.\nWilt u de beveiliging van dit document wijzigen?",
+    "apply-to-document": "Beveiligingsinstellingen worden pas toegepast op het document als u het document opslaat. U kunt doorgaan met het wijzigen van de beveiligingsinstellingen tot u het document sluit.",
+    "incorrect-owner-pwd": "Het wachtwoord van de eigenaar is niet juist.",
+    "restriction-warn": "Bij sommige PDF-software die niet afkomstig is van Foxit kunnen de beperkingen die zijn ingesteld met behulp van het machtigingswachtwoord niet in acht worden genomen, zodat gebruikers deze beperkingen kunnen negeren.",
+    "reader-warn": "Als u teksttoegang voor schermlezerapparaten voor visueel gehandicapten uitschakelt, wordt dit document ontoegankelijk voor bepaalde gehandicapte gebruikers en is het niet conform toegankelijkheidswetgeving zoals Sectie 508 van de Amerikaanse overheid."
+  },
+  "error": {
+    "pwdLength": "Uw wachtwoord moet tussen 1 en 32 tekens bevatten",
+    "open-pwd-not-match": "De wachtwoorden voor het openen van het document komen niet overeen.",
+    "permission-pwd-not-match": "De wachtwoorden voor machtiging van het document komen niet overeen.",
+    "open-owner-pwd-cannot-same": "De wachtwoorden voor het openen van het document en de eigenaar kunnen niet hetzelfde zijn. Voer een ander wachtwoord in het veld wachtwoord voor openen of eigenaar.",
+    "admin-pwd-cannot-blank": "Het beheerderswachtwoord kan niet leeg zijn!"
+  },
+  "dialog": {
+    "Printing": "Afdrukken:",
+    "Accessiability": "Toegankelijkheid:",
+    "Copying": "Kopiëren:",
+    "Changes": "Wijzigingen:",
+    "Allowed": "Toegestaan",
+    "NotAllowed": "Niet toegestaan",
+    "permission": "Machtiging...",
+    "warn": "Waarschuwing:",
+    "error": "Fout:",
+    "doc-open-caption": "Instellingen voor openen van document",
+    "password-check-hint": "Een wachtwoord vereisen om het document te openen",
+    "password-label": "Wachtwoord invoeren:",
+    "password-confirm-label": "Wachtwoord bevestigen:",
+    "document-restriction-caption": "Instellingen voor documentbeperkingen",
+    "add-document-restriction": "Documentbeperking toevoegen",
+    "add-document-setting": "Afdrukken en bewerken van het document en de beveiligingsinstellingen beperken",
+    "permission-specific-caption": "Machtigingsspecificatie",
+    "permission-caption": "Machtigingen",
+    "printing-label": "Afdrukken toegestaan:",
+    "printing-none": "Geen",
+    "printing-low": "Lage resolutie (150 dpi)",
+    "printing-high": "Hoge resolutie",
+    "perm-access-label": "Teksttoegang inschakelen voor schermlezerapparaten voor visueel gehandicapten",
+    "perm-copy-label": "Kopiëren van tekst, afbeeldingen en andere inhoud inschakelen",
+    "perm-change-label": "Wijzigingen toegestaan:",
+    "perm-changes-none": "Geen",
+    "perm-changes-1": "Pagina's invoegen, verwijderen en draaien",
+    "perm-changes-2": "Formulieren invullen en bestaande handtekeningvelden ondertekenen",
+    "perm-changes-3": "Opmerkingen toevoegen, formulier invullen en bestaande handtekeningvelden ondertekenen",
+    "perm-changes-4": "Alles behalve pagina's extraheren",
+    "encrypt-caption": "Coderingsinstellingen",
+    "enc-alg-label": "Coderingsalgoritme:",
+    "enc-no-metadata": "Metagegevens niet coderen",
+    "ok": "OK",
+    "cancel": "Annuleren",
+    "remove": {
+      "confirmation": "Wilt u de beveiliging uit dit document verwijderen?"
+    },
+    "saveToPolicy": "De instellingen als een nieuw beleid opslaan"
+  },
+  "toolbar": {
+    "protect": {
+      "secureDocument": "Beveiligd document"
+    }
+  }
+}

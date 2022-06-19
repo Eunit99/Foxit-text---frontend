@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "Sluiten",
+    "cancel": "Annuleren",
+    "ok": "OK",
+    "printDialog": {
+      "title": "Afdrukken",
+      "range": "Afdrukbereik",
+      "selectedPDF": "Geselecteerde PDF-bestanden",
+      "allPDF": "Alle PDF-bestanden",
+      "all": "Alle pagina's",
+      "current": "Huidige pagina",
+      "from": "Pagina's vanaf",
+      "to": "tot en met",
+      "assign": "Pagina's",
+      "comments": "Opmerkingen",
+      "printComments": "Opmerkingen afdrukken",
+      "moreOptions": "Meer opties",
+      "quality": "Kwaliteit",
+      "pageSize": "Papierformaat",
+      "headerAndFooter": "Kop- en voetteksten",
+      "alert": "Resultaten van hoge kwaliteit in browsergeheugengebruik.",
+      "printWhat": "Wat afdrukken",
+      "reversePages": "Pagina's omkeren",
+      "doc": "Document",
+      "docMark": "Document en markeringen",
+      "docStamps": "Document en stempels",
+      "formOnly": "Alleen formuliervelden",
+      "bleedMarks": "Markeringen laten aflopen"
+    },
+    "printProcess": "Wordt afgedrukt",
+    "unsupported": {
+      "title": "Vragen",
+      "message": "Uw huidige browser ondersteunt afdrukken niet."
+    }
+  },
+  "button-tooltip": {
+    "title": "Afdrukken"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "manageComments": {
+    "text": "管理注釋"
+  },
+  "comments": {
+    "text": "註解"
+  },
+  "show-all": {
+    "text": "全部顯示",
+    "desc": "全部顯示 Ctrl+8",
+    "descSub": "顯示文件中的全部註解"
+  },
+  "hide-all": {
+    "text": "全部隱藏",
+    "desc": "全部隱藏 Ctrl+Shift+8",
+    "descSub": "隱藏文件中的全部注釋"
+  }
+}

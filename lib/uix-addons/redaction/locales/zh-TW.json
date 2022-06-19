@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "標記以供密文處理",
+    "redact_text_image": "標記文本和圖像",
+    "redact_area": "標記區域",
+    "redact_page": "標記頁面",
+    "redact_auto": "自動密文",
+    "redact_search": "尋找文字",
+    "apply": "套用",
+    "ok": "確定",
+    "cancel": "取消"
+  },
+  "tooltips": {
+    "redaction": "標記內容以供密文處理",
+    "apply": "永久移除標記的內容。",
+    "auto_redaction": "福昕智能密文\n\n 讓“福昕智能密文”自動密文您的文檔。"
+  },
+  "dialog": {
+    "apply_alert": "您將要永久刪除選取的被標記為密文的內容。選取「套用」後，此項操作將不可恢復。\n您確認要繼續嗎?\n重要提示！推薦您在套用密文之前保留該文件的備份副本。",
+    "redaction_page": {
+      "mark_current_page": "標記目前頁面以供密文處理",
+      "mark_specific_page": "標記選取的頁面以供密文處理",
+      "page_range": "頁面範圍"
+    },
+    "readaction_page_max": "最大值：",
+    "pageRange": "頁面範圍"
+  }
+}

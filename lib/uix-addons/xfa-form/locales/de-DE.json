@@ -1,0 +1,11 @@
+{
+  "tips": {
+    "xfa": "Statisches XFA-Formular bearbeiten"
+  },
+  "confirm": {
+    "title": "",
+    "content": "Dieses statische XFA-Formular enthält Komponenten, die beim Bearbeiten des Formulars verloren gehen. Speichern Sie eine Kopie Ihrer Originaldatei. Möchten Sie die Bearbeitung fortsetzen?",
+    "confirmButton": "Ja",
+    "cancelButton": "Nein"
+  }
+}

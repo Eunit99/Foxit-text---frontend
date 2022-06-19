@@ -1,0 +1,7 @@
+{
+  "fullscreen": "Full Screen",
+  "exit-fullscreen": "Exit Full Screen",
+  "contextmenu": "Full Screen",
+  "contextmenu-exit": "Exit Full Screen",
+  "browser-not-support": "The current browser does not support full screen operation."
+}

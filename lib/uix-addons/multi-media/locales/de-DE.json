@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "title": "Audio und Video"
+  },
+  "dialog": {
+    "RequireHTTPS": "Um fortzufahren, benötigen Sie für diese Audiofunktion HTTPS.",
+    "DeviceNotFoundError": "Mein Mikrofon.",
+    "TrackStartError": "Das Mikrofon wird bereits verwendet.",
+    "PermissionDeniedError": "Bitte überprüfen Sie Ihr Browser mit dem Mikrofon kompatibel ist.",
+    "BrowserNotSupported": "Browser nicht unterstützt.",
+    "chooseFile": "Datei auswählen",
+    "rec-file-label": "Datei: ",
+    "rec-recorder-label": "Recorder ",
+    "rec-recording-tip": "Aufnahme läuft ...",
+    "rec-poster-file-label": "Posterdatei: ",
+    "ok": "OK",
+    "cancel": "Abbrechen"
+  }
+}

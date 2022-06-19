@@ -1,0 +1,26 @@
+{
+  "name": "nginx-1.17.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "mkdir temp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^7.4.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}

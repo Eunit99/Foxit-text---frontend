@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "editFontWeight": "Grassetto",
+    "editFontItalic": "Corsivo",
+    "editFontColor": "Colore carattere",
+    "addText": "Aggiungi testo",
+    "underline": "Sottolineato",
+    "alignLeft": "Allinea a sinistra",
+    "alignCenter": "Allinea al centro",
+    "alignJustify": "Giustifica",
+    "wordSpacing": "Spaziatura delle parole",
+    "lineSpacing": "Interlinea",
+    "characterScale": "Scala dei caratteri"
+  },
+  "dropdowns": {
+    "editFontFamily": "Carattere",
+    "editFontSize": "Dimensione dei caratteri"
+  }
+}

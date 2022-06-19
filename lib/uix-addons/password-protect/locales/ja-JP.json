@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "パスワードによる保護",
+    "PermissionTitle": "アクセス許可の設定",
+    "removeTitle": "セキュリティの解除",
+    "inputOwnerPassword": "権限パスワードを入力:"
+  },
+  "warning": {
+    "already-secured": "文書は既に保護されています。\nこの文書のセキュリティを変更してもよろしいですか?",
+    "apply-to-document": "セキュリティ設定は文書を保存しなければ適用されません。セキュリティ設定の変更は、文書を閉じるまで続けることができます。",
+    "incorrect-owner-pwd": "権限パスワードが正しくありません。",
+    "restriction-warn": "他社の PDF ソフトウェアの中には規格に準拠せず、パスワード保護による操作の制限を無視するものがあるかもしれません。",
+    "reader-warn": "視覚障害者用のスクリーンリーダーデバイスのアクセス許可を無効にすると、米国リハビリテーション法 508 条などのアクセシビリティの規則に準拠しなくなり、一部のユーザーに対してこの文書の利便性を確保できなくなります。"
+  },
+  "error": {
+    "pwdLength": "パスワードは 1-32 文字の範囲でなければなりません",
+    "open-pwd-not-match": "文書を開くパスワードが一致しません!",
+    "permission-pwd-not-match": "文書の権限パスワードが一致しません!",
+    "open-owner-pwd-cannot-same": "文書を開くパスワードと権限パスワードは同じにはできません。文書を開くパスワードと権限パスワードには、それぞれ別のパスワードを入力してください。",
+    "admin-pwd-cannot-blank": "管理者パスワードは空にできません!"
+  },
+  "dialog": {
+    "Printing": "印刷:",
+    "Accessiability": "アクセス許可の設定:",
+    "Copying": "内容のコピー:",
+    "Changes": "文書の変更:",
+    "Allowed": "許可する",
+    "NotAllowed": "許可しない",
+    "permission": "アクセス許可...",
+    "warn": "警告:",
+    "error": "エラー:",
+    "doc-open-caption": "文書を開く設定",
+    "password-check-hint": "文書を開くときにパスワードを要求",
+    "password-label": "パスワードを入力:",
+    "password-confirm-label": "パスワードを確認:",
+    "document-restriction-caption": "文書の権限の設定",
+    "add-document-restriction": "文書の操作を制限",
+    "add-document-setting": "文書の印刷や編集を制限するセキュリティを設定",
+    "permission-specific-caption": "権限",
+    "permission-caption": "アクセス許可",
+    "printing-label": "印刷の許可:",
+    "printing-none": "許可しない",
+    "printing-low": "低解像度 (150 dpi)",
+    "printing-high": "高解像度",
+    "perm-access-label": "スクリーンリーダーデバイスのテキストアクセスを有効にする",
+    "perm-copy-label": "テキスト、画像、およびその他の内容のコピーを有効にする",
+    "perm-change-label": "変更の許可:",
+    "perm-changes-none": "許可しない",
+    "perm-changes-1": "ページの挿入、削除、回転",
+    "perm-changes-2": "フォームの入力と署名フィールドへの署名",
+    "perm-changes-3": "注釈の作成、フォームの入力と署名フィールドへの署名",
+    "perm-changes-4": "ページの抽出を除くすべての操作",
+    "encrypt-caption": "暗号化レベル",
+    "enc-alg-label": "暗号化アルゴリズム:",
+    "enc-no-metadata": "メタデータを暗号化しない",
+    "ok": "OK",
+    "cancel": "キャンセル",
+    "remove": {
+      "confirmation": "この文書からセキュリティ設定を削除してもよろしいですか?"
+    },
+    "saveToPolicy": "新しいポリシーとして設定を保存"
+  },
+  "toolbar": {
+    "protect": {
+      "secureDocument": "文書のセキュリティ設定"
+    }
+  }
+}

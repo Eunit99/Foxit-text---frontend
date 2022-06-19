@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "Ruota pagine",
+    "subTitle": "Intervallo pagine",
+    "direction": "Direzione",
+    "clockwise": "90 gradi in senso orario",
+    "counterClockwise": "90 gradi in senso antiorario",
+    "allPage": "Tutte le pagine",
+    "turning": "180 gradi",
+    "page": "Pagina: ",
+    "pages": "Pagine",
+    "separator": "di",
+    "rotate": "Ruota: ",
+    "sample": "Esempio: 1,5-9,12",
+    "sampleTips": "Intervallo di pagine\n\nPer utilizzare il numero di pagina logico, racchiudere\nil numero di pagina tra virgolette. Esempio:\n\"A\". Se i numeri di pagina logici\nincludono virgolette o simboli di barra rovesciata,\naggiungere una '\\' prima della virgoletta o della\nbarra rovesciata. Esempio, da pagina \\5 a\npagina \"12\": \"\\\\5\"-\"\\\"12\\\"\"",
+    "allPages": "Tutte le pagine nell'intervallo",
+    "evenPages": "Solo pagine pari",
+    "oddPages": "Solo pagine dispari",
+    "landscape": "Pagine orizzontali",
+    "protrait": "Pagine verticali",
+    "all": "Pagine orizzontali e verticali",
+    "errMessage": "Immetti un intervallo valido",
+    "emptyMessage": "Inserisci un intervallo",
+    "noPageSelected": "Nessuna pagina selezionata. Selezionare le opzioni appropriate."
+  },
+  "button-tooltip": {
+    "title": "Ruota",
+    "tooltip": "Ruota pagine"
+  },
+  "rotate": {
+    "counterclockwise": "Sinistra",
+    "clockwise": "Destra",
+    "pages": "Rotazione multipagina"
+  }
+}

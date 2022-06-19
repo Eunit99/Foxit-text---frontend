@@ -1,0 +1,11 @@
+{
+  "ribbon": {
+    "text": "Modulo in foglio di calcolo"
+  },
+  "button-tooltip": {
+    "title": "Esporta dati del modulo su foglio di calcolo"
+  },
+  "export": {
+    "existing": "Aggiungi a un foglio esistente"
+  }
+}

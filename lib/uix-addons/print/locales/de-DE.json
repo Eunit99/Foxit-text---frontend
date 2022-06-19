@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "Schließen",
+    "cancel": "Abbrechen",
+    "ok": "OK",
+    "printDialog": {
+      "title": "Drucken",
+      "range": "Druckbereich",
+      "selectedPDF": "Ausgewählte PDF-Dateien",
+      "allPDF": "Alle PDF-Dateien",
+      "all": "Alle Seiten",
+      "current": "Aktuelle Seite",
+      "from": "Seiten von",
+      "to": "bis",
+      "assign": "Seiten",
+      "comments": "Kommentare",
+      "printComments": "Druckanmerkungen",
+      "moreOptions": "Weitere Optionen",
+      "quality": "Qualität",
+      "pageSize": "Papiergröße",
+      "headerAndFooter": "Kopf- und Fußzeile",
+      "alert": "Eine sehr hohe Qualität führt zu einem hohen Arbeitsspeicherverbrauch des Browsers.",
+      "printWhat": "Druckbereich",
+      "reversePages": "Seiten umkehren",
+      "doc": "Dokument",
+      "docMark": "Dokument und Markierungen",
+      "docStamps": "Dokument und Stempel",
+      "formOnly": "Nur Formularfelder",
+      "bleedMarks": "Randanschnittsmarkierungen"
+    },
+    "printProcess": "Wird gedruckt",
+    "unsupported": {
+      "title": "Warnung",
+      "message": "Ihr aktueller Browser unterstützt keine Druckvorgänge."
+    }
+  },
+  "button-tooltip": {
+    "title": "Drucken"
+  }
+}

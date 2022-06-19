@@ -1,0 +1,69 @@
+{
+  "title": "頁面",
+  "tooltip": "檢視頁面縮圖並將頁面重新排序",
+  "removePageConfirm": "是否刪除這些頁面？該作業無法復原。",
+  "deletePageConfirm": "是否刪除這些頁面？該作業無法復原。",
+  "removePageAlert": "您不能刪除所有頁面。至少須保留一個頁面。",
+  "embedAllPageThumbnail": "您確定要在此文件中嵌入所有頁面縮圖?",
+  "removeEmbeddedPageThumbnail": "您確定要從文件中移除所有嵌入的頁面縮圖?",
+  "insertFailed": "無法插入到當前文檔中。 請稍後再試。",
+  "contextmenu": {
+    "copy": "複製",
+    "paste": "黏貼",
+    "enlarge": "放大頁面縮圖",
+    "reduce": "縮小頁面縮圖",
+    "embed": "嵌入所有頁面縮圖",
+    "removeEmbedded": "移除嵌入的頁面縮圖",
+    "rotateLeft": "90° 逆時針旋轉",
+    "rotateRight": "90° 順時針旋轉",
+    "addBlankPage": "插入空白頁",
+    "delete": "刪除頁面...",
+    "deletePage": "刪除頁面",
+    "duplicate": "重複頁面...",
+    "crop": "裁剪頁面...",
+    "rotate": "旋轉頁面...",
+    "extract": "擷取頁面...",
+    "swap": "交換頁面...",
+    "move": "移動頁面...",
+    "split": "拆分文件...",
+    "properties": "內容...",
+    "replace": "取代頁面...",
+    "formatNumbering": "頁碼格式...",
+    "pageTransitions": "頁面切換"
+  },
+  "pageHandleDialog": {
+    "preview": "預覽",
+    "showPreview": "顯示縮略圖",
+    "movePages": {
+      "title": "移動頁面",
+      "pageRange": {
+        "title": "頁面範圍",
+        "pages": "頁碼：",
+        "separator": "/",
+        "simple": "範例： 1,5-9,12",
+        "sampleTips": "範例： 1,5-9,12\n若要使用邏輯頁碼，請用引號括住頁碼。\n範例：\"A\"。如果邏輯頁碼包含引號或反\n斜線符號，請在引號或反斜線前面加上\n '\\'。例如，從第 \\5 頁到第 \"12\" \n頁：\"\\\\5\"-\"\\\"12\\\"\"",
+        "pageError": "請輸入有效數範圍。"
+      },
+      "destination": {
+        "title": "目標",
+        "beforePage": "頁面之前",
+        "afterPage": "頁面之後",
+        "beginningDocument": "文件開頭",
+        "endDocument": "文件結尾"
+      }
+    }
+  },
+  "loadingProgress": {
+    "embedding": "正在嵌入縮圖...",
+    "removing": "正在移除縮圖..."
+  },
+  "retry": {
+    "title": "檔案「${filename}」受保護。請輸入文件開啟密碼。",
+    "notSupport": "Foxit PDF Editor不支援此檔案格式。請直接開啟檔案，然後使用Foxit PDF Editor印表機列印。"
+  },
+  "zoom": {
+    "zoom-in": "放大",
+    "zoom-out": "縮小"
+  },
+  "pasteErrorAlertMsg": "開啟CopyPages_tmp.pdf文件時出錯。此檔案已損毀且無法修復。 "
+}

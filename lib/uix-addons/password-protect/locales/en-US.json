@@ -1,0 +1,68 @@
+{
+  "buttons": {
+    "title": "Password Protect",
+    "PermissionTitle":"Permission Settings",
+    "removeTitle": "Remove Security",
+    "inputOwnerPassword": "Please input owner password:"
+  },
+  "warning": {
+    "already-secured": "The document was already secured.\nAre you sure you want to change the security on this document?",
+    "apply-to-document": "Security settings will not be applied to the document until you save the document. You will be able to continue to change security settings until you close the document.",
+    "incorrect-owner-pwd": "The owner password is not correct.",
+    "restriction-warn":"Some non-Foxit PDF software may not enforce or respect the restrictions set by the Permissions Password, allowing users to ignore these restrictions.",
+    "reader-warn":"Disabling text access for screen reader devices for the visually impaired will make this document inaccessible to some disabled users and non-compliant with accessibility regulations such as US Government Section 508."
+  },
+  "error": {
+    "pwdLength": "Your password must be between 1 and 32 characters",
+    "open-pwd-not-match": "The document open passwords do not match!",
+    "permission-pwd-not-match": "The document permission passwords do not match!",
+    "open-owner-pwd-cannot-same": "The document open and owner passwords cannot be the same, please enter a different password in either the document open password field or the owner password field.",
+    "admin-pwd-cannot-blank": "The admin password can't be blank!"
+  },
+  "dialog": {
+    "Printing":"Printing:",
+    "Accessiability":"Accessibility:",
+    "Copying":"Copying:",
+    "Changes":"Changes:",
+    "Allowed":"Allowed",
+    "NotAllowed":"Not Allowed",
+    "permission":"Permission...",
+    "warn": "Warning:",
+    "error": "Error:",
+    "doc-open-caption": "Document Open Settings",
+    "password-check-hint": "Require a password to open the document",
+    "password-label": "Password Input:",
+    "password-confirm-label": "Password Confirm:",
+    "document-restriction-caption": "Document Restriction Settings",
+    "add-document-restriction": "Add Document Restriction",
+    "add-document-setting":"Restrict printing and editing of the document and its security settings",
+    "permission-specific-caption": "Permission Specification",
+    "permission-caption": "Permissions",
+    "printing-label": "Printing Allowed:",
+    "printing-none": "None",
+    "printing-low": "Low Resolution (150 dpi)",
+    "printing-high": "High Resolution",
+    "perm-access-label": "Enable text access for screen reader devices for the visually impaired",
+    "perm-copy-label": "Enable copying of text, images, and other content",
+    "perm-change-label": "Changes Allowed:",
+    "perm-changes-none": "None",
+    "perm-changes-1": "Inserting, deleting, and rotating pages",
+    "perm-changes-2": "Filling in forms and signing existing signature fields",
+    "perm-changes-3": "Commenting, filling form, signing existing signature fields",
+    "perm-changes-4": "Any except extracting pages",
+    "encrypt-caption": "Encrypt Settings",
+    "enc-alg-label": "Encryption Algorithm:",
+    "enc-no-metadata": "Don't encrypt metadata",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "remove": {
+      "confirmation": "Are you sure you want to remove security from this document?"
+    },
+    "saveToPolicy": "Save the settings as a new policy"
+  },
+  "toolbar": {
+    "protect":{
+        "secureDocument": "Secure Document"
+    }
+  }
+}

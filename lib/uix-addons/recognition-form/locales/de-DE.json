@@ -1,0 +1,21 @@
+{
+  "tips": {
+    "recognition": "Formularfelderkennung ausführen"
+  },
+  "dialog": {
+    "title": "Formularfelderkennung",
+    "content": "Ihr PDF-Formular wurde erstellt.\n\nBei der Erstellung hat Foxit möglicherweise Felder ausgelassen oder überschüssige Felder erstellt.\n\nValidieren Sie Felder und Feldnamen im Formular. Klicken Sie dazu in der Werkzeugleiste auf eine der Formularerkennungs-Schaltflächen, um Felder hinzuzufügen, und rechtsklicken Sie auf das Formular, um Felder zu bearbeiten oder zu löschen.",
+    "description": "1 = Feldname, 2 = Feld",
+    "notAgain": "Nicht mehr anzeigen"
+  },
+  "error": {
+    "title": "",
+    "noFields": "Es wurden keine neuen Formularfeld-Anmerkungen erkannt."
+  },
+  "quickRecognition": {
+    "alert": {
+      "content": "Foxit PDF Editor konnte keine Erkennung durchführen, da diese Seite darstellbaren Text enthält oder leer ist.",
+      "againText": "Zukünftige Fehler in diesem Dokument ignorieren"
+    }
+  }
+}

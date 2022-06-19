@@ -1,0 +1,7 @@
+{
+  "fullscreen": "フルスクリーン表示",
+  "exit-fullscreen": "フルスクリーン表示を終了",
+  "contextmenu": "フルスクリーン表示",
+  "contextmenu-exit": "フルスクリーン表示を終了",
+  "browser-not-support": "現在のブラウザーはフルスクリーンの操作をサポートしていません。"
+}

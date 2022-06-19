@@ -1,0 +1,26 @@
+{
+  "dialog": {
+    "title": "Modèles de page",
+    "close": "Fermer",
+    "add": "Ajouter",
+    "replace": "Remplacer",
+    "rename": "Renommer",
+    "delete": "Supprimer",
+    "goto": "Atteindre",
+    "name": "Nom : ",
+    "renameTitle": "Renommer le modèle",
+    "newName": "Nouveau nom : ",
+    "operateGuideTip": "Cliquez dans la zone à gauche du nom du modèle pour rendre un modèle visible ou invisible.",
+    "addTip": "Créer un modèle à partie de la page active ?",
+    "replaceTip": "Voulez-vous changer le modèle pour qu'il ressemble à la page actuelle ?",
+    "renameTip": "Voulez-vous changer le nom du modèle en cours ?",
+    "renameTip1": "Ce nom est déjà utilisé dans un autre modèle.",
+    "deleteTip": "Voulez-vous supprimer le modèle sélectionné ?",
+    "deleteTip1": "La suppression du modèle ne supprime pas la page du document en cours, mais seulement le modèle lui-même.",
+    "ok": "OK",
+    "cancel": "Annuler"
+  },
+  "button-tooltip": {
+    "title": "Modèle de page"
+  }
+}

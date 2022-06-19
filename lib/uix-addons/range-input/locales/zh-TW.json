@@ -1,0 +1,9 @@
+{
+  "page": "頁碼：",
+  "separator": "/",
+  "pageNotFoundTip": "此文件沒有第 \"{{target}}\" 頁。",
+  "noPageSelected": "未選取頁面。請選取適當的選項。",
+  "sample": "範例： 1,5-9,12",
+  "sampleHintTitle": "頁面範圍",
+  "sampleHintDescription": "若要使用邏輯頁碼，請在頁碼前後\n加上引號。範例： \"A\"。如果邏輯\n頁碼包含引號或反斜線符號，請在\n引號或反斜線前面加上「\\」。\n例如，第 \\5 頁到第 \"12\" 頁"
+}

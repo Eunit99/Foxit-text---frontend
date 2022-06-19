@@ -1,0 +1,21 @@
+{
+  "tips": {
+    "recognition": "執行表單欄位辨識"
+  },
+  "dialog": {
+    "title": "表單欄位辨識",
+    "content": "您的 PDF 表單已建立。\n\n建立過程中，Foxit 有可能會遺漏某些欄位或產生多餘的欄位。\n\n請驗證表單欄位和表單欄位名稱。您可以按一下工具列上的任何「表單欄位」按鈕新增更多欄位，並以滑鼠右鍵按一下表單以編輯或刪除欄位。",
+    "description": "1 = 欄位名稱，2 = 欄位",
+    "notAgain": "不要再顯示"
+  },
+  "error": {
+    "title": "",
+    "noFields": "沒有偵測到新的表單欄位註解。"
+  },
+  "quickRecognition": {
+    "alert": {
+      "content": "Foxit PDF Editor無法執行辨識，因為此頁面包含可轉譯的文字，或此頁面為空白。",
+      "againText": "忽略此文件中未來的錯誤"
+    }
+  }
+}

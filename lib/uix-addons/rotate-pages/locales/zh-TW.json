@@ -1,0 +1,35 @@
+{
+  "dialog": {
+    "title": "旋轉頁面",
+    "subTitle": "頁面範圍",
+    "direction": "方向",
+    "clockwise": "順時針 90 度",
+    "counterClockwise": "逆時針 90 度",
+    "allPage": "所有頁面",
+    "turning": "180 度",
+    "page": "頁碼：",
+    "pages": "頁面",
+    "separator": "/",
+    "rotate": "旋轉：",
+    "sample": "範例： 1,5-9,12",
+    "sampleTips": "頁面範圍\n\n若要使用邏輯頁碼，請在頁碼前後\n加上引號。範例： \"A\"。如果邏輯\n頁碼包含引號或反斜線符號，請在\n引號或反斜線前面加上「\\」。\n例如，第 \\5 頁到第 \"12\" 頁",
+    "allPages": "範圍內所有頁面",
+    "evenPages": "僅偶數頁",
+    "oddPages": "僅奇數頁",
+    "landscape": "橫向頁面",
+    "protrait": "直向頁面",
+    "all": "橫向及直向頁面",
+    "errMessage": "請輸入有效數範圍。",
+    "emptyMessage": "請輸入範圍",
+    "noPageSelected": "未選取頁面。請選取適當的選項。"
+  },
+  "button-tooltip": {
+    "title": "旋轉",
+    "tooltip": "旋轉頁面"
+  },
+  "rotate": {
+    "counterclockwise": "左",
+    "clockwise": "右",
+    "pages": "多頁旋轉"
+  }
+}

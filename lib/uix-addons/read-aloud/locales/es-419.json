@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "Leer",
+      "desc": "Leer el documento en voz alta"
+    },
+    "activate-read": {
+      "text": "Activar Leer",
+      "desc": "Activar Leer Shift+Ctrl+Y",
+      "descSub": "Activar Leer para habilitar la característica de lectura"
+    },
+    "deactivate-read": {
+      "text": "Desactivar Leer",
+      "desc": "Desactivar Leer Shift+Ctrl+Y",
+      "descSub": "Desactivar Leer para desactivar la característica de lectura"
+    },
+    "read-current-page": {
+      "text": "Leer página actual",
+      "desc": "Leer página actual Shift+Ctrl+V",
+      "descSub": "Leer texto solo de la página actual"
+    },
+    "read-from-current-page": {
+      "text": "Leer de la página actual",
+      "desc": "Leer de la página actual Shift+Ctrl+ B",
+      "descSub": "Leer texto desde la página actual hasta el final del documento"
+    },
+    "stop": {
+      "text": "Detener",
+      "desc": "Detener Shift+Ctrl+ E",
+      "descSub": "Detener lectura en voz alta"
+    },
+    "rate": {
+      "text": "Velocidad",
+      "desc": "Velocidad",
+      "descSub": "Arrastrar para ajustar la velocidad de lectura"
+    },
+    "volume": {
+      "text": "Volumen",
+      "desc": "Volumen",
+      "descSub": "Arrastrar para ajustar el volumen"
+    },
+    "pause": {
+      "text": "Pausar",
+      "desc": "Pausar Shift+Ctrl+C",
+      "descSub": "Pausar lectura en voz alta"
+    },
+    "resume": {
+      "text": "Continuar",
+      "desc": "Continuar Shift+Ctrl+C",
+      "descSub": "Reiniciar lectura en voz alta"
+    }
+  },
+  "error": {
+    "document-not-openned": "No se puede leer en voz alta porque no hay documento abierto",
+    "permDenyCopyContent": "No tiene permiso para copiar el contenido de este documento."
+  }
+}

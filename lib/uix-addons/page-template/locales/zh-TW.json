@@ -1,0 +1,26 @@
+{
+  "dialog": {
+    "title": "頁面範本",
+    "close": "關閉",
+    "add": "新增",
+    "replace": "替換",
+    "rename": "重新命名",
+    "delete": "刪除",
+    "goto": "前往",
+    "name": "名稱： ",
+    "renameTitle": "重新命名範本",
+    "newName": "新名稱： ",
+    "operateGuideTip": "在範本名稱左邊的區域內按一下，即可顯示或隱藏範本。",
+    "addTip": "要使用目前頁面建立新範本嗎?",
+    "replaceTip": "是否要變更範本以呈現目前頁面的外觀?",
+    "renameTip": "是否要變更目前範本的名稱?",
+    "renameTip1": "此名稱已在另一個範本中使用。",
+    "deleteTip": "是否要刪除選取的範本?",
+    "deleteTip1": "刪除範本並不會將頁面從目前文件中刪除，只會移除範本。",
+    "ok": "確定",
+    "cancel": "取消"
+  },
+  "button-tooltip": {
+    "title": "頁面範本"
+  }
+}

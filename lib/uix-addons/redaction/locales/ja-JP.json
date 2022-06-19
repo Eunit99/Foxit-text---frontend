@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "title": "墨消しとしてマーク",
+    "redact_text_image": "テキストと画像をマーク",
+    "redact_area": "領域をマーク",
+    "redact_page": "ページをマーク",
+    "redact_auto": "自動墨消し",
+    "redact_search": "テキストを検索してマーク",
+    "apply": "適用",
+    "ok": "OK",
+    "cancel": "キャンセル"
+  },
+  "tooltips": {
+    "redaction": "コンテンツを墨消しとしてマーク",
+    "apply": "マークしたコンテンツを恒久的に削除",
+    "auto_redaction": "Foxit 自動墨消し \n\n \"Foxit 自動墨消し\" により自動的に文書を墨消しできます。"
+  },
+  "dialog": {
+    "apply_alert": "墨消しとしてマークしたコンテンツを恒久的に削除しようとしています。「適用」を選択するとこの操作を元に戻すことができなくなります。\n続行してもよろしいですか?\n重要: 墨消しを適用する前に、この文書のバックアップコピーを保存することを推奨します。",
+    "redaction_page": {
+      "mark_current_page": "現在のページを墨消しとしてマーク",
+      "mark_specific_page": "選択したページを墨消しとしてマーク",
+      "page_range": "ページ範囲"
+    },
+    "readaction_page_max": "最大: ",
+    "pageRange": "ページ範囲"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dialog": {
+    "title": "页面模板",
+    "close": "关闭",
+    "add": "添加",
+    "replace": "替换",
+    "rename": "重命名",
+    "delete": "删除",
+    "goto": "转到",
+    "name": "名称",
+    "renameTitle": "重命名模板",
+    "newName": "新名称：",
+    "operateGuideTip": "点击模板名称左侧的区域，使模板可见或不可见。",
+    "addTip": "用当前页面创建新模板？",
+    "replaceTip": "您想要将该模板更改为当前页面样式？ ",
+    "renameTip": "您要更改当前模板的名称吗？",
+    "renameTip1": "此名称已经在另一个模板中使用。",
+    "deleteTip": "您要删除选定的模板吗？",
+    "deleteTip1": "您要删除所选模板吗？\n删除模板不会从当前文档中删除页面，仅移除模板。 ",
+    "ok": "确定",
+    "cancel": "取消"
+  },
+  "button-tooltip": {
+    "title": "页面模板"
+  }
+}

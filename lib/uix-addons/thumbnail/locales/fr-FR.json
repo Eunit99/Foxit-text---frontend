@@ -1,0 +1,69 @@
+{
+  "title": "Pages",
+  "tooltip": "Afficher les vignettes de page et réorganiser les pages",
+  "removePageConfirm": "Voulez-vous supprimer ces pages ? Cette opération ne peut pas être annulée.",
+  "deletePageConfirm": "Voulez-vous supprimer cette pages ? Cette opération ne peut pas être annulée.",
+  "removePageAlert": "Vous ne pouvez pas supprimer Toutes les pages. Il doit rester au moins une page",
+  "embedAllPageThumbnail": "Voulez-vous vraiment incorporer toutes les vignettes de page dans le document ?",
+  "removeEmbeddedPageThumbnail": "Voulez-vous vraiment supprimer toutes les vignettes de pages incorporées du document ?",
+  "insertFailed": "Échec de l'insertion dans le document actuel. Veuillez réessayer ultérieurement.",
+  "contextmenu": {
+    "copy": "Copier",
+    "paste": "Coller",
+    "enlarge": "Agrandir les vignettes de page",
+    "reduce": "Réduire les vignettes de page",
+    "embed": "Incorporer toutes les vignettes de page",
+    "removeEmbedded": "Supprimer les vignettes de page incorporées",
+    "rotateLeft": "Faire pivoter de 90° dans le sens anti-horaire",
+    "rotateRight": "Faire pivoter de 90° dans le sens horaire",
+    "addBlankPage": "Insérer une page vierge",
+    "delete": "Supprimer des pages...",
+    "deletePage": "Supprimer des pages",
+    "duplicate": "Dupliquer des pages...",
+    "crop": "Recadrer des pages...",
+    "rotate": "Faire pivoter des pages...",
+    "extract": "Extraire des pages...",
+    "swap": "Permuter des pages…",
+    "move": "Déplacer des pages...",
+    "split": "Scinder le document...",
+    "properties": "Propriétés…",
+    "replace": "Remplacer des pages...",
+    "formatNumbering": "Format des numéros de page...",
+    "pageTransitions": "Transitions de page"
+  },
+  "pageHandleDialog": {
+    "preview": "Aperçu",
+    "showPreview": "Afficher les vignettes",
+    "movePages": {
+      "title": "Déplacer des pages",
+      "pageRange": {
+        "title": "Plage de pages",
+        "pages": "Page : ",
+        "separator": "sur",
+        "simple": "Exemple : 1,5-9,12",
+        "sampleTips": "Plage de pages\n\nPour utiliser un numéro de page logique, placez\nle numéro de page entre guillemets. Exemple :\n\"A\". Si les numéros de page logiques\ncomprennent des guillemets ou une barre oblique inverse,\najoutez '\\' devant le guillemet ou\nla barre oblique. Exemple, de la page \\5 à\nla page \"12\" : \"\\\\5\"-\"\\\"12\\\"\"",
+        "pageError": "Entrez une plage valide"
+      },
+      "destination": {
+        "title": "Destination",
+        "beforePage": "Avant la page",
+        "afterPage": "Après la page",
+        "beginningDocument": "Début du document",
+        "endDocument": "Fin du document"
+      }
+    }
+  },
+  "loadingProgress": {
+    "embedding": "Incorporation des vignettes…",
+    "removing": "Suppression des vignettes…"
+  },
+  "retry": {
+    "title": "Le fichier « ${filename} » est protégé. Entrez le mot de passe d'ouverture du document.",
+    "notSupport": "Foxit PDF Editor ne prend pas en charge ce format de fichier. Ouvrez le fichier directement et imprimez-le à l'aide de Foxit PDF Editor Printer."
+  },
+  "zoom": {
+    "zoom-in": "Zoom avant",
+    "zoom-out": "Zoom arrière"
+  },
+  "pasteErrorAlertMsg": "Une erreur sest produite lors de l’ouverture de CopyPages_tmp.pdf. Ce fichier est endommagé et na pas pu être réparé."
+}

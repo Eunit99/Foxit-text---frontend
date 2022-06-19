@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "Fermer",
+    "cancel": "Annuler",
+    "ok": "OK",
+    "printDialog": {
+      "title": "Imprimer",
+      "range": "Étendue d'impression",
+      "selectedPDF": "Fichiers PDF sélectionnés",
+      "allPDF": "Tous les fichiers PDF",
+      "all": "Toutes les pages",
+      "current": "Page actuelle",
+      "from": "Pages de",
+      "to": "à",
+      "assign": "Pages",
+      "comments": "Commentaires",
+      "printComments": "Imprimer les commentaires",
+      "moreOptions": "Plus d'options",
+      "quality": "Qualité",
+      "pageSize": "Format de papier",
+      "headerAndFooter": "En têtes et pied de page",
+      "alert": "Une très haute qualité entraîne une consommation de la mémoire de navigateur",
+      "printWhat": "Élément à imprimer",
+      "reversePages": "Inverser les pages",
+      "doc": "Document",
+      "docMark": "Document et marquages",
+      "docStamps": "Document et tampons",
+      "formOnly": "Champs de formulaire uniquement",
+      "bleedMarks": "Marques de fond perdu"
+    },
+    "printProcess": "Imprimer",
+    "unsupported": {
+      "title": "Invite",
+      "message": "Votre navigateur actuel ne prend pas en charge l'impression."
+    }
+  },
+  "button-tooltip": {
+    "title": "Imprimer"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "labels": {
+    "toolbar": {
+      "open-file": "ファイル",
+      "selection": "選択",
+      "shape": "シェイプ",
+      "measurement": "計測",
+      "path-object": "パスオブジェクト"
+    },
+    "gotopage": "ページを設定",
+    "setzoom": "ズームを設定",
+    "set-font-size": "フォントサイズを設定",
+    "close-layer-btn": "ダイアログを閉じる",
+    "color-picker-item": "色: {{color}}",
+    "color-picker-remove-item": "色を削除: {{color}}",
+    "color-picker-transparent": "色: 透明",
+    "color-picker-removecolor": "色を削除",
+    "color-picker-add-color": "色を追加",
+    "color-picker-confirm-remove": "色の削除の確認",
+    "color-spectrum-hue": "色相: {{hue}}",
+    "commentlist": {
+      "group-title": "ページ: {{page}}, 計: {{count}}",
+      "comment": "{{type}}, ページ: {{page}} / {{author}}, {{content}}",
+      "reply": "{{type}}, ページ: {{page}} / {{replyAuthor}} から {{commentAuthor}}, {{content}}"
+    },
+    "field": {
+      "widget": "{{type}}, ページ {{page}}/ 名称: {{name}}"
+    },
+    "createInkSign": {
+      "strokeColor": "ストロークの色",
+      "brushSize": "ブラシのサイズ",
+      "eraser": "消しゴム",
+      "clear": "消去",
+      "preview": "プレビュー",
+      "unit": "{{unit}} ピクセル"
+    },
+    "createSignature": "署名を作成: {{index}}",
+    "deleteSignature": "署名を削除: {{index}}",
+    "no-color": "色なし",
+    "visibleBox": "表示",
+    "promptTitle": "確認",
+    "select": {
+      "selectedLabel": "選択中"
+    },
+    "prevMonth": "先月",
+    "nextMonth": "来月",
+    "PDF": {
+      "pageN": "PDF ページ, {{pageIndex}} / {{pageCount}}"
+    }
+  }
+}

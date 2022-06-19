@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "Cerrar",
+    "cancel": "Cancelar",
+    "ok": "Aceptar",
+    "printDialog": {
+      "title": "Imprimir",
+      "range": "Rango de impresión",
+      "selectedPDF": "Archivos PDF seleccionados",
+      "allPDF": "Todos los archivos PDF",
+      "all": "Todas las páginas",
+      "current": "Página actual",
+      "from": "Páginas desde",
+      "to": "hasta",
+      "assign": "Páginas",
+      "comments": "Comentarios",
+      "printComments": "Comentarios de impresión",
+      "moreOptions": "Más opciones",
+      "quality": "Calidad",
+      "pageSize": "Tamaño del papel",
+      "headerAndFooter": "Encabezados y pies de página",
+      "alert": "Una resolución muy alta resulta en consumo de memoria del navegador.",
+      "printWhat": "Imprimir",
+      "reversePages": "Invertir páginas",
+      "doc": "Documento",
+      "docMark": "Documento y marcado",
+      "docStamps": "Documento y sellos",
+      "formOnly": "Solo campos del formulario",
+      "bleedMarks": "Marcas de impresión a sangre"
+    },
+    "printProcess": "Impreso",
+    "unsupported": {
+      "title": "Aviso",
+      "message": "Su navegador actual ni permite imprimir."
+    }
+  },
+  "button-tooltip": {
+    "title": "Imprimir"
+  }
+}

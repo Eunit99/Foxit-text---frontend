@@ -1,0 +1,9 @@
+{
+  "page": "Page : ",
+  "separator": "sur",
+  "pageNotFoundTip": "Ce document ne contient pas de page portant le numéro '{{target}}'.",
+  "noPageSelected": "Aucune page n'est sélectionnée. Sélectionnez les options appropriées.",
+  "sample": "Exemple : 1,5-9,12",
+  "sampleHintTitle": "Plage de pages",
+  "sampleHintDescription": "Pour utiliser un numéro de page logique, placez \nle numéro de page entre guillemets. Exemple :\n\"A\". Si les numéros de page logiques \ncomprennent des guillemets ou une barre oblique inverse, \najoutez « \\ » devant ces symboles.\nExemple, de la page \\5 à la \npage \"12\" : \"\\\\5\"-\"\\\"12\\\"\""
+}

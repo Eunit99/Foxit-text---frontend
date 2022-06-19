@@ -1,0 +1,18 @@
+{
+  "manageComments": {
+    "text": "注釈の管理"
+  },
+  "comments": {
+    "text": "注釈"
+  },
+  "show-all": {
+    "text": "すべて表示",
+    "desc": "すべて表示 Ctrl+8",
+    "descSub": "文書の注釈をすべて表示"
+  },
+  "hide-all": {
+    "text": "すべて非表示",
+    "desc": "すべて非表示 Ctrl+Shift+8",
+    "descSub": "文書の注釈をすべて非表示"
+  }
+}

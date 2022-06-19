@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="30px" viewBox="0 0 100 30" enable-background="new 0 0 100 30" xml:space="preserve">
+<rect x="0" fill="#2E6DAD" width="100" height="30"/>
+<rect x="2.5" y="2.666" fill="#2E6DAD" stroke="#FFFFFF" stroke-width="1.2" width="95" height="25"/>
+<path fill="none" d="M16.12,7.791H7.385v15.26h11.578V10.438l-2.857-0.017L16.12,7.791z M17.294,19.521H9.138v-0.244h8.157V19.521z
+	 M17.355,17.514H9.199V17.27h8.157V17.514z M17.355,15.383H9.199v-0.244h8.157V15.383z M17.173,13.008v0.244H9.016v-0.244H17.173z"
+	/>
+<path fill="#FFFFFF" d="M18.963,10.027L18.963,10.027l-2.819-2.602h-2.207V7.424H7.385H7.019v0.367v15.26v0.365h0.366h11.578h0.366
+	v-0.365V10.365L18.963,10.027z M18.963,23.051H7.385V7.791h8.735l-0.014,2.631l2.857,0.017V23.051z"/>
+<rect x="9.016" y="13.008" fill="#FFFFFF" width="8.157" height="0.244"/>
+<rect x="9.199" y="15.139" fill="#FFFFFF" width="8.157" height="0.244"/>
+<rect x="9.199" y="17.27" fill="#FFFFFF" width="8.157" height="0.244"/>
+<rect x="9.138" y="19.277" fill="#FFFFFF" width="6.107" height="0.244"/>
+<rect x="7.348" y="7.73" fill="#FFFFFF" width="8.92" height="0.178"/>
+<rect x="7.52" y="22.902" fill="#FFFFFF" width="11.467" height="0.178"/>
+<rect x="7.352" y="7.907" fill="#FFFFFF" width="0.178" height="15.324"/>
+<rect x="18.797" y="10.275" fill="#FFFFFF" width="0.178" height="13.038"/>
+<g>
+	<g>
+		<polygon fill="#FFFFFF" points="17.218,21.095 20.734,16.781 19.859,16 16.361,20.231 14.219,18.406 13.453,19.359 16.112,21.575 
+			16.531,21.938 16.538,21.93 16.547,21.938 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 31.6665 19.333)" fill="#FFFFFF" font-family="'MicrosoftYaHei'" font-size="12">已完成</text>
+</svg>

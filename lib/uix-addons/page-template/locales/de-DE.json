@@ -1,0 +1,26 @@
+{
+  "dialog": {
+    "title": "Seitenvorlagen",
+    "close": "Schließen",
+    "add": "Hinzufügen",
+    "replace": "Ersetzen",
+    "rename": "Umbenennen",
+    "delete": "Löschen",
+    "goto": "Gehe zu",
+    "name": "Name: ",
+    "renameTitle": "Vorlage umbenennen",
+    "newName": "Neuer Name: ",
+    "operateGuideTip": "Klicken Sie in den Bereich links neben dem Vorlagenamen, um die Vorlage sichtbar bzw. unsichtbar zu machen.",
+    "addTip": "Neue Vorlage anhand der aktuellen Seite erstellen?",
+    "replaceTip": "Möchten Sie die Vorlage so ändern, dass sie wie die aktuelle Seite aussieht?",
+    "renameTip": "Möchten Sie den Namen der aktuellen Vorlage ändern?",
+    "renameTip1": "Dieser Name wird bereits für eine andere Vorlage verwendet.",
+    "deleteTip": "Möchten Sie die ausgewählte Vorlage löschen?",
+    "deleteTip1": "Wenn Sie die Vorlage löschen, wird die Seite nicht aus dem aktuellen Dokument gelöscht, sondern nur die Vorlage entfernt.",
+    "ok": "OK",
+    "cancel": "Abbrechen"
+  },
+  "button-tooltip": {
+    "title": "Seitenvorlage"
+  }
+}

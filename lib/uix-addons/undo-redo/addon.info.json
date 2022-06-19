@@ -1,0 +1,8 @@
+{
+    "library": "UndoRedoAddon",
+    "i18n": {},
+    "scripts": [],
+    "restrictions": {
+        "products": ["websdk", "online"]
+    }
+}

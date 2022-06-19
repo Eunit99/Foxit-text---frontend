@@ -1,0 +1,57 @@
+{
+  "read-aloud": {
+    "read": {
+      "text": "Lettura",
+      "desc": "Consente di leggere il documento ad alta voce"
+    },
+    "activate-read": {
+      "text": "Attiva lettura",
+      "desc": "Attiva Lettura Maiusc+Ctrl+Y",
+      "descSub": "Attiva la lettura per abilitare la funzionalità di lettura"
+    },
+    "deactivate-read": {
+      "text": "Disattiva lettura",
+      "desc": "Disattiva Lettura Maiusc+Ctrl+Y",
+      "descSub": "Disattiva Lettura per disabilitare la funzione di lettura"
+    },
+    "read-current-page": {
+      "text": "Leggi la pagina corrente",
+      "desc": "Leggi la pagina corrente Maiusc+Ctrl+V",
+      "descSub": "Leggi il testo solo nella pagina corrente"
+    },
+    "read-from-current-page": {
+      "text": "Leggi dalla pagina corrente",
+      "desc": "Leggi dalla pagina corrente Maiusc+Ctrl+B",
+      "descSub": "Leggi il testo dalla pagina corrente al termine del documento"
+    },
+    "stop": {
+      "text": "Interrompi",
+      "desc": "Stop Maiusc+Ctrl+E",
+      "descSub": "Interrompi lettura ad alta voce"
+    },
+    "rate": {
+      "text": "Velocità",
+      "desc": "Velocità",
+      "descSub": "Trascinare per regolare la velocità di lettura"
+    },
+    "volume": {
+      "text": "Volume",
+      "desc": "Volume",
+      "descSub": "Trascinare per regolare il volume"
+    },
+    "pause": {
+      "text": "Pausa",
+      "desc": "Pausa Maiusc+Ctrl+C",
+      "descSub": "Sospendi la lettura ad alta voce"
+    },
+    "resume": {
+      "text": "Riprendi",
+      "desc": "Riprendi Maiusc+Ctrl+C",
+      "descSub": "Riprendi la lettura ad alta voce"
+    }
+  },
+  "error": {
+    "document-not-openned": "Impossibile leggere ad alta voce perché non vi sono documenti aperti",
+    "permDenyCopyContent": "Non si dispone dell'autorizzazione per la copia del contenuto da questo documento."
+  }
+}

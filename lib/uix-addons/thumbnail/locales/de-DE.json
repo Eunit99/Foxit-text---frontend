@@ -1,0 +1,69 @@
+{
+  "title": "Seiten",
+  "tooltip": "Seitenminiaturbilder anzeigen und Seiten neu anordnen",
+  "removePageConfirm": "Möchten Sie diese Seiten löschen? Der Vorgang kann nicht rückgängig gemacht werden.",
+  "deletePageConfirm": "Möchten Sie diese Seite löschen? Der Vorgang kann nicht rückgängig gemacht werden.",
+  "removePageAlert": "Sie können nicht alle Seiten löschen. Mindestens eine Seite muss verbleiben",
+  "embedAllPageThumbnail": "Möchten Sie wirklich alle Seiten-Miniaturansichten in das Dokument einbetten?",
+  "removeEmbeddedPageThumbnail": "Möchten Sie wirklich alle eingebetteten Seiten-Miniaturansichten aus dem Dokument entfernen?",
+  "insertFailed": "Fehler beim Einfügen in das aktuelle Dokument. Bitte versuchen Sie es später erneut.",
+  "contextmenu": {
+    "copy": "Kopieren",
+    "paste": "Einfügen",
+    "enlarge": "Seitenminiaturbilder vergrößern",
+    "reduce": "Seitenminiaturbilder verkleinern",
+    "embed": "Alle Seiten-Miniaturbilder einbetten",
+    "removeEmbedded": "Eingebettete Seiten-Miniaturbilder entfernen",
+    "rotateLeft": "90° gegen den Uhrzeigersinn drehen",
+    "rotateRight": "90° im Uhrzeigersinn drehen",
+    "addBlankPage": "Leere Seite einfügen",
+    "delete": "Seiten löschen ...",
+    "deletePage": "Seite löschen",
+    "duplicate": "Seiten duplizieren ...",
+    "crop": "Seiten zuschneiden ...",
+    "rotate": "Seiten drehen ...",
+    "extract": "Seiten extrahieren ...",
+    "swap": "Seiten austauschen ...",
+    "move": "Seiten verschieben ...",
+    "split": "Dokument aufteilen ...",
+    "properties": "Eigenschaften ...",
+    "replace": "Seiten ersetzen ...",
+    "formatNumbering": "Seitenzahlen formatieren ...",
+    "pageTransitions": "Seitenübergänge"
+  },
+  "pageHandleDialog": {
+    "preview": "Vorschau",
+    "showPreview": "Miniaturbilder anzeigen",
+    "movePages": {
+      "title": "Seiten verschieben",
+      "pageRange": {
+        "title": "Seitenbereich",
+        "pages": "Seite: ",
+        "separator": "von",
+        "simple": "Beispiel: 1,5-9,12",
+        "sampleTips": "Seitenbereich\n\nSchließen Sie für die Verwendung einer logischen Seitenzahl die\nentsprechende Seitenzahl in Anführungszeichen ein. Beispiel:\n\"A\". Wenn die logischen Seitenzahlen\nAnführungszeichen oder umgekehrte Schrägstriche\nenthalten, fügen Sie vor diesen '\\' hinzu.\nBeispiel: von Seite \\5 bis\nSeite \"12\":\"\\\\5\"-\"\\\"12\\\"\"",
+        "pageError": "Bitte gültigen Bereich eingeben"
+      },
+      "destination": {
+        "title": "Ziel",
+        "beforePage": "Vor Seite",
+        "afterPage": "Nach Seite",
+        "beginningDocument": "Dokumentanfang",
+        "endDocument": "Dokumentende"
+      }
+    }
+  },
+  "loadingProgress": {
+    "embedding": "Miniaturansichten werden eingebettet ...",
+    "removing": "Miniaturansichten werden entfernt ..."
+  },
+  "retry": {
+    "title": "Die Datei „${filename}“ ist geschützt. Geben Sie das Kennwort zum Öffnen des Dokuments ein.",
+    "notSupport": "Foxit PDF Editor unterstützt dieses Dateiformat nicht. Öffnen Sie die Datei direkt und drucken Sie sie mit dem Foxit PDF Editor-Drucker."
+  },
+  "zoom": {
+    "zoom-in": "Vergrößern",
+    "zoom-out": "Verkleinern"
+  },
+  "pasteErrorAlertMsg": "Fehler beim Öffnen von CopyPages_tmp.pdf: Die Datei ist beschädigt und konnte nicht repariert werden."
+}

@@ -1,0 +1,162 @@
+{
+  "searchbar": {
+    "input": {
+      "findOptions": "Suchoptionen",
+      "searchFeatures": "Suchfunktionen",
+      "placeholder": "Suchen"
+    },
+    "basicOption": {
+      "wholeWordOnly": "Nur ganze Wörter",
+      "caseSensitive": "Groß-/Kleinschreibung beachten",
+      "includeBookmark": "Lesezeichen einbeziehen",
+      "includeComments": "Kommentare einschließen",
+      "highlight": "Gesamten Text hervorheben",
+      "properties": "Eigenschaften"
+    },
+    "prop": {
+      "ok": "OK",
+      "cancel": "Abbrechen",
+      "title": "Eigenschaften",
+      "intro": "Darstellung des Suchergebnisses:",
+      "color": "Farbe:",
+      "opacity": "Deckkraft:"
+    },
+    "searchType": {
+      "advanced": "Erweiterte Suche",
+      "replace": "Suchen und Ersetzen",
+      "redact": "Suchen und schwärzen",
+      "highlight": "Suchen und hervorheben"
+    }
+  },
+  "noMore": "Durchsuchen abgeschlossen. Keine weiteren Übereinstimmungen gefunden.",
+  "searchPanel": {
+    "mode": {
+      "exact": "Exakte Übereinstimmung von Wort oder Satz",
+      "any": "Übereinstimmung eines oder mehrerer Wörter",
+      "pattern": "Suchmuster \"Ähnlich wie\"",
+      "multiple": "Mehrere Wörter oder Ausdruck",
+      "profile": "Schwärzungsprofile"
+    },
+    "pattern": {
+      "select": "Muster auswählen",
+      "phone": "Telefonnummer",
+      "date": "Datum",
+      "security": "Sozialversicherungsnummer",
+      "email": "E-Mail-Adresse",
+      "credit": "Kreditkartennummer",
+      "bank": "Internationale Bankkontonummer",
+      "driving": "Führerscheinnummer"
+    },
+    "text": {
+      "wordOrPhrase": "Nach welchem Wort oder Ausdruck möchten Sie suchen?",
+      "searching": "Suchen",
+      "country": "Land/Region",
+      "selectProfile": "Vorhandenes Profil auswählen",
+      "or": "oder",
+      "newWord": "Neues Wort oder neuer Ausdruck:",
+      "list": "Liste der Wörter und Ausdrücke:",
+      "profileList": "Profilliste",
+      "profileName": "Profilname:",
+      "overlayText": "Überlagerungstext:",
+      "wordOverlayList": "Wort/Ausdruck und Überlagerungstextliste:",
+      "lookingFor": "Suchen nach:",
+      "lookingWordRes": "${1} im aktuellen Dokument",
+      "lookingMulRes": "Mehrere Ausdrücke im aktuellen Dokument",
+      "lookingPatternRes": "${1} im aktuellen Dokument",
+      "results": "Ergebnisse:",
+      "resultCount": "${2} Dokument(e) mit ${1} Instanz(en)",
+      "markOptions": "Markierungsoptionen für Schwärzung",
+      "markByPos": "${} Zeichen von ${} für Schwärzung markieren",
+      "markByCount": "Von ${} Zeichen bis ${} Zeichen für Schwärzung markieren",
+      "profileHeader": "Wort/Ausdruck",
+      "resultMetaData": "${1} Instanz(en) in Metadata"
+    },
+    "options": {
+      "wholeWordsOnly": "Nur ganze Wörter",
+      "caseSensitive": "Groß-/Kleinschreibung beachten",
+      "includeBookmarks": "Lesezeichen einbeziehen",
+      "includeComments": "Kommentare einschließen",
+      "includeAttachments": "Anhänge einbeziehen",
+      "stemming": "Wortstammerkennung",
+      "highlight": "Gesamten Text hervorheben",
+      "autoSize": "Textgröße automatisch an den Schwärzungsbereich anpassen",
+      "beginning": "Anfang",
+      "end": "Ende"
+    },
+    "button": {
+      "more": "Mehr >>",
+      "less": "Weniger >>",
+      "search": "Suchen",
+      "selectWords": "Wörter auswählen ...",
+      "selectProfile": "Auswählen ...",
+      "manage": "Verwalten",
+      "create": "Erstellen",
+      "add": "Hinzufügen",
+      "remove": "Entfernen",
+      "import": "Importieren ...",
+      "export": "Exportieren ...",
+      "edit": "Bearbeiten",
+      "delete": "Löschen",
+      "close": "Schließen",
+      "importProfile": "Importieren",
+      "exportProfile": "Exportieren",
+      "save": "Speichern",
+      "saveAndSearch": "Speichern & Suchen",
+      "cancel": "Abbrechen",
+      "newSearch": "Neue Suche",
+      "checkAll": "Alles auswählen",
+      "markRedaction": "Ausgew. Ergebn. für Schwärzg. mark.",
+      "applyRedaction": "Schwärzungen anwenden",
+      "markWholeWord": "Ganze Wörter für Schwärzung markieren",
+      "markPartialWord": "Teilwörter für Schwärzung markieren",
+      "setting": "Einstellungen ...",
+      "loadMore": "Mehr",
+      "text-highlight": "Text hervorheben"
+    },
+    "country": {
+      "Brazil": "Brasilien",
+      "Canada": "Kanada",
+      "China": "China",
+      "Denmark": "Dänemark",
+      "Finland": "Finnland",
+      "France": "Frankreich",
+      "Germany": "Deutschland",
+      "Hong Kong/Taiwan": "Hongkong/Taiwan",
+      "Iceland": "Island",
+      "Ireland": "Irland",
+      "Japan": "Japan",
+      "Korea": "Korea",
+      "Norway": "Norwegen",
+      "Spain": "Spanien",
+      "Sweden": "Schweden",
+      "Turkey": "Türkei",
+      "United Kingdom": "Vereinigtes Königreich",
+      "United States": "USA"
+    },
+    "dialog": {
+      "selectWord": "Zu suchende Wörter und Ausdrücke & Text entfernen",
+      "manageProfile": "Profile verwalten",
+      "createProfile": "Neues Profil erstellen",
+      "partialRedaction": "Einstellungen",
+      "modified": "Dieses Dokument wurde geändert. Daher ist das Suchergebnis ungültig. \n\nMöchten Sie die Suche erneut ausführen?",
+      "noModifyPerm": "Sie verfügen nicht über die Berechtigungen zum Anwenden der Schwärzung auf den markierten Inhalt. ",
+      "existInHide": "Das Ergebnis lag auf einer Ebene vor, die zurzeit nicht sichtbar ist. Möchten Sie die Ebene jetzt sichtbar machen?"
+    },
+    "table": {
+      "wordPhrase": "Wort/Ausdruck",
+      "overlayText": "Überlagerungstext"
+    },
+    "csv": {
+      "results": "Suchergebnisse",
+      "summary": "Zusammenfassung",
+      "savedOn": "Gespeichert am",
+      "search": "Gesucht wurde nach",
+      "count": "Anzahl der gefundenen Instanzen",
+      "fileName": "Dateiname",
+      "title": "Titel",
+      "page": "Seite",
+      "searchInstance": "Instanz suchen",
+      "metadata": "Dokumentmetadaten"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dialog": {
+    "title": "Paginasjablonen",
+    "close": "Sluiten",
+    "add": "Toevoegen",
+    "replace": "Vervangen",
+    "rename": "Naam wijzigen",
+    "delete": "Verwijderen",
+    "goto": "Ga naar",
+    "name": "Naam: ",
+    "renameTitle": "Sjabloon nieuwe naam geven",
+    "newName": "Nieuwe naam: ",
+    "operateGuideTip": "Klik in het gedeelte aan de linkerzijde van de sjabloonnaam om een sjabloon zichtbaar of onzichtbaar te maken.",
+    "addTip": "Wilt u een nieuwe sjabloon maken met behulp van de huidige pagina?",
+    "replaceTip": "Wilt u de sjabloon zodanig aanpassen dat deze op de huidige pagina lijkt?",
+    "renameTip": "Wilt u de naam van de huidige sjabloon wijzigen?",
+    "renameTip1": "Deze naam wordt al gebruikt door een andere sjabloon.",
+    "deleteTip": "Wilt u de geselecteerde sjabloon verwijderen?",
+    "deleteTip1": "Als u de sjabloon verwijdert, wordt niet alleen de pagina uit het huidige document verwijderd, maar wordt ook de sjabloon verwijderd.",
+    "ok": "OK",
+    "cancel": "Annuleren"
+  },
+  "button-tooltip": {
+    "title": "Paginasjabloon"
+  }
+}

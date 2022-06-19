@@ -1,0 +1,21 @@
+{
+  "tips": {
+    "recognition": "Avvia riconoscimento campo del modulo"
+  },
+  "dialog": {
+    "title": "Riconoscimento campo modulo",
+    "content": "Il modulo PDF è stato creato.\n\nDurante la creazione, Foxit potrebbe aver perso alcuni campi o creato campi estranei.\n\nVerifica i campi e i nomi dei campi nel modulo. Puoi cliccare su uno qualsiasi dei pulsanti Campi modulo sulla barra degli strumenti per aggiungere altri campi e fare clic con il tasto destro del mouse sul modulo per modificare o eliminare i campi.",
+    "description": "1 = Nome campo, 2 = Campo",
+    "notAgain": "Non visualizzare più"
+  },
+  "error": {
+    "title": "",
+    "noFields": "Non è stata rilevata alcuna nuova annotazione dei campi del modulo."
+  },
+  "quickRecognition": {
+    "alert": {
+      "content": "Foxit PDF Editor non ha potuto eseguire il riconoscimento perché questa pagina contiene testo renderizzabile o questa pagina è vuota.",
+      "againText": "Ignora errori futuri in questo documento"
+    }
+  }
+}

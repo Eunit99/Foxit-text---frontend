@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="30px" viewBox="0 0 100 30" enable-background="new 0 0 100 30" xml:space="preserve">
+<rect x="0.001" fill="#CD4C32" width="99.999" height="30"/>
+<rect x="2.5" y="2.666" fill="#CD4C32" width="95" height="25"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="100" height="30"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect x="2.5" y="2.666" clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="1.3" width="95" height="25"/>
+</g>
+<rect x="22.872" y="14.076" transform="matrix(0.6916 0.7223 -0.7223 0.6916 20.2926 -16.6992)" fill="#FFFFFF" width="13.656" height="2.672"/>
+<rect x="22.575" y="14.076" transform="matrix(-0.6916 0.7223 -0.7223 -0.6916 60.8692 4.8315)" fill="#FFFFFF" width="13.656" height="2.672"/>
+<g>
+	<path fill="#FFFFFF" d="M52.749,11.125l-3.334,9.076h-1.301l-3.27-9.076h1.301l2.443,7.096c0.082,0.234,0.143,0.506,0.182,0.814
+		H48.8c0.031-0.27,0.1-0.545,0.205-0.826l2.49-7.084H52.749z"/>
+	<path fill="#FFFFFF" d="M52.624,15.771c0-1.465,0.396-2.631,1.189-3.498s1.867-1.301,3.223-1.301c1.262,0,2.277,0.424,3.047,1.271
+		s1.154,1.951,1.154,3.311c0,1.473-0.395,2.641-1.184,3.504s-1.844,1.295-3.164,1.295c-1.289,0-2.322-0.424-3.1-1.271
+		S52.624,17.131,52.624,15.771z M53.854,15.678c0,1.098,0.28,1.978,0.841,2.64s1.292,0.993,2.194,0.993
+		c0.969,0,1.729-0.317,2.282-0.952s0.829-1.522,0.829-2.663c0-1.172-0.271-2.076-0.812-2.713s-1.282-0.955-2.224-0.955
+		c-0.926,0-1.676,0.336-2.25,1.008S53.854,14.588,53.854,15.678z"/>
+	<path fill="#FFFFFF" d="M64.161,11.125v9.076h-1.172v-9.076H64.161z"/>
+	<path fill="#FFFFFF" d="M66.517,20.201v-9.076h2.59c1.375,0,2.519,0.4,3.431,1.201s1.368,1.875,1.368,3.223
+		c0,1.406-0.456,2.533-1.368,3.381s-2.087,1.271-3.524,1.271H66.517z M67.688,12.168v6.996h1.318c1.152,0,2.052-0.314,2.698-0.943
+		s0.97-1.51,0.97-2.643s-0.332-1.984-0.996-2.555s-1.537-0.855-2.619-0.855H67.688z"/>
+</g>
+</svg>

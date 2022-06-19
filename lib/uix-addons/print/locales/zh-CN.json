@@ -1,0 +1,40 @@
+{
+  "dialog": {
+    "close": "关闭",
+    "cancel": "取消",
+    "ok": "确定",
+    "printDialog": {
+      "title": "打印",
+      "range": "打印范围",
+      "selectedPDF": "选择的PDF文件",
+      "allPDF": "所有PDF文件",
+      "all": "所有页面",
+      "current": "当前页面",
+      "from": "从页面",
+      "to": "到",
+      "assign": "页",
+      "comments": "注释",
+      "printComments": "打印注释",
+      "moreOptions": "更多选项",
+      "quality": "质量",
+      "pageSize": "页面大小",
+      "headerAndFooter": "页眉和页脚",
+      "alert": "选择“高质量”可能会导致浏览器内存消耗过大。",
+      "printWhat": "打印内容",
+      "reversePages": "逆页序",
+      "doc": "文档",
+      "docMark": "文档和标注",
+      "docStamps": "文档和图章",
+      "formOnly": "仅表单域",
+      "bleedMarks": "出血标记"
+    },
+    "printProcess": "打印中",
+    "unsupported": {
+      "title": "提示",
+      "message": "您当前的浏览器不支持打印功能"
+    }
+  },
+  "button-tooltip": {
+    "title": "打印"
+  }
+}

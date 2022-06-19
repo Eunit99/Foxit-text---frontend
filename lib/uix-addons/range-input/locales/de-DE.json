@@ -1,0 +1,9 @@
+{
+  "page": "Seite: ",
+  "separator": "von",
+  "pageNotFoundTip": "In diesem Dokument ist keine Seite mit der Nummer '{{target}}' vorhanden.",
+  "noPageSelected": "Es ist keine Seite ausgewählt. Bitte wählen Sie entsprechende Optionen aus.",
+  "sample": "Beispiel: 1,5-9,12",
+  "sampleHintTitle": "Seitenbereich",
+  "sampleHintDescription": "Schließen Sie für die Verwendung einer \nlogischen Seitenzahl die entsprechende \nSeitenzahl in Anführungszeichen ein. \nBeispiel: \"A\". Wenn die logischen Seitenzahlen \nAnführungszeichen oder umgekehrte \nSchrägstriche enthalten, fügen Sie vor diesen '\\' hinzu. \nBeispiel: von Seite \\5 bis Seite \"12\" : \"\\\\5\" - \"\\\"12\\\"\""
+}

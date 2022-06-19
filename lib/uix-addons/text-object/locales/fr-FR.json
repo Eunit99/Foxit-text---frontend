@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "editFontWeight": "Gras",
+    "editFontItalic": "Italique",
+    "editFontColor": "Couleur de police",
+    "addText": "Ajouter du texte",
+    "underline": "Souligner",
+    "alignLeft": "Aligner à gauche",
+    "alignCenter": "Aligner au centre",
+    "alignJustify": "Justifier",
+    "wordSpacing": "Espacement des mots",
+    "lineSpacing": "Interligne",
+    "characterScale": "Échelle caractère"
+  },
+  "dropdowns": {
+    "editFontFamily": "Police",
+    "editFontSize": "Taille de police"
+  }
+}
