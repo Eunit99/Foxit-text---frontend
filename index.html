@@ -41,7 +41,7 @@
 			});
 
 			// modify the file path as your need.
-			fetch('/FoxitPDFSDKforWeb_DemoGuide.pdf').then(function (response) {
+			fetch('/sample_PDF.pdf').then(function (response) {
 				response.arrayBuffer().then(function (buffer) {
 					pdfui.openPDFByFile(buffer);
 				})
