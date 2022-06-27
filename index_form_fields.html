@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foxit PDF SDK - Form Fields Example</title>
+    <link rel="stylesheet" type="text/css" href="./lib/UIExtension.css">
+  </head>
+
+   <body>
+    <div id="pdf-viewer"></div>
+    <script src="./js/license-key.js"></script>
+    <!-- Add PATH to license key here -->
+    <script src="./lib/PDFViewCtrl.full.js"></script>
+    <!-- Add PATH to PDFViewCtrl.full.js -->
+
+    <script>
+        window.$ = PDFViewCtrl.jQuery;
+        let IStateHandler = PDFViewCtrl.IStateHandler;
+        var PDFViewer = PDFViewCtrl.PDFViewer;
+        var pdfViewer = new PDFViewer({
+            libPath: './lib',
+            // Add PATH to lib
+            jr:  {
+                licenseSN: licenseSN,
+                licenseKey: licenseKey,
+            }
+        });
+        pdfViewer.init('#pdf-viewer');
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', './sample_PDF.pdf', true);
+        xhr.responseType = 'blob';
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState !== 4) {
+                return;
+            }
+            var status = xhr.status;
+            if ((status >= 200 && status < 300) || status === 304) {
+                pdfViewer.openPDFByFile(xhr.response);
+            }
+        };
+        xhr.send();
+        var FieldTypes = PDFViewCtrl.PDF.form.constant.Field_Type;
+        var formfiledsJson = [{
+            pageIndex: 0, fieldName: 'newPushButton', fieldType: FieldTypes.PushButton, rect: {
+                left: 100,
+                right: 150,
+                top: 530,
+                bottom: 500,
+            }
+        },
+        {
+            pageIndex: 0, fieldName: 'newCheckBox', fieldType: FieldTypes.CheckBox, rect: {
+                left: 200,
+                right: 250,
+                top: 530,
+                bottom: 500,
+            }
+        },
+        {
+            pageIndex: 0, fieldName: 'newRadioButton', fieldType: FieldTypes.RadioButton, rect: {
+                left: 300,
+                right: 380,
+                top: 530,
+                bottom: 500,
+            }
+        },
+        {
+            pageIndex: 0, fieldName: 'newComboBox', fieldType: FieldTypes.ComboBox, rect: {
+                left: 400,
+                right: 460,
+                top: 530,
+                bottom: 500,
+            }
+        },
+        {
+            pageIndex: 0, fieldName: 'newListBox', fieldType: FieldTypes.ListBox, rect: {
+                left: 500,
+                right: 560,
+                top: 530,
+                bottom: 430,
+            }
+        },
+        {
+            pageIndex: 0, fieldName: 'newText', fieldType: FieldTypes.Text, rect: {
+                left: 600,
+                right: 660,
+                top: 530,
+                bottom: 500,
+            }
+        }];
+        pdfViewer.getEventEmitter().on(PDFViewCtrl.Events.openFileSuccess, function (PDFDoc) {
+            PDFDoc.loadPDFForm().then(function (PDFForm) {
+                PDFDoc.getPDFForm();
+                var taskList = []
+                formfiledsJson.map(function (json) {
+                    //PDFForm.addControl()  will create field if no field with same name exists.
+                    taskList.push(PDFForm.addControl(json.pageIndex, json.fieldName, json.fieldType, json.rect));
+                });
+                Promise.all(taskList).then(function (results) {
+                    results.map(function (result,index) {
+                        if(!result){
+                            console.error("can't add control");
+                            return;
+                        }
+                        var field = PDFForm.getField(formfiledsJson[index].fieldName)
+                        // set field's properties (refer to api documents):
+                        field.setAction (type, data)
+                        field.setAlignment (alignment)
+                        field.setBorderColor (borderColor)
+                        field.setBorderStyle (strStyle)
+                        field.setFillColor (fillColor)
+                        field.setMaxLength (maxLength)
+                        if (field.getType() == FieldTypes.ComboBox ||
+                            field.getType() == FieldTypes.ListBox
+                        ) {
+                            field.setOptions([
+                                { label: '10', value: '10', selected: true, defaultSelected: true },
+                                { label: '20', value: '20', selected: false, defaultSelected: false },
+                                { label: '30', value: '30', selected: false, defaultSelected: false },
+                                { label: '40', value: '40', selected: false, defaultSelected: false }]);
+                        }
+                        // field.setValue (value='', control=null)
+                    })
+                });
+            })
+        })
+    </script>
+</body>
+
+</html>
